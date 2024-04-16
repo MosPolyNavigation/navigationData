@@ -1,0 +1,247 @@
+<svg width="3055" height="1105" viewBox="0 0 3055 1105" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="N-3" clip-path="url(#clip0_2013_381)">
+<g id="Spaces">
+<rect id="!n-3-4" x="1740" y="150" width="110" height="110" fill="#3B3C41"/>
+<rect id="!n-3-3" x="1630" y="150" width="110" height="110" fill="#3B3C41"/>
+<rect id="!n-3-2" x="530" y="140" width="100" height="120" fill="#3B3C41"/>
+<rect id="!n-3-1" x="430" y="140" width="100" height="120" fill="#3B3C41"/>
+<rect id="n-3-wcw-1" opacity="0.2" x="1210" y="5" width="160" height="255" fill="#F783CB"/>
+<rect id="n-3-wcm-1" opacity="0.2" x="1370" y="5" width="160" height="255" fill="#9CBBFF"/>
+<path id="n-3-stair-2" opacity="0.2" d="M1530 5H1850V150H1630V260H1530V5Z" fill="#9CD9BC"/>
+<path id="n-3-stair-3" opacity="0.2" d="M330 5H630V140H430V260H330V5Z" fill="#9CD9BC"/>
+<rect id="n-3-lift-3" opacity="0.2" x="2973" y="170" width="77" height="90" fill="#A091F8"/>
+<rect id="n-3-lift-2" opacity="0.2" x="2897" y="170" width="76" height="90" fill="#A091F8"/>
+<rect id="n-3-lift-1" opacity="0.2" x="2820" y="170" width="77" height="90" fill="#A091F8"/>
+<rect id="n-327" x="2410" y="350" width="330" height="110" fill="#3B3C41"/>
+<rect id="n-326" x="2280" y="350" width="130" height="110" fill="#3B3C41"/>
+<rect id="n-325" x="2150" y="350" width="130" height="110" fill="#3B3C41"/>
+<rect id="n-324" x="1990" y="350" width="160" height="110" fill="#3B3C41"/>
+<rect id="n-323" x="1850" y="350" width="140" height="110" fill="#3B3C41"/>
+<rect id="n-322" x="2830" y="870" width="220" height="230" fill="#3B3C41"/>
+<rect id="n-321" x="2410" y="870" width="330" height="230" fill="#3B3C41"/>
+<rect id="n-320" x="2830" y="672" width="220" height="198" fill="#3B3C41"/>
+<rect id="n-319" x="2410" y="460" width="330" height="410" fill="#3B3C41"/>
+<rect id="n-318" x="2830" y="350" width="220" height="322" fill="#3B3C41"/>
+<rect id="n-317" x="2410" y="5" width="160" height="255" fill="#3B3C41"/>
+<rect id="n-316" x="2570" y="5" width="170" height="255" fill="#3B3C41"/>
+<rect id="n-315" x="1210" y="860" width="320" height="240" fill="#3B3C41"/>
+<rect id="n-314" x="1630" y="860" width="220" height="240" fill="#3B3C41"/>
+<rect id="n-313" x="1210" y="650" width="320" height="210" fill="#3B3C41"/>
+<rect id="n-312" x="1630" y="650" width="220" height="210" fill="#3B3C41"/>
+<rect id="n-311" x="1210" y="350" width="320" height="300" fill="#3B3C41"/>
+<rect id="n-310" x="1630" y="350" width="220" height="300" fill="#3B3C41"/>
+<rect id="n-309" x="930" y="350" width="280" height="110" fill="#3B3C41"/>
+<rect id="n-308" x="630" y="350" width="300" height="110" fill="#3B3C41"/>
+<rect id="n-307" x="430" y="860" width="200" height="240" fill="#3B3C41"/>
+<rect id="n-306" x="430" y="650" width="200" height="210" fill="#3B3C41"/>
+<rect id="n-305" x="5" y="860" width="325" height="240" fill="#3B3C41"/>
+<rect id="n-304" x="430" y="350" width="200" height="300" fill="#3B3C41"/>
+<rect id="n-303a" x="5" y="350" width="325" height="300" fill="#3B3C41"/>
+<rect id="n-303b" x="5" y="650" width="325" height="210" fill="#3B3C41"/>
+<rect id="n-302" x="170" y="5" width="160" height="255" fill="#3B3C41"/>
+<rect id="n-301" x="5" y="5" width="165" height="255" fill="#3B3C41"/>
+<path id="n-3-stair-1" opacity="0.2" d="M2740 5H3050V170H2820V260H2740V5Z" fill="#9CD9BC"/>
+</g>
+<g id="Walls">
+<path id="Vneskniy kontur" d="M630 5H5V1100H630V460H1210V1100H1850V460H2410V1100H3050V5H2410V240H1850V5H1210V240H630V5Z" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 137" d="M1850 340L1850 460" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 150" d="M1210 340L1210 350" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 211" d="M2410 340L2410 350" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 205" d="M630 340L630 460" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 140" d="M1630 650H1850" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 207" d="M430 650H630" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 143" d="M1210 650H1530" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 209" d="M4.99989 650H330" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 141" d="M1630 860H1850" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 208" d="M430 860H630" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 144" d="M1210 860H1530" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 210" d="M4.99989 860H330" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 146" d="M1370 260V5" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 149" d="M1740 150V260" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M1535 5V260V265H1530H1500V255H1525V5H1535ZM1454 255V265H1294V255H1454ZM1248 255V265H1210V255H1248Z" fill="#D9D9D9"/>
+<path id="Subtract_2" fill-rule="evenodd" clip-rule="evenodd" d="M1850 145H1630H1625V150L1625 260V265H1630H1661V255H1635L1635 155H1850V145ZM1707 255V265H1774V255H1707ZM1845 265H1820V255H1845V240H1855V260V270H1845V265Z" fill="#D9D9D9"/>
+<path id="Vector 138" d="M1210 240L1210 270" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 212" d="M2410 240L2410 270" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 206" d="M630 240L630 270" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract_3" fill-rule="evenodd" clip-rule="evenodd" d="M1210 345H1205V350V461H1215V355H1525V500H1535V350V345H1530H1210ZM1525 546V714H1535V546H1525ZM1525 910V760H1535V910H1525ZM1525 956V1100H1535V956H1525Z" fill="#D9D9D9"/>
+<path id="Subtract_4" fill-rule="evenodd" clip-rule="evenodd" d="M4.99989 355H325V460H335V350V345H330H4.99989V355ZM325 745V506H335V745H325ZM325 931V1100H335V931H325ZM325 885H335V791H325V885Z" fill="#D9D9D9"/>
+<path id="Subtract_5" fill-rule="evenodd" clip-rule="evenodd" d="M1630 345H1625V350V561H1635V355H1850V345H1630ZM1625 607V754H1635V607H1625ZM1625 984V800H1635V984H1625ZM1625 1030V1100H1635V1030H1625Z" fill="#D9D9D9"/>
+<path id="Vector 204" d="M930 350V460" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 217" d="M1990 350V460" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 218" d="M2150 350V460" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 219" d="M2280 350V460" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 220" d="M2410 350V460" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 221" d="M2740 460H2410" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 222" d="M2740 870H2410" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 223" d="M3050 870L2830 870" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 224" d="M3050 672L2830 672" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract_6" fill-rule="evenodd" clip-rule="evenodd" d="M716 345H1125V355H716V345ZM1210 355H1171V345H1210V355ZM670 345H430H425V350V540H435V355H670V345ZM435 586H425V680H435V586ZM425 726V1015H435V726H425ZM425 1100V1061H435V1100H425Z" fill="#D9D9D9"/>
+<path id="Subtract_7" fill-rule="evenodd" clip-rule="evenodd" d="M325 255V5H335V260V265H330H262V255H325ZM216 255V265H108V255H216ZM61.9999 255V265H4.99989V255H61.9999Z" fill="#D9D9D9"/>
+<path id="Vector 214" d="M530 140V260" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract_8" fill-rule="evenodd" clip-rule="evenodd" d="M2745 5V260V265H2740H2670V255H2735V5H2745ZM2624 255H2516V265H2624V255ZM2470 255V265H2410V255H2470Z" fill="#D9D9D9"/>
+<path id="Vector 227" d="M2973 170V260" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 226" d="M2897 170V260" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 228" d="M2570 260V5" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract_9" fill-rule="evenodd" clip-rule="evenodd" d="M2820 165L2815 165V170V260V265H2820H2836L2836 255H2825V175L3050 175V165L2820 165ZM2882 265H2912V255H2882V265ZM2988 265H2958V255H2988V265ZM3034 265H3050V255H3034V265Z" fill="#D9D9D9"/>
+<path id="Subtract_10" fill-rule="evenodd" clip-rule="evenodd" d="M2830 345H2825V350V579H2835V355H3050V345H2830ZM2825 625V694H2835V625H2825ZM2825 960V740H2835V960H2825ZM2825 1006V1100H2835V1006H2825Z" fill="#D9D9D9"/>
+<path id="Subtract_11" fill-rule="evenodd" clip-rule="evenodd" d="M2470 355V345H2390V355H2470ZM2516 355H2735V514H2745V350V345H2740H2516V355ZM2344 345V355H2216V345H2344ZM2735 910V560H2745V910H2735ZM2735 956V1100H2745V956H2735ZM2170 355V345H2130V355H2170ZM2084 345V355H1914V345H2084ZM1868 355L1868 345H1850V355H1868Z" fill="#D9D9D9"/>
+<path id="Vector 229" d="M170 260V5" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract_12" fill-rule="evenodd" clip-rule="evenodd" d="M425 135H430H630V145H435V255H457V265H430H425V260V140V135ZM503 265H557V255H503V265ZM630 265H603V255H630V265Z" fill="#D9D9D9"/>
+<path id="Subtract_13" fill-rule="evenodd" clip-rule="evenodd" d="M1540 265L1540 255H1530V265H1540ZM1620 265H1630V255H1620V265Z" fill="#D9D9D9"/>
+<path id="Vector 285" d="M2740 260H2750" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 286" d="M2810 260H2820" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 281" d="M2740 350H2750" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 282" d="M2820 350H2830" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 283" d="M330 350H340" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 284" d="M420 350H430" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract_14" fill-rule="evenodd" clip-rule="evenodd" d="M340 265L340 255H330V265H340ZM420 265H430V255H420V265Z" fill="#D9D9D9"/>
+</g>
+<g id="Textes">
+<text id="n-327_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2548.14" y="412.8">&#x41d; 327</tspan></text>
+<text id="n-326_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2318.08" y="412.8">&#x41d; 326</tspan></text>
+<text id="n-325_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2189.04" y="412.8">&#x41d; 325</tspan></text>
+<text id="n-324_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2043.02" y="412.8">&#x41d; 324</tspan></text>
+<text id="n-323_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1894.12" y="412.8">&#x41d; 323</tspan></text>
+<text id="n-322_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2913.49" y="992.8">&#x41d; 322</tspan></text>
+<text id="n-321_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2550.29" y="992.8">&#x41d; 321</tspan></text>
+<text id="n-320_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2912.1" y="778.8">&#x41d; 320</tspan></text>
+<text id="n-319_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2549.33" y="672.8">&#x41d; 319</tspan></text>
+<text id="n-318_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2914.4" y="518.8">&#x41d; 318</tspan></text>
+<text id="n-317_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2465.38" y="140.8">&#x41d; 317</tspan></text>
+<text id="n-316_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2624.3" y="140.8">&#x41d; 316</tspan></text>
+<text id="n-315_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1344.3" y="988.8">&#x41d; 315</tspan></text>
+<text id="n-314_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1715.13" y="988.8">&#x41d; 314</tspan></text>
+<text id="n-313_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1344.38" y="763.8">&#x41d; 313</tspan></text>
+<text id="n-312_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1715.25" y="763.8">&#x41d; 312</tspan></text>
+<text id="n-311_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1346.04" y="508.8">&#x41d; 311</tspan></text>
+<text id="n-310_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1714.36" y="508.8">&#x41d; 310</tspan></text>
+<text id="n-309_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1042.14" y="412.8">&#x41d; 309</tspan></text>
+<text id="n-308_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="752.215" y="412.8">&#x41d; 308</tspan></text>
+<text id="n-307_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="502.395" y="987.8">&#x41d; 307</tspan></text>
+<text id="n-306_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="502.121" y="762.8">&#x41d; 306</tspan></text>
+<text id="n-305_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="140.113" y="987.8">&#x41d; 305</tspan></text>
+<text id="n-304_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="501.445" y="507.8">&#x41d; 304</tspan></text>
+<text id="n-303&#208;&#177;" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="133.414" y="762.8">&#x41d; 303&#x411;</tspan></text>
+<text id="n-303&#208;&#176;" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="133.434" y="507.8">&#x41d; 303&#x410;</tspan></text>
+<text id="n-302_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="227.184" y="140.8">&#x41d; 302</tspan></text>
+<text id="n-301_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="61.4531" y="140.8">&#x41d; 301</tspan></text>
+</g>
+<g id="Entrances">
+<circle id="35" cx="2830" cy="602" r="10" fill="#9CBBFF"/>
+<circle id="39" cx="2367" cy="350" r="10" fill="#9CBBFF"/>
+<circle id="38" cx="2493" cy="350" r="10" fill="#9CBBFF"/>
+<circle id="37" cx="2493" cy="260" r="10" fill="#9CBBFF"/>
+<circle id="36" cx="2647" cy="260" r="10" fill="#9CBBFF"/>
+<circle id="34" cx="2830" cy="717" r="10" fill="#9CBBFF"/>
+<circle id="33" cx="2740" cy="537" r="10" fill="#9CBBFF"/>
+<circle id="32" cx="2740" cy="933" r="10" fill="#9CBBFF"/>
+<circle id="31" cx="2830" cy="983" r="10" fill="#9CBBFF"/>
+<circle id="30" cx="2780" cy="260" r="10" fill="#9CBBFF"/>
+<circle id="29" cx="2935" cy="260" r="10" fill="#9CBBFF"/>
+<circle id="28" cx="2859" cy="260" r="10" fill="#9CBBFF"/>
+<circle id="27" cx="2193" cy="350" r="10" fill="#9CBBFF"/>
+<circle id="26" cx="2107" cy="350" r="10" fill="#9CBBFF"/>
+<circle id="25" cx="1891" cy="350" r="10" fill="#9CBBFF"/>
+<circle id="24" cx="430" cy="563" r="10" fill="#9CBBFF"/>
+<circle id="23" cx="430" cy="703" r="10" fill="#9CBBFF"/>
+<circle id="22" cx="430" cy="1038" r="10" fill="#9CBBFF"/>
+<circle id="21" cx="330" cy="908" r="10" fill="#9CBBFF"/>
+<circle id="20" cx="330" cy="768" r="10" fill="#9CBBFF"/>
+<circle id="19" cx="330" cy="483" r="10" fill="#9CBBFF"/>
+<circle id="18" cx="3011" cy="260" r="10" fill="#9CBBFF"/>
+<circle id="16" cx="380" cy="260" r="10" fill="#9CBBFF"/>
+<circle id="13" cx="693" cy="350" r="10" fill="#9CBBFF"/>
+<circle id="12" cx="1148" cy="350" r="10" fill="#9CBBFF"/>
+<circle id="11" cx="1630" cy="777" r="10" fill="#9CBBFF"/>
+<circle id="10" cx="1630" cy="1007" r="10" fill="#9CBBFF"/>
+<circle id="9" cx="1530" cy="933" r="10" fill="#9CBBFF"/>
+<circle id="8" cx="1530" cy="737" r="10" fill="#9CBBFF"/>
+<circle id="7" cx="1530" cy="523" r="10" fill="#9CBBFF"/>
+<circle id="6" cx="1630" cy="584" r="10" fill="#9CBBFF"/>
+<circle id="5" cx="1580" cy="260" r="10" fill="#9CBBFF"/>
+<circle id="4" cx="1477" cy="260" r="10" fill="#9CBBFF"/>
+<circle id="3" cx="1271" cy="260" r="10" fill="#9CBBFF"/>
+<circle id="2" cx="240" cy="260" r="10" fill="#9CBBFF"/>
+<circle id="1" cx="84" cy="260" r="10" fill="#9CBBFF"/>
+</g>
+<g id="Icons">
+<g id="Stair">
+<g id="Stair frame">
+<path id="Vector 152" d="M1782 57H1757V72H1742V87H1727V102H1702" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154" d="M1714 57H1729M1729 57L1726 71M1729 57L1702 78" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155" d="M1770 102H1755M1755 102L1758 88M1755 102L1782 81" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Elevator">
+<g id="Vector">
+<path d="M2874 212L2868 206L2862 212H2874Z" fill="#A091F8"/>
+<path d="M2874 216L2868 222L2862 216H2874Z" fill="#A091F8"/>
+<path d="M2856 212C2856 209 2854 206 2851 206H2847C2844 206 2842 209 2842 212V217C2842 219 2843.5 220.5 2845 220.5V230C2845 231.6 2846.33 232 2847 232H2851C2851.67 232 2853 231.6 2853 230V220.5C2854.5 220.5 2856 219 2856 217V212Z" fill="#A091F8"/>
+<path d="M2853 199C2853 201.209 2851.21 203 2849 203C2846.79 203 2845 201.209 2845 199C2845 196.791 2846.79 195 2849 195C2851.21 195 2853 196.791 2853 199Z" fill="#A091F8"/>
+</g>
+<path id="Vector 201" d="M2845.5 242.5H2833.5V187.5H2882.5V242.5H2870.5" stroke="#A091F8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Elevator_2">
+<g id="Vector_2">
+<path d="M2951 212L2945 206L2939 212H2951Z" fill="#A091F8"/>
+<path d="M2951 216L2945 222L2939 216H2951Z" fill="#A091F8"/>
+<path d="M2933 212C2933 209 2931 206 2928 206H2924C2921 206 2919 209 2919 212V217C2919 219 2920.5 220.5 2922 220.5V230C2922 231.6 2923.33 232 2924 232H2928C2928.67 232 2930 231.6 2930 230V220.5C2931.5 220.5 2933 219 2933 217V212Z" fill="#A091F8"/>
+<path d="M2930 199C2930 201.209 2928.21 203 2926 203C2923.79 203 2922 201.209 2922 199C2922 196.791 2923.79 195 2926 195C2928.21 195 2930 196.791 2930 199Z" fill="#A091F8"/>
+</g>
+<path id="Vector 201_2" d="M2922.5 242.5H2910.5V187.5H2959.5V242.5H2947.5" stroke="#A091F8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Elevator_3">
+<g id="Vector_3">
+<path d="M3027 212L3021 206L3015 212H3027Z" fill="#A091F8"/>
+<path d="M3027 216L3021 222L3015 216H3027Z" fill="#A091F8"/>
+<path d="M3009 212C3009 209 3007 206 3004 206H3000C2997 206 2995 209 2995 212V217C2995 219 2996.5 220.5 2998 220.5V230C2998 231.6 2999.33 232 3000 232H3004C3004.67 232 3006 231.6 3006 230V220.5C3007.5 220.5 3009 219 3009 217V212Z" fill="#A091F8"/>
+<path d="M3006 199C3006 201.209 3004.21 203 3002 203C2999.79 203 2998 201.209 2998 199C2998 196.791 2999.79 195 3002 195C3004.21 195 3006 196.791 3006 199Z" fill="#A091F8"/>
+</g>
+<path id="Vector 201_3" d="M2998.5 242.5H2986.5V187.5H3035.5V242.5H3023.5" stroke="#A091F8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Woman">
+<g id="Group 5">
+<path id="Vector 200" d="M1295.5 134L1304 155.5H1276L1284.5 134" stroke="#F783CB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle id="Ellipse 9" cx="1290" cy="116" r="8" stroke="#F783CB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Men">
+<g id="Group 6">
+<path id="Vector 200_2" d="M1455.5 155.5L1464 134H1436L1444.5 155.5" stroke="#9CBBFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle id="Ellipse 9_2" cx="1450" cy="116" r="8" stroke="#9CBBFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Stair_2">
+<g id="Stair frame_2">
+<path id="Vector 152_2" d="M2975 65H2950V80H2935V95H2920V110H2895" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154_2" d="M2907 65H2922M2922 65L2919 79M2922 65L2895 86" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155_2" d="M2963 110H2948M2948 110L2951 96M2948 110L2975 89" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Stair_3">
+<g id="Stair frame_3">
+<path id="Vector 152_3" d="M570 50H545V65H530V80H515V95H490" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154_3" d="M502 50H517M517 50L514 64M517 50L490 71" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155_3" d="M558 95H543M543 95L546 81M543 95L570 74" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Doors">
+<path id="Vector 301" d="M374 269L346 262H340" stroke="#A5A5A7" stroke-width="6"/>
+<path id="Vector 302" d="M386 269L414 262H420" stroke="#A5A5A7" stroke-width="6"/>
+</g>
+<g id="Doors_2">
+<path id="Vector 301_2" d="M2775.5 269L2754.5 262H2750" stroke="#A5A5A7" stroke-width="6"/>
+<path id="Vector 302_2" d="M2784.5 269L2805.5 262H2810" stroke="#A5A5A7" stroke-width="6"/>
+</g>
+<g id="Doors_3">
+<path id="Vector 301_3" d="M1574 269L1546 262H1540" stroke="#A5A5A7" stroke-width="6"/>
+<path id="Vector 302_3" d="M1586 269L1614 262H1620" stroke="#A5A5A7" stroke-width="6"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2013_381">
+<rect width="3055" height="1105" fill="white"/>
+</clipPath>
+</defs>
+</svg>
