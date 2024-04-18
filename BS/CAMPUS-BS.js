@@ -5,6 +5,7 @@ let campusData = {
 		'N': {
 			rusName: 'Н',
 			planLinks: [
+				"./BS/N-2.js",
 				"./BS/N-3.js",
 				"./BS/N-4.js",
 			],
