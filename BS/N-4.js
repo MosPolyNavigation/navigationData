@@ -1,10 +1,10 @@
 let planData = {
 	planName: 'N-4',
-	svgLink: '/BS/N-4',
+	svgLink: '/BS/N-4.svg',
 	campus: 'BS',
 	corpus: 'N',
 	floor: 4,
-	entrances: [['n-4-stair-1','5'],['n-4-stair-2','17'],['n-4-stair-3','27'],['n-401','25']],
+	entrances: [['n-4-stair-1', '5'], ['n-4-stair-2', '17'], ['n-4-stair-3', '27'], ['n-401', '25']],
 	graph: [
 		{
 			"id": "n-4-stair-3",

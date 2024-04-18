@@ -10,9 +10,9 @@ let campusData = {
 				"./BS/N-4.js",
 			],
 			stairsGroups: [
-				['n-3-stair-1', 'n-4-stair-1'],
-				['n-3-stair-2', 'n-4-stair-2'],
-				['n-3-stair-3', 'n-4-stair-3'],
+				['n-2-stair-1', 'n-3-stair-1', 'n-4-stair-1'],
+				['n-2-stair-2', 'n-3-stair-2', 'n-4-stair-2'],
+				['n-2-stair-3', 'n-3-stair-3', 'n-4-stair-3'],
 			]
 		},
 	}
