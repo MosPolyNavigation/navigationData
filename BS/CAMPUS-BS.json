@@ -5,14 +5,17 @@
     "N": {
       "rusName": "Н",
       "planLinks": [
+        "./BS/N-0.json",
+        "./BS/N-1.json",
         "./BS/N-2.json",
         "./BS/N-3.json",
-        "./BS/N-4.json"
+        "./BS/N-4.json",
+        "./BS/N-5.json"
       ],
       "stairsGroups": [
-        ["n-2-stair-1", "n-3-stair-1", "n-4-stair-1"],
-        ["n-2-stair-2", "n-3-stair-2", "n-4-stair-2"],
-        ["n-2-stair-3", "n-3-stair-3", "n-4-stair-3"]
+        ["n-0-stair-1","n-1-stair-1","n-2-stair-1","n-3-stair-1","n-4-stair-1","n-5-stair-1"],
+        ["n-1-stair-2","n-2-stair-2","n-3-stair-2","n-4-stair-2","n-5-stair-2"],
+        ["n-1-stair-3","n-2-stair-3","n-3-stair-3","n-4-stair-3"]
       ]
     }
   }
