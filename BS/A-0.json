@@ -1,0 +1,145 @@
+{
+  "planName": "A-0",
+  "svgLink": "/BS/A-0.svg",
+  "campus": "BS",
+  "corpus": "A",
+  "floor": 0,
+  "entrances": [
+        [
+            "a-0-enter",
+            "33_2"
+        ],
+        [
+            "a-0-stair-2",
+            "33"
+        ],
+        [
+            "a-gard",
+            "21"
+        ]
+    ],
+"graph": 
+[
+    {
+        "id": "a-0_0",
+        "x": 1441,
+        "y": 1526,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "a-0_1",
+                131
+            ],
+            [
+                "a-0_3",
+                55
+            ]
+        ]
+    },
+    {
+        "id": "a-0_1",
+        "x": 1572,
+        "y": 1526,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "a-0_0",
+                131
+            ],
+            [
+                "a-gard",
+                48.37
+            ]
+        ]
+    },
+    {
+        "id": "a-gard",
+        "x": 1566,
+        "y": 1478,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "a-0_1",
+                48.37
+            ]
+        ]
+    },
+    {
+        "id": "a-0_3",
+        "x": 1441,
+        "y": 1581,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "a-0_0",
+                55
+            ],
+            [
+                "a-0_4",
+                117
+            ]
+        ]
+    },
+    {
+        "id": "a-0_4",
+        "x": 1441,
+        "y": 1698,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "a-0_3",
+                117
+            ],
+            [
+                "a-0-stair-2",
+                104.31
+            ]
+        ]
+    },
+    {
+        "id": "a-0-stair-2",
+        "x": 1545,
+        "y": 1690,
+        "type": "stair",
+        "neighborData": [
+            [
+                "a-0_4",
+                104.31
+            ],
+            [
+                "a-0_6",
+                293.6
+            ]
+        ]
+    },
+    {
+        "id": "a-0_6",
+        "x": 1836,
+        "y": 1651,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "a-0-stair-2",
+                293.6
+            ],
+            [
+                "a-0-enter",
+                455.83
+            ]
+        ]
+    },
+    {
+        "id": "a-0-enter",
+        "x": 1895,
+        "y": 2103,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "a-0_6",
+                455.83
+            ]
+        ]
+    }
+],
+  "spaces": []
+}
