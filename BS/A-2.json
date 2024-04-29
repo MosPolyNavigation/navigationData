@@ -1,6 +1,6 @@
 {
   "planName": "A-2",
-  "svgLink": "/BS/A-2.svg",
+  "svgLink": "./BS/A-2.svg",
   "campus": "BS",
   "corpus": "A",
   "floor": 2,
@@ -19,7 +19,7 @@
         "20"
     ],
     [
-        "a-1-wcu",
+        "a-2-wcu",
         "36"
     ],
     [
@@ -868,13 +868,13 @@
                 10
             ],
             [
-                "a-1-wcu",
+                "a-2-wcu",
                 49
             ]
         ]
     },
     {
-        "id": "a-1-wcu",
+        "id": "a-2-wcu",
         "x": 1269,
         "y": 1579,
         "type": "entrancesToAu",

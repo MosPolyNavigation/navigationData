@@ -1,6 +1,6 @@
 {
   "planName": "A-1",
-  "svgLink": "/BS/A-1.svg",
+  "svgLink": "./BS/A-1.svg",
   "campus": "BS",
   "corpus": "A",
   "floor": 1,

@@ -1,6 +1,6 @@
 {
   "planName": "A-4",
-  "svgLink": "/BS/A-4.svg",
+  "svgLink": "./BS/A-4.svg",
   "campus": "BS",
   "corpus": "A",
   "floor": 4,
@@ -331,7 +331,7 @@
                 10
             ],
             [
-                "a-1-wcm",
+                "a-4-wcm",
                 50
             ]
         ]
@@ -625,7 +625,7 @@
         ]
     },
     {
-        "id": "a-1-wcm",
+        "id": "a-4-wcm",
         "x": 1289,
         "y": 1580,
         "type": "entrancesToAu",
