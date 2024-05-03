@@ -12,6 +12,7 @@
 <path id="v-1-wcm" opacity="0.2" d="M980 275H1085V515H980V275Z" fill="#9CBBFF"/>
 <rect id="v-1-stair-2" opacity="0.2" x="1085" y="315" width="110" height="250" fill="#9CD9BC"/>
 <rect id="v-1-stair-1" opacity="0.2" x="205" y="325" width="120" height="240" fill="#9CD9BC"/>
+<rect id="v-1-enter" opacity="0.2" x="590" y="417" width="219" height="103" fill="#9CD9BC"/>
 </g>
 <g id="Walls">
 <path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M232 118L232 112H205V118H232ZM278 118H305V112H278V118Z" fill="#A5A5A7"/>
