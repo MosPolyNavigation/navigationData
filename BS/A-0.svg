@@ -15,7 +15,7 @@
 <path id="!a-10" d="M6 1255H275V1350H210V1480H6V1255Z" fill="#3B3C41"/>
 <rect id="!a-0-stair-4" opacity="0.2" x="5" y="1580" width="175" height="280" fill="#9CD9BC"/>
 <path id="a-0-stair-2" opacity="0.2" d="M1345 1580H1533.59L1571.5 1916H1510V1995H1400V1915H1345V1580Z" fill="#9CD9BC"/>
-<path id="!a-0-stair-1" opacity="0.2" d="M2112 1513L2278 1478L2358.5 1786L2313 1796L2332 1885.5L2229 1907L2208.5 1816L2153 1827L2112 1513Z" fill="#9CD9BC"/>
+<path id="a-0-stair-1" opacity="0.2" d="M2112 1513L2278 1478L2358.5 1786L2313 1796L2332 1885.5L2229 1907L2208.5 1816L2153 1827L2112 1513Z" fill="#9CD9BC"/>
 <rect id="!a-0-stair-3" opacity="0.2" x="630" y="1255" width="100" height="225" fill="#9CD9BC"/>
 <rect id="!a_2" x="1230" y="1580" width="115" height="230" fill="#3B3C41"/>
 <rect id="!a_3" x="1230" y="1255" width="100" height="225" fill="#3B3C41"/>
@@ -124,12 +124,12 @@
 <circle id="21" cx="1566" cy="1478" r="10" fill="#9CBBFF"/>
 <circle id="25" cx="1655" cy="510" r="10" fill="#9CBBFF"/>
 <circle id="33" cx="1545" cy="1690" r="10" fill="#9CBBFF"/>
-<ellipse id="44" cx="2230.5" cy="1700" rx="9.5" ry="10" fill="#9CBBFF"/>
+<circle id="44" cx="2231" cy="1700" r="10" fill="#9CBBFF"/>
 <circle id="40" cx="275" cy="1305" r="10" fill="#9CBBFF"/>
 <circle id="41" cx="102" cy="1480" r="10" fill="#9CBBFF"/>
 <circle id="42" cx="680" cy="1132" r="10" fill="#9CBBFF"/>
 <circle id="43" cx="731" cy="480" r="10" fill="#9CBBFF"/>
-<circle id="33_2" cx="1895" cy="2103" r="10" fill="#9CBBFF"/>
+<circle id="45" cx="1895" cy="2103" r="10" fill="#9CBBFF"/>
 </g>
 <g id="Icons">
 <g id="Stair">

@@ -13,7 +13,7 @@
 <rect id="a-106" x="180" y="1580" width="150" height="230" fill="#3B3C41"/>
 <rect id="a-1-stair-4" opacity="0.2" x="5" y="1580" width="175" height="280" fill="#9CD9BC"/>
 <path id="a-1-stair-2" opacity="0.2" d="M1345 1580H1533.59L1575 1915H1345V1580Z" fill="#9CD9BC"/>
-<path id="!a-1-stair-1" opacity="0.2" d="M2112 1513L2278 1478L2359 1787L2153 1827L2112 1513Z" fill="#9CD9BC"/>
+<path id="a-1-stair-1" opacity="0.2" d="M2112 1513L2278 1478L2359 1787L2153 1827L2112 1513Z" fill="#9CD9BC"/>
 <rect id="a-1-stair-3" opacity="0.2" x="630" y="1255" width="100" height="225" fill="#9CD9BC"/>
 <rect id="a-104" x="520" y="1580" width="110" height="230" fill="#3B3C41"/>
 <rect id="a-103" x="630" y="1580" width="205" height="230" fill="#3B3C41"/>

@@ -1045,6 +1045,30 @@
                 59.41
             ]
         ]
+    },
+    {
+        "id": "a-1_61",
+        "x": 2231,
+        "y": 1689,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "a-1-stair-1",
+                11
+            ]
+        ]
+    },
+    {
+        "id": "a-1-stair-1",
+        "x": 2231,
+        "y": 1700,
+        "type": "stair",
+        "neighborData": [
+            [
+                "a-1_61",
+                11
+            ]
+        ]
     }
 ],
   "spaces": []
