@@ -1,0 +1,283 @@
+{
+  "planName": "V-5",
+  "svgLink": "/BS/V-5.svg",
+  "campus": "BS",
+  "corpus": "V",
+  "floor": 5,
+"graph": 
+[
+  {
+      "id": "v-502",
+      "x": 205,
+      "y": 230,
+      "type": "entrancesToAu",
+      "neighborData": [
+          [
+              "v-5_2",
+              60
+          ]
+      ]
+  },
+  {
+      "id": "v-505",
+      "x": 430,
+      "y": 229,
+      "type": "entrancesToAu",
+      "neighborData": [
+          [
+              "v-5_7",
+              52
+          ]
+      ]
+  },
+  {
+      "id": "v-5_2",
+      "x": 265,
+      "y": 230,
+      "type": "hallway",
+      "neighborData": [
+          [
+              "v-5_7",
+              113
+          ],
+          [
+              "v-5_6",
+              65
+          ],
+          [
+              "v-503",
+              35
+          ],
+          [
+              "v-502",
+              60
+          ]
+      ]
+  },
+  {
+      "id": "v-5-stair-1",
+      "x": 265,
+      "y": 325,
+      "type": "stair",
+      "neighborData": [
+          [
+              "v-5_6",
+              30
+          ]
+      ]
+  },
+  {
+      "id": "v-503",
+      "x": 265,
+      "y": 195,
+      "type": "entrancesToAu",
+      "neighborData": [
+          [
+              "v-5_2",
+              35
+          ]
+      ]
+  },
+  {
+      "id": "v-501",
+      "x": 205,
+      "y": 295,
+      "type": "entrancesToAu",
+      "neighborData": [
+          [
+              "v-5_6",
+              60
+          ]
+      ]
+  },
+  {
+      "id": "v-5_6",
+      "x": 265,
+      "y": 295,
+      "type": "hallway",
+      "neighborData": [
+          [
+              "v-5_2",
+              65
+          ],
+          [
+              "v-501",
+              60
+          ],
+          [
+              "v-5-stair-1",
+              30
+          ]
+      ]
+  },
+  {
+      "id": "v-5_7",
+      "x": 378,
+      "y": 229,
+      "type": "hallway",
+      "neighborData": [
+          [
+              "v-5_2",
+              113
+          ],
+          [
+              "v-510",
+              46
+          ],
+          [
+              "v-505",
+              52
+          ],
+          [
+              "v-504",
+              34
+          ]
+      ]
+  },
+  {
+      "id": "v-510",
+      "x": 378,
+      "y": 275,
+      "type": "entrancesToAu",
+      "neighborData": [
+          [
+              "v-5_7",
+              46
+          ]
+      ]
+  },
+  {
+      "id": "v-504",
+      "x": 378,
+      "y": 195,
+      "type": "crossingSpace",
+      "neighborData": [
+          [
+              "v-5_7",
+              34
+          ],
+          [
+              "v-5_10",
+              52
+          ]
+      ]
+  },
+  {
+      "id": "v-5_10",
+      "x": 378,
+      "y": 143,
+      "type": "hallway",
+      "neighborData": [
+          [
+              "v-506",
+              392
+          ],
+          [
+              "v-504",
+              52
+          ]
+      ]
+  },
+  {
+      "id": "v-506",
+      "x": 770,
+      "y": 143,
+      "type": "entrancesToAu",
+      "neighborData": [
+          [
+              "v-5_10",
+              392
+          ]
+      ]
+  },
+  {
+      "id": "v-507",
+      "x": 1142,
+      "y": 195,
+      "type": "entrancesToAu",
+      "neighborData": [
+          [
+              "v-5_14",
+              35
+          ]
+      ]
+  },
+  {
+      "id": "v-5-stair-2",
+      "x": 1142,
+      "y": 315,
+      "type": "stair",
+      "neighborData": [
+          [
+              "v-5_14",
+              85
+          ]
+      ]
+  },
+  {
+      "id": "v-5_14",
+      "x": 1142,
+      "y": 230,
+      "type": "hallway",
+      "neighborData": [
+          [
+              "v-5_16",
+              109
+          ],
+          [
+              "v-508",
+              53
+          ],
+          [
+              "v-507",
+              35
+          ],
+          [
+              "v-5-stair-2",
+              85
+          ]
+      ]
+  },
+  {
+      "id": "v-508",
+      "x": 1195,
+      "y": 230,
+      "type": "entrancesToAu",
+      "neighborData": [
+          [
+              "v-5_14",
+              53
+          ]
+      ]
+  },
+  {
+      "id": "v-5_16",
+      "x": 1033,
+      "y": 230,
+      "type": "hallway",
+      "neighborData": [
+          [
+              "v-5_14",
+              109
+          ],
+          [
+              "v-509",
+              45
+          ]
+      ]
+  },
+  {
+      "id": "v-509",
+      "x": 1033,
+      "y": 275,
+      "type": "entrancesToAu",
+      "neighborData": [
+          [
+              "v-5_16",
+              45
+          ]
+      ]
+  }
+],
+  "spaces": []
+}

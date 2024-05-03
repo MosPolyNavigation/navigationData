@@ -1,0 +1,88 @@
+<svg width="1400" height="570" viewBox="0 0 1400 570" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="V-4" clip-path="url(#clip0_2001_787)">
+<g id="Spaces">
+<rect id="v-409" x="430" y="275" width="430" height="240" fill="#3B3C41"/>
+<rect id="v-408" x="860" y="275" width="120" height="240" fill="#3B3C41"/>
+<rect id="v-407" x="1195" y="256" width="199" height="309" fill="#3B3C41"/>
+<rect id="v-406" x="1195" y="5" width="199" height="251" fill="#3B3C41"/>
+<rect id="v-405" x="1010" y="5" width="185" height="190" fill="#3B3C41"/>
+<rect id="v-404" x="750" y="5" width="260" height="190" fill="#3B3C41"/>
+<rect id="v-403" x="560" y="5" width="190" height="190" fill="#3B3C41"/>
+<rect id="v-402" x="205" y="5" width="355" height="190" fill="#3B3C41"/>
+<rect id="v-401" x="5" y="5" width="200" height="560" fill="#3B3C41"/>
+<rect id="!v-1-u2" x="325" y="275" width="105" height="240" fill="#3B3C41"/>
+<rect id="!v-1-u1" x="980" y="275" width="105" height="240" fill="#3B3C41"/>
+<rect id="v-4-stair-2" opacity="0.2" x="1085" y="315" width="110" height="250" fill="#9CD9BC"/>
+<rect id="v-4-stair-1" opacity="0.2" x="205" y="325" width="120" height="240" fill="#9CD9BC"/>
+</g>
+<g id="Walls">
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M1009 397L1009 391H980V397H1009ZM1055 397H1085V391H1055V397Z" fill="#A5A5A7"/>
+<path id="Subtract_2" fill-rule="evenodd" clip-rule="evenodd" d="M354 397L354 391H325V397H354ZM400 397H430V391H400V397Z" fill="#A5A5A7"/>
+<path id="Subtract_3" fill-rule="evenodd" clip-rule="evenodd" d="M302 157V195H308V157H302ZM302 111H308V5H302V111Z" fill="#A5A5A7"/>
+<path id="Vector 5" d="M325 511L325 270" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 6" d="M1085 513L1085 270" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 9" d="M560 5L560 192" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 21" d="M750 3V190" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 24" d="M1010 5L1010 192" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 13" d="M1395 256H1195" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 14" d="M430 275V513" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 17" d="M980 275L980 515" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 25" d="M860 275L860 515" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract_4" fill-rule="evenodd" clip-rule="evenodd" d="M457 5V100V111H463V100V5H457ZM463 157H457V195H463V157Z" fill="#A5A5A7"/>
+<path id="Subtract_5" fill-rule="evenodd" clip-rule="evenodd" d="M1200 5V202H1190V5H1200ZM1190 248H1200V263H1190V248ZM1190 309V565H1200V309H1190Z" fill="#D9D9D9"/>
+<path id="Subtract_6" fill-rule="evenodd" clip-rule="evenodd" d="M243 330V320H205V330H243ZM286 330H325V320H286V330Z" fill="#D9D9D9"/>
+<path id="Subtract_7" fill-rule="evenodd" clip-rule="evenodd" d="M128 446V440H5V446H128ZM171 446H205V440H171V446Z" fill="#A5A5A7"/>
+<path id="Subtract_8" fill-rule="evenodd" clip-rule="evenodd" d="M1119 320V310H1085V320H1119ZM1165 320H1195V310H1165V320Z" fill="#D9D9D9"/>
+<path id="Subtract_9" fill-rule="evenodd" clip-rule="evenodd" d="M827 173L827 193H833L833 173H827ZM827 127H833L833 6H827L827 127Z" fill="#A5A5A7"/>
+<path id="Subtract_10" fill-rule="evenodd" clip-rule="evenodd" d="M1010 280V270H953V280H1010ZM1056 280H1090V270H1056V280ZM907 270V280H523V270H907ZM355 280V270H320V280H355ZM401 280H477V270H401V280Z" fill="#D9D9D9"/>
+<path id="Subtract_11" fill-rule="evenodd" clip-rule="evenodd" d="M1100 200V190H980V200H1100ZM1146 200H1195V190H1146V200ZM934 190V200H711V190H934ZM665 200V190H413V200H665ZM367 190V200H205V190H367Z" fill="#D9D9D9"/>
+<path id="Subtract_12" fill-rule="evenodd" clip-rule="evenodd" d="M210 207V5H200V207H210ZM210 253H200V565H210V253Z" fill="#D9D9D9"/>
+<path id="Subtract_13" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H5H205H1395H1400V5V511.5V565V570H1395H1085H1080V565V520H330V565V570H325H205H5H0V565V5V0ZM10 10V560H205H320V515V510H325H1085H1090V515V560H1390V511.5V10H205H10Z" fill="#D9D9D9"/>
+</g>
+<g id="Textes">
+<text id="b_v_409" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="617.316" y="402.8">&#x412; 409</tspan></text>
+<text id="b_v_408" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="891.887" y="402.8">&#x412; 408</tspan></text>
+<text id="b_v_407" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1267.07" y="418.8">&#x412; 407</tspan></text>
+<text id="b_v_406" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1266.29" y="138.8">&#x412; 406</tspan></text>
+<text id="b_v_405" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1075.29" y="107.8">&#x412; 405</tspan></text>
+<text id="b_v_404" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="852.117" y="107.8">&#x412; 404</tspan></text>
+<text id="b_v_403" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="627.461" y="107.8">&#x412; 403</tspan></text>
+<text id="b_v_402" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="354.355" y="107.8">&#x412; 402</tspan></text>
+<text id="b_v_401" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="79.125" y="292.8">&#x412; 401</tspan></text>
+</g>
+<g id="Entrances">
+<circle id="18" cx="957" cy="195" r="10" fill="#9CBBFF"/>
+<circle id="14" cx="500" cy="275" r="10" fill="#9CBBFF"/>
+<circle id="13" cx="930" cy="275" r="10" fill="#9CBBFF"/>
+<circle id="12" cx="205" cy="228" r="10" fill="#9CBBFF"/>
+<circle id="9" cx="1123" cy="195" r="10" fill="#9CBBFF"/>
+<circle id="7" cx="688" cy="195" r="10" fill="#9CBBFF"/>
+<circle id="6" cx="390" cy="195" r="10" fill="#9CBBFF"/>
+<circle id="4" cx="1142" cy="315" r="10" fill="#9CBBFF"/>
+<circle id="3" cx="1195" cy="285" r="10" fill="#9CBBFF"/>
+<circle id="2" cx="1195" cy="228" r="10" fill="#9CBBFF"/>
+<circle id="1" cx="265" cy="325" r="10" fill="#9CBBFF"/>
+</g>
+<g id="Icons">
+<g id="Stair">
+<g id="Stair frame">
+<path id="Vector 152" d="M304 422H279V437H264V452H249V467H224" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154" d="M236 422H251M251 422L248 436M251 422L224 443" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155" d="M292 467H277M277 467L280 453M277 467L304 446" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Stair_2">
+<g id="Stair frame_2">
+<path id="Vector 152_2" d="M1180 417H1155V432H1140V447H1125V462H1100" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154_2" d="M1112 417H1127M1127 417L1124 431M1127 417L1100 438" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155_2" d="M1168 462H1153M1153 462L1156 448M1153 462L1180 441" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2001_787">
+<rect width="1400" height="570" fill="white"/>
+</clipPath>
+</defs>
+</svg>

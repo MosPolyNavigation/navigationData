@@ -32,6 +32,20 @@
         ["a-1-stair-4","a-2-stair-4","a-3-stair-4","a-4-stair-4"],
         ["a-1-stair-5","a-2-stair-5","a-3-stair-5","a-4-stair-5"]
       ]
+    },
+    "V": {
+      "rusName": "В",
+      "planLinks": [
+        "./BS/V-1.json",
+        "./BS/V-2.json",
+        "./BS/V-3.json",
+        "./BS/V-4.json",
+        "./BS/V-5.json"
+      ],
+      "stairsGroups": [
+        ["v-1-stair-1","v-2-stair-1","v-3-stair-1","v-4-stair-1","v-5-stair-1"],
+        ["v-1-stair-2","v-2-stair-2","v-3-stair-2","v-4-stair-2","v-5-stair-2"]
+      ]
     }
   }
 }

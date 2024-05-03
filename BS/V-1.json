@@ -1,0 +1,297 @@
+{
+  "planName": "V-1",
+  "svgLink": "/BS/V-1.svg",
+  "campus": "BS",
+  "corpus": "V",
+  "floor": 1,
+  "entrances": [
+		[
+			"v-1-wcm",
+			"10"
+		]
+    ],
+"graph": 
+    [
+        {
+            "id": "v-107",
+            "x": 1195,
+            "y": 228,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "v-1_14",
+                    53
+                ]
+            ]
+        },
+        {
+            "id": "v-102",
+            "x": 205,
+            "y": 228,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "v-1_8",
+                    60
+                ]
+            ]
+        },
+        {
+            "id": "v-104",
+            "x": 425,
+            "y": 195,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "v-1_3",
+                    33
+                ]
+            ]
+        },
+        {
+            "id": "v-1_3",
+            "x": 425,
+            "y": 228,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "v-1_6",
+                    63
+                ],
+                [
+                    "v-1_5",
+                    263
+                ],
+                [
+                    "v-104",
+                    33
+                ]
+            ]
+        },
+        {
+            "id": "v-105",
+            "x": 688,
+            "y": 195,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "v-1_5",
+                    33
+                ]
+            ]
+        },
+        {
+            "id": "v-1_5",
+            "x": 688,
+            "y": 228,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "v-1_3",
+                    263
+                ],
+                [
+                    "v-1_12",
+                    359
+                ],
+                [
+                    "v-105",
+                    33
+                ]
+            ]
+        },
+        {
+            "id": "v-1_6",
+            "x": 362,
+            "y": 228,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "v-1_8",
+                    97
+                ],
+                [
+                    "v-1_3",
+                    63
+                ],
+                [
+                    "v-1-wcw",
+                    47
+                ]
+            ]
+        },
+        {
+            "id": "v-1-wcw",
+            "x": 362,
+            "y": 275,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "v-1_6",
+                    47
+                ]
+            ]
+        },
+        {
+            "id": "v-1_8",
+            "x": 265,
+            "y": 228,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "v-1_6",
+                    97
+                ],
+                [
+                    "v-1_11",
+                    67
+                ],
+                [
+                    "v-102",
+                    60
+                ]
+            ]
+        },
+        {
+            "id": "v-1-stair-1",
+            "x": 265,
+            "y": 325,
+            "type": "stair",
+            "neighborData": [
+                [
+                    "v-1_11",
+                    30
+                ]
+            ]
+        },
+        {
+            "id": "v-101",
+            "x": 205,
+            "y": 295,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "v-1_11",
+                    60
+                ]
+            ]
+        },
+        {
+            "id": "v-1_11",
+            "x": 265,
+            "y": 295,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "v-1_8",
+                    67
+                ],
+                [
+                    "v-101",
+                    60
+                ],
+                [
+                    "v-1-stair-1",
+                    30
+                ]
+            ]
+        },
+        {
+            "id": "v-1_12",
+            "x": 1047,
+            "y": 228,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "v-1_5",
+                    359
+                ],
+                [
+                    "v-1_14",
+                    95
+                ],
+                [
+                    "v-1-wcm",
+                    47
+                ]
+            ]
+        },
+        {
+            "id": "v-1-wcm",
+            "x": 1047,
+            "y": 275,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "v-1_12",
+                    47
+                ]
+            ]
+        },
+        {
+            "id": "v-1_14",
+            "x": 1142,
+            "y": 228,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "v-1_12",
+                    95
+                ],
+                [
+                    "v-1_16",
+                    57
+                ],
+                [
+                    "v-107",
+                    53
+                ]
+            ]
+        },
+        {
+            "id": "v-1-stair-2",
+            "x": 1142,
+            "y": 315,
+            "type": "stair",
+            "neighborData": [
+                [
+                    "v-1_16",
+                    30
+                ]
+            ]
+        },
+        {
+            "id": "v-1_16",
+            "x": 1142,
+            "y": 285,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "v-1_14",
+                    57
+                ],
+                [
+                    "v-108",
+                    53
+                ],
+                [
+                    "v-1-stair-2",
+                    30
+                ]
+            ]
+        },
+        {
+            "id": "v-108",
+            "x": 1195,
+            "y": 285,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "v-1_16",
+                    53
+                ]
+            ]
+        }
+    ],
+  "spaces": []
+}
