@@ -48,5 +48,9 @@
         ["v-1-stair-2","v-2-stair-2","v-3-stair-2","v-4-stair-2","v-5-stair-2"]
       ]
     }
-  }
+  },
+  "crossings": [
+    ["a-2-crossing-v","v-3-crossing-a",300],
+    ["v-2-crossing=n","n-2-crossing-2",300]
+  ]
 }
