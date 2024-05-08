@@ -314,7 +314,7 @@
       "id": "v-3-crossing-a",
       "x": 5,
       "y": 407,
-      "type": "entrancesToAu",
+      "type": "crossing",
       "neighborData": [
           [
               "v-3_18",

@@ -1005,7 +1005,7 @@
         "id": "a-2-crossing-v",
         "x": 2353,
         "y": 1534,
-        "type": "entrancesToAu",
+        "type": "crossing",
         "neighborData": [
             [
                 "a-2_55",

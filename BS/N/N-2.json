@@ -11,7 +11,7 @@
       "id": "n-2-crossing-1",
       "x": 3050,
       "y": 302,
-      "type": "entrancesToAu",
+      "type": "crossing",
       "neighborData": [
         [
           "n-2_25",
@@ -23,7 +23,7 @@
       "id": "n-2-crossing-2",
       "x": 5,
       "y": 302,
-      "type": "entrancesToAu",
+      "type": "crossing",
       "neighborData": [
         [
           "n-2_3",
