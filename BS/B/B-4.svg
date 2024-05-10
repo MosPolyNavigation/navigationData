@@ -1,0 +1,111 @@
+<svg width="2150" height="870" viewBox="0 0 2150 870" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="B-4" clip-path="url(#clip0_2001_418)">
+<g id="Spaces">
+<rect id="!b-4-wc" x="5" y="755" width="300" height="110" fill="#3B3C41"/>
+<rect id="Rectangle 94" x="225" y="550" width="80" height="205" fill="#3B3C41"/>
+<rect id="!b-4-stair-4" x="1255" y="325" width="100" height="220" fill="#3B3C41"/>
+<rect id="b-4-stair-3" opacity="0.2" x="785" y="325" width="100" height="220" fill="#9CD9BC"/>
+<rect id="!b-4-stair-2" x="5" y="655" width="220" height="100" fill="#3B3C41"/>
+<rect id="b-4-stair-1" opacity="0.2" x="1925" y="225" width="220" height="110" fill="#9CD9BC"/>
+<rect id="b" x="5" y="500" width="220" height="155" fill="#3B3C41"/>
+<rect id="b-412" x="595" y="5" width="289.729" height="219.998" fill="#3B3C41"/>
+<rect id="b-411" x="305" y="5" width="290" height="219.998" fill="#3B3C41"/>
+<rect id="b-410" x="5" y="5" width="300" height="219.998" fill="#3B3C41"/>
+<rect id="b-409" x="5" y="225" width="220" height="275" fill="#3B3C41"/>
+<rect id="b-408" x="225" y="325" width="80" height="225" fill="#3B3C41"/>
+<rect id="b-407" x="1845" y="5" width="300" height="219.998" fill="#3B3C41"/>
+<rect id="b-406" x="1535" y="5" width="310" height="220" fill="#3B3C41"/>
+<rect id="b-405" x="1255" y="5" width="280" height="220" fill="#3B3C41"/>
+<rect id="b-404" x="885" y="5" width="370" height="540" fill="#3B3C41"/>
+<rect id="b-403a" x="1845" y="755" width="105" height="110" fill="#3B3C41"/>
+<rect id="b-403" x="1950" y="755" width="195" height="110" fill="#3B3C41"/>
+<rect id="b-402" x="1925" y="660" width="220" height="95" fill="#3B3C41"/>
+<rect id="b-401" x="1925" y="450" width="220" height="210" fill="#3B3C41"/>
+<rect id="b-400" x="1925" y="335" width="220" height="115" fill="#3B3C41"/>
+</g>
+<g id="Walls">
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M2007 632V660H2013V632H2007ZM2007 602H2013V560H2007V602Z" fill="#A5A5A7"/>
+<path id="Subtract_2" fill-rule="evenodd" clip-rule="evenodd" d="M2075 803.559V865H2081V803.559H2075ZM2075 773.829H2081V755H2075V773.829Z" fill="#A5A5A7"/>
+<path id="Subtract_3" fill-rule="evenodd" clip-rule="evenodd" d="M1947 805V865H1953V805H1947ZM1947 775H1953V755H1947V775Z" fill="#A5A5A7"/>
+<path id="Subtract_4" fill-rule="evenodd" clip-rule="evenodd" d="M240 552.367L240 546.367H225V552.367H240ZM270 552.367H305V546.367H270V552.367Z" fill="#A5A5A7"/>
+<path id="Subtract_5" fill-rule="evenodd" clip-rule="evenodd" d="M172 850.017V865H178V850.017H172ZM172 820.052H178V755H172V820.052Z" fill="#A5A5A7"/>
+<path id="Vector 232" d="M1925 335H2145" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 243" d="M1925 660H2145" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 207" d="M305 5V225" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 208" d="M595 5V225" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 226" d="M785 324.638V544.382" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 211" d="M1535 5V225" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 212" d="M1845 5V225" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 220" d="M5 500H225" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 221" d="M5 655H225" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract_6" fill-rule="evenodd" clip-rule="evenodd" d="M517 230V220H288V230H517ZM563 230H800V220H563V230ZM885 230H846V220H885V230ZM242 230V220H5V230H242Z" fill="#D9D9D9"/>
+<path id="Subtract_7" fill-rule="evenodd" clip-rule="evenodd" d="M1250 545V298H1260V545H1250ZM1260 252V5H1250V252H1260Z" fill="#D9D9D9"/>
+<path id="Subtract_8" fill-rule="evenodd" clip-rule="evenodd" d="M880 298V545H890V298H880ZM880 252H890V5H880V252Z" fill="#D9D9D9"/>
+<path id="Subtract_9" fill-rule="evenodd" clip-rule="evenodd" d="M240 750H5V760H240V750ZM270 760H305V750H270V760Z" fill="#D9D9D9"/>
+<path id="Subtract_10" fill-rule="evenodd" clip-rule="evenodd" d="M1265 330L1265 320H1255V330H1265ZM1345 330H1845V320H1345V330Z" fill="#D9D9D9"/>
+<path id="Subtract_11" fill-rule="evenodd" clip-rule="evenodd" d="M220 296.187V574.301H230V296.187H220ZM220 664.675V620.488H230V664.675H220ZM220 745V755H230V745H220ZM220 250L230 250V225H220V250Z" fill="#D9D9D9"/>
+<path id="Subtract_12" fill-rule="evenodd" clip-rule="evenodd" d="M795 330V320H288V330H795ZM875 330H885V320H875V330ZM242 320L242 330H225V320H242Z" fill="#D9D9D9"/>
+<path id="Subtract_13" fill-rule="evenodd" clip-rule="evenodd" d="M1865 230V220H1813V230H1865ZM1911 230H2145V220H1911V230ZM1767 220V230H1490V220H1767ZM1444 230V220H1255V230H1444Z" fill="#D9D9D9"/>
+<path id="Vector 329" d="M2145 5H5V865H305V325H785V545H1355V325H1845V865H2145V5Z" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract_14" fill-rule="evenodd" clip-rule="evenodd" d="M1862 760L1862 750H1845V760H1862ZM1908 760H2145V750H1908V760Z" fill="#D9D9D9"/>
+<path id="Subtract_15" fill-rule="evenodd" clip-rule="evenodd" d="M1952 565L1952 555H1925V565H1952ZM1982 565H2145V555H1982V565Z" fill="#D9D9D9"/>
+<path id="Subtract_16" fill-rule="evenodd" clip-rule="evenodd" d="M1920 689.053V635H1930V689.053H1920ZM1920 735V755H1930V735H1920ZM1930 589.053H1920V410H1930V589.053ZM1920 320V364.053H1930V320H1920ZM1920 240V225H1930V240L1920 240Z" fill="#D9D9D9"/>
+<path id="Vector 242" d="M1925 450H2145" stroke="#D9D9D9" stroke-width="10"/>
+</g>
+<g id="Textes">
+<text id="t-b412" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="714.18" y="123.8">&#x411; 412</tspan></text>
+<text id="t-b411" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="426.473" y="123.8">&#x411; 411</tspan></text>
+<text id="t-b410" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="128.289" y="122.8">&#x411; 410</tspan></text>
+<text id="t-b409" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="236.48" y="445.8">&#x411; 408</tspan></text>
+<text id="t-b409_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="87.4102" y="370.8">&#x411; 409</tspan></text>
+<text id="t-b407" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1967.16" y="123.8">&#x411; 407</tspan></text>
+<text id="t-b406" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1661.39" y="122.8">&#x411; 406</tspan></text>
+<text id="t-b405" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1367.38" y="122.8">&#x411; 405</tspan></text>
+<text id="t-b404" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1041.21" y="282.8">&#x411; 404</tspan></text>
+<text id="t-b-403&#208;&#176;" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1861.2" y="817.8">&#x411; 403&#x410;</tspan></text>
+<text id="t-b401" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1999.05" y="817.8">&#x411; 403</tspan></text>
+<text id="t-b407_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2006.44" y="400.8">&#x411; 400</tspan></text>
+<text id="t-b407_3" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2009.22" y="537.8">&#x411; 401</tspan></text>
+<text id="t-b407_4" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2007.45" y="715.8">&#x411; 402</tspan></text>
+</g>
+<g id="Entrances">
+<circle id="1" cx="1925" cy="387" r="10" fill="#9CBBFF"/>
+<circle id="2" cx="1925" cy="275" r="10" fill="#9CBBFF"/>
+<circle id="22" cx="1925" cy="612" r="10" fill="#9CBBFF"/>
+<circle id="18" cx="1925" cy="712" r="10" fill="#9CBBFF"/>
+<circle id="23" cx="1888" cy="755" r="10" fill="#9CBBFF"/>
+<circle id="24" cx="1951" cy="790" r="10" fill="#9CBBFF"/>
+<circle id="4" cx="1888" cy="224" r="10" fill="#9CBBFF"/>
+<circle id="6" cx="1467" cy="225" r="10" fill="#9CBBFF"/>
+<circle id="10" cx="823" cy="224" r="10" fill="#9CBBFF"/>
+<circle id="11" cx="835" cy="325" r="10" fill="#9CBBFF"/>
+<circle id="12" cx="540" cy="224" r="10" fill="#9CBBFF"/>
+<circle id="13" cx="265" cy="224" r="10" fill="#9CBBFF"/>
+<circle id="14" cx="225" cy="275" r="10" fill="#9CBBFF"/>
+<circle id="20" cx="265" cy="325" r="10" fill="#9CBBFF"/>
+<circle id="9" cx="885" cy="275" r="10" fill="#9CBBFF"/>
+<circle id="5" cx="1790" cy="225" r="10" fill="#9CBBFF"/>
+</g>
+<g id="Icons">
+<g id="Stair">
+<g id="Stair frame">
+<path id="Vector 152" d="M875 413H850V428H835V443H820V458H795" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154" d="M807 413H822M822 413L819 427M822 413L795 434" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155" d="M863 458H848M848 458L851 444M848 458L875 437" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Stair_2">
+<g id="Stair frame_2">
+<path id="Vector 152_2" d="M2075 258H2050V273H2035V288H2020V303H1995" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154_2" d="M2007 258H2022M2022 258L2019 272M2022 258L1995 279" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155_2" d="M2063 303H2048M2048 303L2051 289M2048 303L2075 282" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2001_418">
+<rect width="2150" height="870" fill="white"/>
+</clipPath>
+</defs>
+</svg>
