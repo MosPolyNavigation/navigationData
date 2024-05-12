@@ -11,7 +11,7 @@
 <rect id="a-204" x="5" y="1255" width="270" height="225" fill="#3B3C41"/>
 <rect id="a-205" x="275" y="1255" width="355" height="225" fill="#3B3C41"/>
 <rect id="!a" x="90" y="1150" width="455" height="105" fill="#3B3C41"/>
-<rect id="a-2-stair-4" opacity="0.2" x="5" y="1580" width="175" height="280" fill="#9CD9BC"/>
+<path id="a-2-stair-4" opacity="0.2" d="M180 1580H5V1623H117V1706H5V1860H180V1580Z" fill="#9CD9BC"/>
 <path id="a-2-stair-2" opacity="0.2" d="M1345 1580H1533L1575 1915H1345V1580Z" fill="#9CD9BC"/>
 <path id="a-2-stair-1" opacity="0.2" d="M2113 1513L2278 1478L2285 1504L2213 1523L2239 1619L2310 1600L2359 1787L2153 1827L2113 1513Z" fill="#9CD9BC"/>
 <path id="a-2-crossing-v" opacity="0.2" d="M2239 1619L2213 1523L2285 1504L2343 1493L2365.5 1578L2310 1600L2239 1619Z" fill="#9CD9BC"/>
@@ -32,6 +32,7 @@
 <path id="a-200" opacity="0.2" d="M1533 1580L2113.56 1513.37L2198.56 2188.87L1618 2260L1533 1580Z" fill="#F783CB"/>
 <path id="!Rectangle 109" d="M1840 1432L1894.5 1423L1909.5 1535.5L1852.5 1544.5L1840 1432Z" fill="#3B3C41"/>
 <path id="a-2-wcm" opacity="0.2" d="M1720 1206.5L1795 1196.5V1360H1720V1206.5Z" fill="#9CBBFF"/>
+<path id="a-2-crossing-b" opacity="0.2" d="M0 1623H117V1706H0V1623Z" fill="#9CD9BC"/>
 </g>
 <g id="Walls">
 <path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M1900.05 1022.4L2052.36 1003.98L2051.64 998.022L1899.32 1016.44L1900.05 1022.4ZM1870.27 1026L1869.54 1020.04L1836.64 1024.02L1837.36 1029.98L1870.27 1026Z" fill="#A5A5A7"/>
@@ -108,6 +109,7 @@
 <text id="text 31" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1895.23" y="600.8">&#x410; 219</tspan></text>
 <text id="text 32" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1908.47" y="722.8">&#x410; 220</tspan></text>
 <text id="b_v_302" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="2329.03" y="1549.8">&#x412;</tspan></text>
+<text id="b_v_302_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="13.125" y="1672.8">&#x411;</tspan></text>
 </g>
 <g id="Entrances">
 <circle id="1" cx="886" cy="1479" r="10" fill="#9CBBFF"/>
@@ -115,6 +117,7 @@
 <circle id="39" cx="1079" cy="1479" r="10" fill="#9CBBFF"/>
 <circle id="34" cx="447" cy="1479" r="10" fill="#9CBBFF"/>
 <circle id="10" cx="92" cy="1579" r="10" fill="#9CBBFF"/>
+<circle id="49" cx="2" cy="1664" r="10" fill="#9CBBFF"/>
 <circle id="46" cx="194" cy="1479" r="10" fill="#9CBBFF"/>
 <circle id="35" cx="382" cy="1579" r="10" fill="#9CBBFF"/>
 <circle id="15" cx="1181" cy="1579" r="10" fill="#9CBBFF"/>
@@ -205,6 +208,24 @@
 <circle id="Ellipse 40" cx="2289.54" cy="1551.91" r="1.5" transform="rotate(-15 2289.54 1551.91)" fill="#D9D9D9"/>
 </g>
 <path id="Vector 325" d="M2296.3 1550.1L2321.42 1543.37M2321.42 1543.37L2310.08 1539.68M2321.42 1543.37L2313.44 1552.23" stroke="#D9D9D9" stroke-width="3" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="&#208;&#161;rossing_2">
+<g id="Group 24_2">
+<path id="Vector 320_2" d="M102.758 1676.5L47 1676.5" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round"/>
+<path id="Vector 323_2" d="M103 1651.5L47 1651.5" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round"/>
+</g>
+<g id="Group 25_2">
+<circle id="Ellipse 36_2" cx="86.5" cy="1664" r="1.5" transform="rotate(-180 86.5 1664)" fill="#D9D9D9"/>
+<circle id="Ellipse 32_2" cx="110.5" cy="1664" r="1.5" transform="rotate(-180 110.5 1664)" fill="#D9D9D9"/>
+<circle id="Ellipse 37_2" cx="80.5" cy="1664" r="1.5" transform="rotate(-180 80.5 1664)" fill="#D9D9D9"/>
+<circle id="Ellipse 33_2" cx="104.5" cy="1664" r="1.5" transform="rotate(-180 104.5 1664)" fill="#D9D9D9"/>
+<circle id="Ellipse 38_2" cx="74.5" cy="1664" r="1.5" transform="rotate(-180 74.5 1664)" fill="#D9D9D9"/>
+<circle id="Ellipse 34_2" cx="98.5" cy="1664" r="1.5" transform="rotate(-180 98.5 1664)" fill="#D9D9D9"/>
+<circle id="Ellipse 39_2" cx="68.5" cy="1664" r="1.5" transform="rotate(-180 68.5 1664)" fill="#D9D9D9"/>
+<circle id="Ellipse 35_2" cx="92.5" cy="1664" r="1.5" transform="rotate(-180 92.5 1664)" fill="#D9D9D9"/>
+<circle id="Ellipse 40_2" cx="62.5" cy="1664" r="1.5" transform="rotate(-180 62.5 1664)" fill="#D9D9D9"/>
+</g>
+<path id="Vector 325_2" d="M55.5006 1664L29.5006 1664M29.5006 1664L39.5006 1670.5M29.5006 1664L39.5006 1657.5" stroke="#D9D9D9" stroke-width="3" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </g>
 </g>

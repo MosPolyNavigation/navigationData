@@ -94,30 +94,6 @@
 <path id="Vector 155_2" d="M2034 303H2019M2019 303L2022 289M2019 303L2046 282" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </g>
-<g id="&#208;&#161;rossing">
-<g id="Group 24">
-<path id="Vector 320" d="M2153 255.5H2131C2122.16 255.5 2115 262.663 2115 271.5V273.5" stroke="#9CD9BC" stroke-width="5"/>
-<path id="Vector 321" d="M2093 308.5H2115C2123.84 308.5 2131 301.336 2131 292.5V290.5" stroke="#9CD9BC" stroke-width="5"/>
-<path id="Vector 323" d="M2153 272.5H2139C2134.58 272.5 2131 276.082 2131 280.5V290.5" stroke="#9CD9BC" stroke-width="5"/>
-<path id="Vector 322" d="M2093 291.5H2107C2111.42 291.5 2115 287.918 2115 283.5V273.5" stroke="#9CD9BC" stroke-width="5"/>
-</g>
-<g id="Group 25">
-<circle id="Ellipse 31" cx="2086.5" cy="300" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 32" cx="2092.5" cy="300" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 33" cx="2098.5" cy="300" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 34" cx="2104.5" cy="300" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 35" cx="2110.5" cy="300" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 36" cx="2116.4" cy="299.05" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 37" cx="2121.05" cy="295.25" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 38" cx="2123" cy="289.5" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 39" cx="2123" cy="283.5" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 40" cx="2123" cy="277.504" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 41" cx="2123.6" cy="271.5" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 42" cx="2127" cy="266.5" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 43" cx="2132.5" cy="264.1" r="1.5" fill="#D9D9D9"/>
-</g>
-<path id="Vector 325" d="M2142.5 264H2168.5M2168.5 264L2158.5 257.5M2168.5 264L2158.5 270.5" stroke="#D9D9D9" stroke-width="3" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
 <g id="Men">
 <g id="Group 6">
 <path id="Vector 200" d="M1905.5 833.5L1914 812H1886L1894.5 833.5" stroke="#9CBBFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -129,6 +105,24 @@
 <path id="Vector 200_2" d="M2040.5 697L2049 718.5H2021L2029.5 697" stroke="#F783CB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 <circle id="Ellipse 9_2" cx="2035" cy="679" r="8" stroke="#F783CB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
+</g>
+<g id="&#208;&#161;rossing">
+<g id="Group 24">
+<path id="Vector 320" d="M2082.24 262.5H2138" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round"/>
+<path id="Vector 323" d="M2082 287.5H2138" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round"/>
+</g>
+<g id="Group 25">
+<circle id="Ellipse 36" cx="2098.5" cy="275" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 32" cx="2074.5" cy="275" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 37" cx="2104.5" cy="275" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 33" cx="2080.5" cy="275" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 38" cx="2110.5" cy="275" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 34" cx="2086.5" cy="275" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 39" cx="2116.5" cy="275" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 35" cx="2092.5" cy="275" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 40" cx="2122.5" cy="275" r="1.5" fill="#D9D9D9"/>
+</g>
+<path id="Vector 325" d="M2129.5 275H2155.5M2155.5 275L2145.5 268.5M2155.5 275L2145.5 281.5" stroke="#D9D9D9" stroke-width="3" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </g>
 </g>

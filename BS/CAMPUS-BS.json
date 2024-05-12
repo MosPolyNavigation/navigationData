@@ -64,6 +64,7 @@
   },
   "crossings": [
     ["a-2-crossing-v","v-3-crossing-a",300],
-    ["v-2-crossing=n","n-2-crossing-2",300]
+    ["v-2-crossing=n","n-2-crossing-2",300],
+    ["b-3-crossing", "a-2-crossing-b",300]
   ]
 }
