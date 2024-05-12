@@ -10,8 +10,12 @@
             "12"
         ],
         [
-            "b-105",
-            "15"
+            "b-108",
+            "5"
+        ],
+        [
+            "b-107",
+            "4"
         ],
         [
             "b-106",
@@ -22,29 +26,25 @@
             "14"
         ],
         [
-            "b-107",
-            "4"
-        ],
-        [
-            "b-108",
-            "5"
+            "b-105",
+            "15"
         ]
     ],
 "graph": 
 [
     {
-        "id": "b-1_0",
-        "x": 2085,
+        "id": "b-1-stair-1",
+        "x": 1925,
         "y": 275,
-        "type": "hallway",
+        "type": "stair",
         "neighborData": [
             [
                 "b-1_3",
-                200
+                160
             ],
             [
-                "b-109",
-                51
+                "b-1_4",
+                40
             ]
         ]
     },
@@ -55,7 +55,7 @@
         "type": "entrancesToAu",
         "neighborData": [
             [
-                "b-1_15",
+                "b-1_16",
                 50
             ]
         ]
@@ -67,24 +67,44 @@
         "type": "entrancesToAu",
         "neighborData": [
             [
-                "b-1_0",
+                "b-1_3",
                 51
             ]
         ]
     },
     {
         "id": "b-1_3",
+        "x": 2085,
+        "y": 275,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "b-1-stair-1",
+                160
+            ],
+            [
+                "b-1-enter",
+                94
+            ],
+            [
+                "b-109",
+                51
+            ]
+        ]
+    },
+    {
+        "id": "b-1_4",
         "x": 1885,
         "y": 275,
         "type": "hallway",
         "neighborData": [
             [
-                "b-1_6",
+                "b-1_7",
                 89
             ],
             [
-                "b-1_0",
-                200
+                "b-1-stair-1",
+                40
             ],
             [
                 "b-101",
@@ -99,7 +119,7 @@
         "type": "entrancesToAu",
         "neighborData": [
             [
-                "b-1_3",
+                "b-1_4",
                 50
             ]
         ]
@@ -111,23 +131,23 @@
         "type": "entrancesToAu",
         "neighborData": [
             [
-                "b-1_6",
+                "b-1_7",
                 50
             ]
         ]
     },
     {
-        "id": "b-1_6",
+        "id": "b-1_7",
         "x": 1796,
         "y": 275,
         "type": "hallway",
         "neighborData": [
             [
-                "b-1_8",
+                "b-1_9",
                 491
             ],
             [
-                "b-1_3",
+                "b-1_4",
                 89
             ],
             [
@@ -143,23 +163,23 @@
         "type": "entrancesToAu",
         "neighborData": [
             [
-                "b-1_8",
+                "b-1_9",
                 50
             ]
         ]
     },
     {
-        "id": "b-1_8",
+        "id": "b-1_9",
         "x": 1305,
         "y": 275,
         "type": "hallway",
         "neighborData": [
             [
-                "b-1_9",
+                "b-1_10",
                 121
             ],
             [
-                "b-1_6",
+                "b-1_7",
                 491
             ],
             [
@@ -169,17 +189,17 @@
         ]
     },
     {
-        "id": "b-1_9",
+        "id": "b-1_10",
         "x": 1184,
         "y": 275,
         "type": "hallway",
         "neighborData": [
             [
-                "b-1_11",
+                "b-1_12",
                 116
             ],
             [
-                "b-1_8",
+                "b-1_9",
                 121
             ],
             [
@@ -199,23 +219,23 @@
         "type": "entrancesToAu",
         "neighborData": [
             [
-                "b-1_9",
+                "b-1_10",
                 50
             ]
         ]
     },
     {
-        "id": "b-1_11",
+        "id": "b-1_12",
         "x": 1068,
         "y": 275,
         "type": "hallway",
         "neighborData": [
             [
-                "b-1_13",
+                "b-1_14",
                 125
             ],
             [
-                "b-1_9",
+                "b-1_10",
                 116
             ],
             [
@@ -231,23 +251,23 @@
         "type": "entrancesToAu",
         "neighborData": [
             [
-                "b-1_11",
+                "b-1_12",
                 50
             ]
         ]
     },
     {
-        "id": "b-1_13",
+        "id": "b-1_14",
         "x": 943,
         "y": 275,
         "type": "hallway",
         "neighborData": [
             [
-                "b-1_15",
+                "b-1_16",
                 108
             ],
             [
-                "b-1_11",
+                "b-1_12",
                 125
             ],
             [
@@ -263,19 +283,19 @@
         "type": "entrancesToAu",
         "neighborData": [
             [
-                "b-1_13",
+                "b-1_14",
                 50
             ]
         ]
     },
     {
-        "id": "b-1_15",
+        "id": "b-1_16",
         "x": 835,
         "y": 275,
         "type": "hallway",
         "neighborData": [
             [
-                "b-1_13",
+                "b-1_14",
                 108
             ],
             [
@@ -299,7 +319,7 @@
         "type": "stair",
         "neighborData": [
             [
-                "b-1_15",
+                "b-1_16",
                 50
             ]
         ]
@@ -311,7 +331,7 @@
         "type": "entrancesToAu",
         "neighborData": [
             [
-                "b-1_15",
+                "b-1_16",
                 50
             ]
         ]
@@ -323,8 +343,20 @@
         "type": "entrancesToAu",
         "neighborData": [
             [
-                "b-1_9",
+                "b-1_10",
                 50
+            ]
+        ]
+    },
+    {
+        "id": "b-1-enter",
+        "x": 2179,
+        "y": 275,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "b-1_3",
+                94
             ]
         ]
     }

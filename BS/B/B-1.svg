@@ -16,7 +16,8 @@
 <rect id="Rectangle 119" x="1745" y="100" width="100" height="125" fill="#3B3C41"/>
 <rect id="!b-1-stair-4" x="1255" y="325.009" width="100" height="220" fill="#3B3C41"/>
 <rect id="b-1-stair-3" opacity="0.2" x="785" y="325" width="100" height="220" fill="#9CD9BC"/>
-<rect id="b-1-stair-1" opacity="0.2" x="1925" y="219" width="254" height="122" fill="#9CD9BC"/>
+<rect id="b-1-stair-1" opacity="0.2" x="1925" y="219" width="160" height="122" fill="#9CD9BC"/>
+<rect id="b-1-enter" opacity="0.2" x="2085" y="225" width="94" height="111" fill="#9CD9BC"/>
 <rect id="b-109" x="2020" y="5" width="125" height="220" fill="#3B3C41"/>
 <path id="b-108" d="M1845 5H2020V225H1845V100H1745V50V5H1845Z" fill="#3B3C41"/>
 <path id="b-107" d="M1255 5H1545V135H1645V180V225H1545H1255V5Z" fill="#3B3C41"/>
@@ -91,6 +92,7 @@
 <circle id="5" cx="1796" cy="225" r="10" fill="#9CBBFF"/>
 <circle id="19" cx="2085" cy="224" r="10" fill="#9CBBFF"/>
 <circle id="20" cx="1925" cy="275" r="10" fill="#9CBBFF"/>
+<circle id="22" cx="2179" cy="275" r="10" fill="#9CBBFF"/>
 <circle id="12" cx="1885" cy="325" r="10" fill="#9CBBFF"/>
 </g>
 <g id="Icons">
@@ -109,9 +111,9 @@
 </g>
 </g>
 <g id="Enter">
-<path id="Rectangle 242" d="M2161 266V256H2125V304H2161V292.5" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Rectangle 242" d="M2137 266V256H2101V304H2137V292.5" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 <g id="Group 26">
-<path id="Vector 325" d="M2174 279.5H2142.3M2142.3 279.5L2152.3 273M2142.3 279.5L2152.3 286" stroke="#D9D9D9" stroke-width="3" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 325" d="M2150 279.5H2118.3M2118.3 279.5L2128.3 273M2118.3 279.5L2128.3 286" stroke="#D9D9D9" stroke-width="3" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </g>
 </g>
