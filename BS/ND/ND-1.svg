@@ -1,45 +1,43 @@
 <svg width="1437" height="1409" viewBox="0 0 1437 1409" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="ND-1">
 <g id="Spaces">
-<path id="!nd-1-2" d="M585 787L275 786L359 644L585 787Z" fill="#3B3C41"/>
-<path id="!nd-1-1" d="M955 1197L1075 1402L1284 1281L1107 970H835V1197H955Z" fill="#3B3C41"/>
 <path id="nd-1-stair-2" opacity="0.2" d="M661 132L735 8L959 139L885 267L661 132Z" fill="#9CD9BC"/>
 <rect id="nd-1-stair-1" opacity="0.2" x="65" y="970" width="134" height="227" fill="#9CD9BC"/>
-<path id="nd-131" d="M359 644L487.5 423L716.5 564L585 787L359 644Z" fill="#3B3C41"/>
+<path id="nd-131" d="M277.5 785L487.5 423L716.5 564L585 787L277.5 785Z" fill="#3B3C41"/>
 <path id="nd-130" d="M491 421L566 293L790 432L715 562L491 421Z" fill="#3B3C41"/>
 <path id="nd-129" d="M566 293L661 132L885 267L790 432L566 293Z" fill="#3B3C41"/>
 <path id="nd-128" d="M885 583L981 412L1029 498L885 583Z" fill="#3B3C41"/>
 <path id="nd-127" d="M886 584L1030 499L1130.43 674L985.433 758L886 584Z" fill="#3B3C41"/>
-<path id="nd-126" d="M981 756L1130 674L1430 1197L1284 1281L981 756Z" fill="#3B3C41"/>
-<path id="nd-120" d="M618 970H835V1197H618V970Z" fill="#3B3C41"/>
+<path id="nd-120" d="M618 970H1106.5L957.5 1197H618V970Z" fill="#3B3C41"/>
 <rect id="nd-119" x="415" y="970" width="203" height="227" fill="#3B3C41"/>
 <rect id="nd-118" x="199" y="970" width="216" height="227" fill="#3B3C41"/>
 <rect id="nd-1-enter" opacity="0.2" x="60" y="787" width="116" height="178" fill="#9CD9BC"/>
+<path id="nd-126" d="M984 757.5L1130 671L1430 1198.5L1076 1402L957 1198.5L1106.5 968L984 757.5Z" fill="#3B3C41"/>
 </g>
 <g id="Walls">
 <path id="Vector 14" d="M415 970L415 1197" stroke="#D9D9D9" stroke-width="10"/>
 <path id="Vector 17" d="M199 970L199 1197" stroke="#D9D9D9" stroke-width="10"/>
 <path id="Vector 30" d="M102 970L65 970" stroke="#D9D9D9" stroke-width="10"/>
 <path id="Vector 15" d="M618 970L618 1197" stroke="#D9D9D9" stroke-width="10"/>
-<path id="Vector 16" d="M835 970L835 1196" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 16" d="M1108.5 967.5L955.5 1196" stroke="#D9D9D9" stroke-width="10"/>
 <path id="Vector 23" d="M1029 498L885 583" stroke="#D9D9D9" stroke-width="10"/>
 <path id="Vector 35" d="M1130 674L985 758" stroke="#D9D9D9" stroke-width="10"/>
 <path id="Vector 31" d="M885 267L661 132" stroke="#D9D9D9" stroke-width="10"/>
 <path id="Vector 32" d="M790 432L566 293" stroke="#D9D9D9" stroke-width="10"/>
 <path id="Vector 33" d="M715 562L492 419" stroke="#D9D9D9" stroke-width="10"/>
-<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M311 975H521V965H311V975ZM265 965H162V975H265V965ZM835 975H771V965H835H1106V975H835ZM567 965H725V975H567V965Z" fill="#D9D9D9"/>
-<path id="Subtract_2" fill-rule="evenodd" clip-rule="evenodd" d="M589.331 789.499L633.964 712.167L625.304 707.167L583.273 779.99L361.673 639.775L356.327 648.225L567.747 782H275.001L275.001 792H585.001H587.888L589.331 789.499ZM842.913 350.138L767.569 480.68L758.909 475.68L834.253 345.138L842.913 350.138ZM735.915 515.52L744.575 520.52L656.958 672.327L648.298 667.327L735.915 515.52ZM941.796 178.81L963.33 141.499L954.669 136.501L933.136 173.81L941.796 178.81ZM918.802 218.651L910.141 213.651L857.247 305.297L865.907 310.297L918.802 218.651Z" fill="#D9D9D9"/>
-<path id="Subtract_3" fill-rule="evenodd" clip-rule="evenodd" d="M947.584 682.408L890.739 582.965L912.062 544.584L903.333 539.705L880.629 580.572L879.26 583.035L880.659 585.481L938.893 687.354L947.584 682.408ZM970.413 722.344L961.721 727.29L1009.1 810.178L1017.73 805.116L970.413 722.344ZM984.37 414.428L934.401 504.373L925.672 499.493L975.629 409.572L984.37 414.428ZM1040.56 845.054L1031.93 850.117L1279.66 1283.48L1288.34 1278.52L1040.56 845.054Z" fill="#D9D9D9"/>
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M310.369 975H519.479V965H310.369V975ZM264.564 965H162V975H264.564V965ZM833.574 975H768.42L768.419 965H833.574H1104V975H833.574ZM565.284 965H722.614V975H565.284V965Z" fill="#D9D9D9"/>
+<path id="Subtract_2" fill-rule="evenodd" clip-rule="evenodd" d="M589.331 789.499L633.964 712.167L625.304 707.167L582.113 782H275.001L275.001 792H585.001H587.888L589.331 789.499ZM842.913 350.138L767.569 480.68L758.909 475.68L834.253 345.138L842.913 350.138ZM735.915 515.52L744.575 520.52L656.958 672.327L648.298 667.327L735.915 515.52ZM941.796 178.81L963.33 141.499L954.669 136.501L933.136 173.81L941.796 178.81ZM918.802 218.651L910.141 213.651L857.247 305.297L865.907 310.297L918.802 218.651Z" fill="#D9D9D9"/>
+<path id="Subtract_3" fill-rule="evenodd" clip-rule="evenodd" d="M947.886 681.541L890.989 581.928L911.792 544.308L903.073 539.414L880.891 579.525L879.527 581.992L880.927 584.444L939.217 686.494L947.886 681.541ZM970.639 721.376L961.97 726.329L1009.19 808.997L1017.79 803.927L970.639 721.376ZM983.612 414.435L933.994 504.161L925.274 499.267L974.879 409.565L983.612 414.435ZM1040.55 843.763L1031.94 848.833L1104 974.988L1112.66 970.02L1040.55 843.763Z" fill="#D9D9D9"/>
 <path id="Subtract_4" fill-rule="evenodd" clip-rule="evenodd" d="M737.546 2.69656L733.237 0.147461L730.693 4.46006L272.144 781.999L65 781.999H60V786.999L60 841H70V791.999L275 791.999H277.856L279.307 789.539L736.763 13.8525L1083.24 218.81L975.645 409.543L974.248 412.02L975.662 414.487L1423.18 1195.16L1076.8 1395.18L959.315 1194.47L957.867 1192H955H70V921.023H60V1197V1202H65H952.133L1070.68 1404.53L1073.2 1408.82L1077.5 1406.33L1432.5 1201.33L1436.82 1198.84L1434.34 1194.51L985.752 411.98L1094.35 219.457L1096.76 215.19L1092.55 212.697L737.546 2.69656Z" fill="#D9D9D9"/>
 </g>
 <g id="Textes">
-<text id="b_nd_131" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="507.438" y="613.8">&#x41d;&#x414; 131</tspan></text>
+<text id="b_nd_131" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="482.438" y="645.8">&#x41d;&#x414; 131</tspan></text>
 <text id="b_nd_130" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="608.254" y="435.8">&#x41d;&#x414; 130</tspan></text>
 <text id="b_nd_129" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="692.094" y="290.8">&#x41d;&#x414; 129</tspan></text>
 <text id="b_nd_128" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="947.164" y="499.8">&#x41d;&#x414; 128</tspan></text>
 <text id="b_nd_127" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="975.168" y="636.8">&#x41d;&#x414; 127</tspan></text>
-<text id="b_nd_126" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1109.11" y="871.8">&#x41d;&#x414; 126</tspan></text>
-<text id="b_nd_120" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="694.125" y="1091.8">&#x41d;&#x414; 120</tspan></text>
+<text id="b_nd_126" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1160.11" y="1122.8">&#x41d;&#x414; 126</tspan></text>
+<text id="b_nd_120" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="785.125" y="1091.8">&#x41d;&#x414; 120</tspan></text>
 <text id="b_nd_119" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="486.387" y="1091.8">&#x41d;&#x414; 119</tspan></text>
 <text id="b_nd_118" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="276.457" y="1091.8">&#x41d;&#x414; 118</tspan></text>
 </g>
