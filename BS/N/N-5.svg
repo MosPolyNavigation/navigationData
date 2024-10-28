@@ -9,8 +9,8 @@
 <path id="!n-2-stair-3" opacity="0.2" d="M330.5 7H630.5V152H430.5V262H330.5V7Z" fill="#9CD9BC"/>
 <path id="n-5-stair-1" opacity="0.2" d="M2740.5 7H3050.5V172H2820.5V262H2740.5V7Z" fill="#9CD9BC"/>
 <path id="n-5-stair-2" opacity="0.2" d="M1530.5 7H1850.5V152H1630.5V262H1530.5V7Z" fill="#9CD9BC"/>
-<rect id="n-5-lift-3" opacity="0.2" x="2973.5" y="172" width="77" height="90" fill="#A091F8"/>
-<rect id="n-5-lift-2" opacity="0.2" x="2897.5" y="172" width="76" height="90" fill="#A091F8"/>
+<rect id="n-5-lift-2" opacity="0.2" x="2973.5" y="172" width="77" height="90" fill="#A091F8"/>
+<rect id="n-5-lift-2_2" opacity="0.2" x="2897.5" y="172" width="76" height="90" fill="#A091F8"/>
 <rect id="n-5-lift-1" opacity="0.2" x="2820.5" y="172" width="77" height="90" fill="#A091F8"/>
 <rect id="n-519" x="1850.5" y="242" width="560" height="220" fill="#3B3C41"/>
 <rect id="n-518" x="2410.5" y="7" width="330" height="255" fill="#3B3C41"/>

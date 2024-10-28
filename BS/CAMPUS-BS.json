@@ -60,11 +60,23 @@
         ["b-1-stair-1","b-2-stair-1","b-3-stair-1","b-4-stair-1"],
         ["b-1-stair-3","b-3-stair-3","b-4-stair-3"]
       ]
+    },
+    "ND": {
+      "rusName": "НД",
+      "planLinks": [
+        "/BS/ND/ND-1.json",
+        "/BS/ND/ND-2.json"
+      ],
+      "stairsGroups": [
+        ["nd-1-stair-1","nd-2-stair-1"],
+        ["nd-1-stair-2","nd-2-stair-2"]
+      ]
     }
   },
   "crossings": [
     ["a-2-crossing-v","v-3-crossing-a",300],
     ["v-2-crossing=n","n-2-crossing-2",300],
-    ["b-3-crossing", "a-2-crossing-b",300]
+    ["b-3-crossing", "a-2-crossing-b",300],
+    ["n-2-crossing-1", "nd-2-crossing-n", 300]
   ]
 }

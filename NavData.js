@@ -48,7 +48,7 @@ export default class NavData { //класс для того чтобы эксп�
 async function parseJSONFromUrl(link) {
 	let response = await fetch('https://mospolynavigation.github.io/navigationData/' + link)
 	//let response = await fetch('http://127.0.0.1:5500/' + link)
-	 //console.log(response);
+	//console.log(response);
 	return await response.json()
 }
 

@@ -136,7 +136,6 @@
 <circle id="39" cx="693" cy="350" r="10" fill="#9CBBFF"/>
 <circle id="38" cx="846" cy="350" r="10" fill="#9CBBFF"/>
 <circle id="37" cx="1005" cy="350" r="10" fill="#9CBBFF"/>
-<path id="34" d="M390 260C390 265.523 385.523 270 380 270C374.477 270 370 265.523 370 260C370 254.477 374.477 250 380 250C385.523 250 390 254.477 390 260Z" fill="#9CBBFF"/>
 <circle id="33" cx="240" cy="260" r="10" fill="#9CBBFF"/>
 <circle id="32" cx="330" cy="768" r="10" fill="#9CBBFF"/>
 <circle id="31" cx="330" cy="908" r="10" fill="#9CBBFF"/>
@@ -168,6 +167,7 @@
 <circle id="4" cx="2935" cy="259" r="10" fill="#9CBBFF"/>
 <circle id="3" cx="2859" cy="259" r="10" fill="#9CBBFF"/>
 <circle id="2" cx="3011" cy="259" r="10" fill="#9CBBFF"/>
+<circle id="34" cx="380" cy="260" r="10" fill="#9CBBFF"/>
 <circle id="1" cx="84" cy="259" r="10" fill="#9CBBFF"/>
 </g>
 <g id="Icons">
@@ -233,51 +233,39 @@
 </g>
 <g id="&#208;&#161;rossing">
 <g id="Group 24">
-<path id="Vector 320" d="M31 278.5H53C61.8366 278.5 69 285.663 69 294.5V296.5" stroke="#9CD9BC" stroke-width="5"/>
-<path id="Vector 321" d="M91 331.5H69C60.1634 331.5 53 324.336 53 315.5V313.5" stroke="#9CD9BC" stroke-width="5"/>
-<path id="Vector 323" d="M31 295.5H45C49.4183 295.5 53 299.082 53 303.5V313.5" stroke="#9CD9BC" stroke-width="5"/>
-<path id="Vector 322" d="M91 314.5H77C72.5817 314.5 69 310.918 69 306.5V296.5" stroke="#9CD9BC" stroke-width="5"/>
+<path id="Vector 320" d="M88.7582 292.5H33" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round"/>
+<path id="Vector 323" d="M89 317.5H33" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round"/>
 </g>
 <g id="Group 25">
-<circle id="Ellipse 31" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 99 321.5)" fill="#D9D9D9"/>
-<circle id="Ellipse 32" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 93 321.5)" fill="#D9D9D9"/>
-<circle id="Ellipse 33" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 87 321.5)" fill="#D9D9D9"/>
-<circle id="Ellipse 34" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 81 321.5)" fill="#D9D9D9"/>
-<circle id="Ellipse 35" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 75 321.5)" fill="#D9D9D9"/>
-<circle id="Ellipse 36" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 69.1 320.55)" fill="#D9D9D9"/>
-<circle id="Ellipse 37" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 64.45 316.75)" fill="#D9D9D9"/>
-<circle id="Ellipse 38" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 62.5 311)" fill="#D9D9D9"/>
-<circle id="Ellipse 39" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 62.5 305)" fill="#D9D9D9"/>
-<circle id="Ellipse 40" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 62.5 299.004)" fill="#D9D9D9"/>
-<circle id="Ellipse 41" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 61.9 293)" fill="#D9D9D9"/>
-<circle id="Ellipse 42" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 58.5001 288)" fill="#D9D9D9"/>
-<circle id="Ellipse 43" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 52.9998 285.6)" fill="#D9D9D9"/>
+<circle id="Ellipse 36" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 74 303.5)" fill="#D9D9D9"/>
+<circle id="Ellipse 32" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 98 303.5)" fill="#D9D9D9"/>
+<circle id="Ellipse 37" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 68 303.5)" fill="#D9D9D9"/>
+<circle id="Ellipse 33" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 92 303.5)" fill="#D9D9D9"/>
+<circle id="Ellipse 38" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 62 303.5)" fill="#D9D9D9"/>
+<circle id="Ellipse 34" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 86 303.5)" fill="#D9D9D9"/>
+<circle id="Ellipse 39" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 56 303.5)" fill="#D9D9D9"/>
+<circle id="Ellipse 35" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 80 303.5)" fill="#D9D9D9"/>
+<circle id="Ellipse 40" cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 50 303.5)" fill="#D9D9D9"/>
 </g>
-<path id="Vector 325" d="M41.5006 287H15.5006M15.5006 287L25.5006 280.5M15.5006 287L25.5006 293.5" stroke="#D9D9D9" stroke-width="3" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 325" d="M41.5006 305H15.5006M15.5006 305L25.5006 298.5M15.5006 305L25.5006 311.5" stroke="#D9D9D9" stroke-width="3" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <g id="&#208;&#161;rossing_2">
 <g id="Group 24_2">
-<path id="Vector 320_2" d="M3023 278.5H3001C2992.16 278.5 2985 285.663 2985 294.5V296.5" stroke="#9CD9BC" stroke-width="5"/>
-<path id="Vector 321_2" d="M2963 331.5H2985C2993.84 331.5 3001 324.336 3001 315.5V313.5" stroke="#9CD9BC" stroke-width="5"/>
-<path id="Vector 323_2" d="M3023 295.5H3009C3004.58 295.5 3001 299.082 3001 303.5V313.5" stroke="#9CD9BC" stroke-width="5"/>
-<path id="Vector 322_2" d="M2963 314.5H2977C2981.42 314.5 2985 310.918 2985 306.5V296.5" stroke="#9CD9BC" stroke-width="5"/>
+<path id="Vector 320_2" d="M2965.24 292.5H3021" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round"/>
+<path id="Vector 323_2" d="M2965 317.5H3021" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round"/>
 </g>
 <g id="Group 25_2">
-<circle id="Ellipse 31_2" cx="2956.5" cy="323" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 32_2" cx="2962.5" cy="323" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 33_2" cx="2968.5" cy="323" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 34_2" cx="2974.5" cy="323" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 35_2" cx="2980.5" cy="323" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 36_2" cx="2986.4" cy="322.05" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 37_2" cx="2991.05" cy="318.25" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 38_2" cx="2993" cy="312.5" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 39_2" cx="2993" cy="306.5" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 40_2" cx="2993" cy="300.504" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 41_2" cx="2993.6" cy="294.5" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 42_2" cx="2997" cy="289.5" r="1.5" fill="#D9D9D9"/>
-<circle id="Ellipse 43_2" cx="3002.5" cy="287.1" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 36_2" cx="2981.5" cy="305" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 32_2" cx="2957.5" cy="305" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 37_2" cx="2987.5" cy="305" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 33_2" cx="2963.5" cy="305" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 38_2" cx="2993.5" cy="305" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 34_2" cx="2969.5" cy="305" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 39_2" cx="2999.5" cy="305" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 35_2" cx="2975.5" cy="305" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 40_2" cx="3005.5" cy="305" r="1.5" fill="#D9D9D9"/>
 </g>
-<path id="Vector 325_2" d="M3012.5 287H3038.5M3038.5 287L3028.5 280.5M3038.5 287L3028.5 293.5" stroke="#D9D9D9" stroke-width="3" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 325_2" d="M3012.5 305H3038.5M3038.5 305L3028.5 298.5M3038.5 305L3028.5 311.5" stroke="#D9D9D9" stroke-width="3" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <g id="Doors">
 <path id="Vector 301" d="M374 269L346 262H340" stroke="#A5A5A7" stroke-width="6"/>

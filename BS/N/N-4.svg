@@ -1,5 +1,5 @@
 <svg width="3055" height="1105" viewBox="0 0 3055 1105" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="N-4" clip-path="url(#clip0_5_495)">
+<g id="N-4" clip-path="url(#clip0_2013_195)">
 <g id="Spaces">
 <rect id="!n-4-lift-1" x="1630" y="150" width="110" height="110" fill="#3B3C41"/>
 <rect id="n-4-wcw-1" opacity="0.2" x="1210" y="5" width="160" height="255" fill="#F783CB"/>
@@ -57,7 +57,7 @@
 <path id="Vector 221" d="M2740 460H2410" stroke="#D9D9D9" stroke-width="10"/>
 <path id="Vector 222" d="M2740 870H2410" stroke="#D9D9D9" stroke-width="10"/>
 <path id="Vector 224" d="M3050 672L2830 672" stroke="#D9D9D9" stroke-width="10"/>
-<path id="Subtract_7" fill-rule="evenodd" clip-rule="evenodd" d="M325 228V255H4.99988V265H330H335V260V228H325ZM325 182H335V5H325V182Z" fill="#D9D9D9"/>
+<path id="Subtract_7" fill-rule="evenodd" clip-rule="evenodd" d="M325 228V255H4.99989V265H330H335V260V228H325ZM325 182H335V5H325V182Z" fill="#D9D9D9"/>
 <path id="Vector 214" d="M530 140V260" stroke="#D9D9D9" stroke-width="10"/>
 <path id="Subtract_8" fill-rule="evenodd" clip-rule="evenodd" d="M2745 5V260V265H2740H2670V255H2735V5H2745ZM2624 255V265H2516V255H2624ZM2470 255V265H2410V255H2470Z" fill="#D9D9D9"/>
 <path id="Vector 227" d="M2973 170V260" stroke="#D9D9D9" stroke-width="10"/>
@@ -227,7 +227,7 @@
 </g>
 </g>
 <defs>
-<clipPath id="clip0_5_495">
+<clipPath id="clip0_2013_195">
 <rect width="3055" height="1105" fill="white"/>
 </clipPath>
 </defs>

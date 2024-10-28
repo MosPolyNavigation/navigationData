@@ -1,0 +1,109 @@
+<svg width="1377" height="1409" viewBox="0 0 1377 1409" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ND-2" clip-path="url(#clip0_13_60)">
+<g id="Spaces">
+<path id="nd-2-stair-2" opacity="0.2" d="M601 132L675 8L899 139L825 267L601 132Z" fill="#9CD9BC"/>
+<rect id="nd-2-stair-1" opacity="0.2" x="5" y="970" width="134" height="227" fill="#9CD9BC"/>
+<path id="nd-237" d="M525 787L215 786L299 644L525 787Z" fill="#3B3C41"/>
+<path id="nd-235" d="M299 644L427.5 423L656.5 564L525 787L299 644Z" fill="#3B3C41"/>
+<path id="nd-234" d="M431 421L506 293L730 432L655 562L431 421Z" fill="#3B3C41"/>
+<path id="nd-233" d="M506 293L601 132L825 267L730 432L506 293Z" fill="#3B3C41"/>
+<path id="nd-231" d="M825 583L921 412L969 498L825 583Z" fill="#3B3C41"/>
+<path id="nd-230" d="M825 583L969 498L1077 686L933 772L825 583Z" fill="#3B3C41"/>
+<path id="nd-229" d="M931 770L1077 686L1151 815L1007 903L931 770Z" fill="#3B3C41"/>
+<path id="nd-228" d="M895 970L1151 815L1370 1197L1015 1401L895 1197V970Z" fill="#3B3C41"/>
+<rect id="nd-224" x="558" y="970" width="337" height="227" fill="#3B3C41"/>
+<rect id="nd-223" x="355" y="970" width="203" height="227" fill="#3B3C41"/>
+<rect id="nd-222" x="139" y="970" width="216" height="227" fill="#3B3C41"/>
+<rect id="nd-2-crossing-n" opacity="0.01" x="5" y="792" width="109" height="173" fill="#9CD9BC"/>
+</g>
+<g id="Walls">
+<path id="Vector 14" d="M355 970L355 1197" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 17" d="M139 970L139 1197" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 30" d="M42 970L5 970" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 15" d="M558 970L558 1197" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 16" d="M895 970L895 1197" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 19" d="M1077 686L933 772" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 23" d="M969 498L825 583" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 31" d="M825 267L601 132" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 32" d="M730 432L506 293" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 33" d="M655 562L432 419" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M927.594 944.42L892.41 965.723L897.59 974.277L932.774 952.974L927.594 944.42ZM966.944 920.595L972.123 929.15L1153.59 819.277L1148.41 810.723L966.944 920.595Z" fill="#D9D9D9"/>
+<path id="Subtract_2" fill-rule="evenodd" clip-rule="evenodd" d="M251 975H461V965H251V975ZM205 965H102V975H205V965ZM895 975H711V965H895V975ZM507 965H665V975H507V965Z" fill="#D9D9D9"/>
+<path id="Subtract_3" fill-rule="evenodd" clip-rule="evenodd" d="M782.913 350.138L707.569 480.68L698.909 475.68L774.253 345.138L782.913 350.138ZM675.915 515.52L684.575 520.52L596.958 672.327L588.298 667.327L675.915 515.52ZM881.796 178.81L903.33 141.499L894.669 136.501L873.136 173.81L881.796 178.81ZM858.802 218.651L850.141 213.651L797.247 305.297L805.907 310.297L858.802 218.651ZM565.304 707.167L573.964 712.167L529.331 789.499L527.888 792H525.001H331V782H507.747L296.327 648.225L301.673 639.775L523.273 779.99L565.304 707.167ZM285 782H215.001L215.001 792H285V782Z" fill="#D9D9D9"/>
+<path id="Subtract_4" fill-rule="evenodd" clip-rule="evenodd" d="M887.362 682.535L830.736 582.971L852.062 544.584L843.333 539.705L820.629 580.572L819.264 583.029L820.654 585.472L878.671 687.48L887.362 682.535ZM910.104 722.52L901.413 727.465L948.618 810.463L957.243 805.401L910.104 722.52ZM924.371 414.428L874.402 504.373L865.673 499.494L915.629 409.572L924.371 414.428ZM979.986 845.39L971.361 850.452L1002.65 905.472L1011.35 900.528L979.986 845.39Z" fill="#D9D9D9"/>
+<path id="Subtract_5" fill-rule="evenodd" clip-rule="evenodd" d="M677.546 2.69657L673.237 0.147476L670.693 4.46007L212.144 781.999L4.99999 781.999H0V786.999V858H10V791.999L215 791.999H217.856L219.307 789.539L676.763 13.8525L1023.24 218.81L915.645 409.543L914.248 412.02L915.662 414.487L1363.18 1195.16L1016.8 1395.18L899.315 1194.47L897.867 1192H895H10V904H0V1197V1202H5H892.133L1010.68 1404.53L1013.2 1408.82L1017.5 1406.33L1372.5 1201.33L1376.82 1198.84L1374.34 1194.51L925.752 411.98L1034.35 219.457L1036.76 215.19L1032.55 212.697L677.546 2.69657Z" fill="#D9D9D9"/>
+</g>
+<g id="Textes">
+<text id="b_nd_237" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="298.121" y="744.8">&#x41d;&#x414; 237</tspan></text>
+<text id="b_nd_235" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="444.457" y="613.8">&#x41d;&#x414; 235</tspan></text>
+<text id="b_nd_234" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="546.23" y="435.8">&#x41d;&#x414; 234</tspan></text>
+<text id="b_nd_233" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="631.48" y="290.8">&#x41d;&#x414; 233</tspan></text>
+<text id="b_nd_231" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="888.145" y="499.8">&#x41d;&#x414; 231</tspan></text>
+<text id="b_nd_230" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="916.461" y="643.8">&#x41d;&#x414; 230</tspan></text>
+<text id="b_nd_229" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1005.3" y="802.8">&#x41d;&#x414; 229</tspan></text>
+<text id="b_nd_228" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1097.37" y="1116.8">&#x41d;&#x414; 228</tspan></text>
+<text id="b_nd_224" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="691.254" y="1091.8">&#x41d;&#x414; 224</tspan></text>
+<text id="b_nd_223" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="423.352" y="1091.8">&#x41d;&#x414; 223</tspan></text>
+<text id="b_nd_222" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="213.223" y="1091.8">&#x41d;&#x414; 222</tspan></text>
+</g>
+<g id="Icons">
+<g id="Stair">
+<g id="Stair frame">
+<path id="Vector 152" d="M112 1061H87V1076H72V1091H57V1106H32" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154" d="M44 1061H59M59 1061L56 1075M59 1061L32 1082" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155" d="M100 1106H85M85 1106L88 1092M85 1106L112 1085" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Stair_2">
+<g id="Stair frame_2">
+<path id="Vector 152_2" d="M790 115H765V130H750V145H735V160H710" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154_2" d="M722 115H737M737 115L734 129M737 115L710 136" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155_2" d="M778 160H763M763 160L766 146M763 160L790 139" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Doors">
+<path id="Vector 301" d="M76.5 961L97.5 968L102 968" stroke="#A5A5A7" stroke-width="6"/>
+<path id="Vector 302" d="M67.5 961L46.5 968L42 968" stroke="#A5A5A7" stroke-width="6"/>
+</g>
+<g id="&#208;&#161;rossing">
+<g id="Group 24">
+<path id="Vector 320" d="M26.2418 869.5H82" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round"/>
+<path id="Vector 323" d="M26 894.5H82" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round"/>
+</g>
+<g id="Group 25">
+<circle id="Ellipse 36" cx="42.5" cy="882" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 32" cx="18.5" cy="882" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 37" cx="48.5" cy="882" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 33" cx="24.5" cy="882" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 38" cx="54.5" cy="882" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 34" cx="30.5" cy="882" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 39" cx="60.5" cy="882" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 35" cx="36.5" cy="882" r="1.5" fill="#D9D9D9"/>
+<circle id="Ellipse 40" cx="66.5" cy="882" r="1.5" fill="#D9D9D9"/>
+</g>
+<path id="Vector 325" d="M73.4994 882H99.4994M99.4994 882L89.4994 875.5M99.4994 882L89.4994 888.5" stroke="#D9D9D9" stroke-width="3" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Entrances">
+<circle id="13" cx="581" cy="690" r="10" fill="#9CBBFF"/>
+<circle id="12" cx="691" cy="498" r="10" fill="#9CBBFF"/>
+<circle id="11" cx="790" cy="328" r="10" fill="#9CBBFF"/>
+<circle id="10" cx="865" cy="196" r="10" fill="#9CBBFF"/>
+<circle id="9" cx="859" cy="522" r="10" fill="#9CBBFF"/>
+<circle id="8" cx="950" cy="936" r="10" fill="#9CBBFF"/>
+<circle id="7" cx="894" cy="705" r="10" fill="#9CBBFF"/>
+<circle id="6" cx="965" cy="828" r="10" fill="#9CBBFF"/>
+<circle id="5" cx="688" cy="970" r="10" fill="#9CBBFF"/>
+<circle id="4" cx="484" cy="970" r="10" fill="#9CBBFF"/>
+<circle id="3" cx="3" cy="881" r="10" fill="#9CBBFF"/>
+<circle id="2" cx="228" cy="970" r="10" fill="#9CBBFF"/>
+<circle id="7_2" cx="308" cy="787" r="10" fill="#9CBBFF"/>
+<circle id="1" cx="72" cy="970" r="10" fill="#9CBBFF"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_13_60">
+<rect width="1377" height="1409" fill="white"/>
+</clipPath>
+</defs>
+</svg>
