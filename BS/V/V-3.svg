@@ -70,17 +70,17 @@
 <circle id="7" cx="688" cy="195" r="10" fill="#9CBBFF"/>
 <circle id="6" cx="255" cy="195" r="10" fill="#9CBBFF"/>
 <circle id="5" cx="1142" cy="195" r="10" fill="#9CBBFF"/>
-<circle id="4" cx="1142" cy="315" r="10" fill="#9CBBFF"/>
+<circle id="4" cx="1142" cy="395" r="10" fill="#9CBBFF"/>
 <circle id="3" cx="1195" cy="285" r="10" fill="#9CBBFF"/>
 <circle id="2" cx="1195" cy="228" r="10" fill="#9CBBFF"/>
-<circle id="1" cx="265" cy="325" r="10" fill="#9CBBFF"/>
+<circle id="1" cx="265" cy="395" r="10" fill="#9CBBFF"/>
 </g>
 <g id="Icons">
 <g id="Stair">
 <g id="Stair frame">
-<path id="Vector 152" d="M304 422H279V437H264V452H249V467H224" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="Vector 154" d="M236 422H251M251 422L248 436M251 422L224 443" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="Vector 155" d="M292 467H277M277 467L280 453M277 467L304 446" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 152" d="M304 417H279V432H264V447H249V462H224" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154" d="M236 417H251M251 417L248 431M251 417L224 438" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155" d="M292 462H277M277 462L280 448M277 462L304 441" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </g>
 <g id="Stair_2">

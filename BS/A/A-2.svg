@@ -8,8 +8,7 @@
 <path id="a-219" d="M1778.12 550.315L2048.22 516.095L2063.71 635.843L1792.6 669.102L1778.12 550.315Z" fill="#3B3C41"/>
 <path id="a-218" d="M1763.22 428.057L2031.23 394.094L2046.71 513.843L1777.71 546.844L1763.22 428.057Z" fill="#3B3C41"/>
 <rect id="a-204" x="5" y="1255" width="270" height="225" fill="#3B3C41"/>
-<rect id="a-205" x="275" y="1255" width="355" height="225" fill="#3B3C41"/>
-<rect id="!a" x="90" y="1150" width="455" height="105" fill="#3B3C41"/>
+<path id="a-205" d="M90 1149.5H545V1255H630V1480H275V1255H90V1149.5Z" fill="#3B3C41"/>
 <path id="a-2-stair-4" opacity="0.2" d="M180 1580H5V1623H117V1706H5V1860H180V1580Z" fill="#9CD9BC"/>
 <path id="a-2-stair-2" opacity="0.2" d="M1345 1580H1533L1575 1915H1345V1580Z" fill="#9CD9BC"/>
 <path id="a-2-stair-1" opacity="0.2" d="M2113 1513L2278 1478L2285 1504L2213 1523L2239 1619L2310 1600L2359 1787L2153 1827L2113 1513Z" fill="#9CD9BC"/>
@@ -115,7 +114,7 @@
 <circle id="38" cx="979" cy="1479" r="10" fill="#9CBBFF"/>
 <circle id="39" cx="1079" cy="1479" r="10" fill="#9CBBFF"/>
 <circle id="34" cx="447" cy="1479" r="10" fill="#9CBBFF"/>
-<circle id="10" cx="92" cy="1579" r="10" fill="#9CBBFF"/>
+<circle id="10" cx="92" cy="1630" r="10" fill="#9CBBFF"/>
 <circle id="49" cx="2" cy="1664" r="10" fill="#9CBBFF"/>
 <circle id="46" cx="194" cy="1479" r="10" fill="#9CBBFF"/>
 <circle id="35" cx="382" cy="1579" r="10" fill="#9CBBFF"/>
@@ -126,10 +125,10 @@
 <circle id="19" cx="1302" cy="1479" r="10" fill="#9CBBFF"/>
 <circle id="40" cx="1494" cy="1479" r="10" fill="#9CBBFF"/>
 <circle id="41" cx="1796" cy="1256" r="10" fill="#9CBBFF"/>
-<circle id="20" cx="1443" cy="1580" r="10" fill="#9CBBFF"/>
+<circle id="20" cx="1460" cy="1698" r="10" fill="#9CBBFF"/>
 <circle id="23" cx="1697" cy="856" r="10" fill="#9CBBFF"/>
 <circle id="24" cx="1671" cy="624" r="10" fill="#9CBBFF"/>
-<circle id="25" cx="1657" cy="509" r="10" fill="#9CBBFF"/>
+<circle id="25" cx="1607" cy="509" r="10" fill="#9CBBFF"/>
 <circle id="26" cx="1773" cy="492" r="10" fill="#9CBBFF"/>
 <circle id="27" cx="1818" cy="850" r="10" fill="#9CBBFF"/>
 <circle id="30" cx="1892" cy="1381" r="10" fill="#9CBBFF"/>

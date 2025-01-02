@@ -6,430 +6,430 @@
   "floor": 3,
 "graph": 
 [
-  {
-      "id": "v-309",
-      "x": 1195,
-      "y": 228,
-      "type": "entrancesToAu",
-      "neighborData": [
-          [
-              "v-3_11",
-              53
-          ]
-      ]
-  },
-  {
-      "id": "v-303",
-      "x": 205,
-      "y": 228,
-      "type": "entrancesToAu",
-      "neighborData": [
-          [
-              "v-3_3",
-              50
-          ]
-      ]
-  },
-  {
-      "id": "v-304",
-      "x": 255,
-      "y": 195,
-      "type": "entrancesToAu",
-      "neighborData": [
-          [
-              "v-3_3",
-              33
-          ]
-      ]
-  },
-  {
-      "id": "v-3_3",
-      "x": 255,
-      "y": 228,
-      "type": "hallway",
-      "neighborData": [
-          [
-              "v-3_12",
-              10
-          ],
-          [
-              "v-304",
-              33
-          ],
-          [
-              "v-303",
-              50
-          ]
-      ]
-  },
-  {
-      "id": "v-305",
-      "x": 466,
-      "y": 195,
-      "type": "entrancesToAu",
-      "neighborData": [
-          [
-              "v-3_5",
-              33
-          ]
-      ]
-  },
-  {
-      "id": "v-3_5",
-      "x": 466,
-      "y": 228,
-      "type": "hallway",
-      "neighborData": [
-          [
-              "v-3_12",
-              201
-          ],
-          [
-              "v-3_20",
-              34
-          ],
-          [
-              "v-305",
-              33
-          ]
-      ]
-  },
-  {
-      "id": "v-306",
-      "x": 688,
-      "y": 195,
-      "type": "entrancesToAu",
-      "neighborData": [
-          [
-              "v-3_7",
-              33
-          ]
-      ]
-  },
-  {
-      "id": "v-3_7",
-      "x": 688,
-      "y": 228,
-      "type": "hallway",
-      "neighborData": [
-          [
-              "v-3_20",
-              188
-          ],
-          [
-              "v-3_22",
-              242
-          ],
-          [
-              "v-306",
-              33
-          ]
-      ]
-  },
-  {
-      "id": "v-307",
-      "x": 965,
-      "y": 195,
-      "type": "entrancesToAu",
-      "neighborData": [
-          [
-              "v-3_9",
-              33
-          ]
-      ]
-  },
-  {
-      "id": "v-3_9",
-      "x": 965,
-      "y": 228,
-      "type": "hallway",
-      "neighborData": [
-          [
-              "v-3_22",
-              35
-          ],
-          [
-              "v-3_11",
-              177
-          ],
-          [
-              "v-307",
-              33
-          ]
-      ]
-  },
-  {
-      "id": "v-308",
-      "x": 1142,
-      "y": 195,
-      "type": "entrancesToAu",
-      "neighborData": [
-          [
-              "v-3_11",
-              33
-          ]
-      ]
-  },
-  {
-      "id": "v-3_11",
-      "x": 1142,
-      "y": 228,
-      "type": "hallway",
-      "neighborData": [
-          [
-              "v-3_9",
-              177
-          ],
-          [
-              "v-3_25",
-              57
-          ],
-          [
-              "v-309",
-              53
-          ],
-          [
-              "v-308",
-              33
-          ]
-      ]
-  },
-  {
-      "id": "v-3_12",
-      "x": 265,
-      "y": 228,
-      "type": "hallway",
-      "neighborData": [
-          [
-              "v-3_3",
-              10
-          ],
-          [
-              "v-3_5",
-              201
-          ],
-          [
-              "v-3_15",
-              67
-          ]
-      ]
-  },
-  {
-      "id": "v-3-stair-1",
-      "x": 265,
-      "y": 325,
-      "type": "stair",
-      "neighborData": [
-          [
-              "v-3_15",
-              30
-          ]
-      ]
-  },
-  {
-      "id": "v-302",
-      "x": 125,
-      "y": 295,
-      "type": "entrancesToAu",
-      "neighborData": [
-          [
-              "v-3_16",
-              25
-          ]
-      ]
-  },
-  {
-      "id": "v-3_15",
-      "x": 265,
-      "y": 295,
-      "type": "hallway",
-      "neighborData": [
-          [
-              "v-3_12",
-              67
-          ],
-          [
-              "v-3_16",
-              115
-          ],
-          [
-              "v-3-stair-1",
-              30
-          ]
-      ]
-  },
-  {
-      "id": "v-3_16",
-      "x": 150,
-      "y": 295,
-      "type": "hallway",
-      "neighborData": [
-          [
-              "v-3_15",
-              115
-          ],
-          [
-              "v-3_18",
-              112
-          ],
-          [
-              "v-302",
-              25
-          ]
-      ]
-  },
-  {
-      "id": "v-301",
-      "x": 150,
-      "y": 443,
-      "type": "entrancesToAu",
-      "neighborData": [
-          [
-              "v-3_18",
-              36
-          ]
-      ]
-  },
-  {
-      "id": "v-3_18",
-      "x": 150,
-      "y": 407,
-      "type": "hallway",
-      "neighborData": [
-          [
-              "v-3_16",
-              112
-          ],
-          [
-              "v-301",
-              36
-          ],
-          [
-              "v-3-crossing-a",
-              145
-          ]
-      ]
-  },
-  {
-      "id": "v-3-crossing-a",
-      "x": 5,
-      "y": 407,
-      "type": "crossing",
-      "neighborData": [
-          [
-              "v-3_18",
-              145
-          ]
-      ]
-  },
-  {
-      "id": "v-3_20",
-      "x": 500,
-      "y": 228,
-      "type": "hallway",
-      "neighborData": [
-          [
-              "v-3_5",
-              34
-          ],
-          [
-              "v-3_7",
-              188
-          ],
-          [
-              "v-312",
-              47
-          ]
-      ]
-  },
-  {
-      "id": "v-312",
-      "x": 500,
-      "y": 275,
-      "type": "entrancesToAu",
-      "neighborData": [
-          [
-              "v-3_20",
-              47
-          ]
-      ]
-  },
-  {
-      "id": "v-3_22",
-      "x": 930,
-      "y": 228,
-      "type": "hallway",
-      "neighborData": [
-          [
-              "v-3_7",
-              242
-          ],
-          [
-              "v-3_9",
-              35
-          ],
-          [
-              "v-311",
-              47
-          ]
-      ]
-  },
-  {
-      "id": "v-311",
-      "x": 930,
-      "y": 275,
-      "type": "entrancesToAu",
-      "neighborData": [
-          [
-              "v-3_22",
-              47
-          ]
-      ]
-  },
-  {
-      "id": "v-3-stair-2",
-      "x": 1142,
-      "y": 315,
-      "type": "stair",
-      "neighborData": [
-          [
-              "v-3_25",
-              30
-          ]
-      ]
-  },
-  {
-      "id": "v-3_25",
-      "x": 1142,
-      "y": 285,
-      "type": "hallway",
-      "neighborData": [
-          [
-              "v-3_11",
-              57
-          ],
-          [
-              "v-310",
-              53
-          ],
-          [
-              "v-3-stair-2",
-              30
-          ]
-      ]
-  },
-  {
-      "id": "v-310",
-      "x": 1195,
-      "y": 285,
-      "type": "entrancesToAu",
-      "neighborData": [
-          [
-              "v-3_25",
-              53
-          ]
-      ]
-  }
+    {
+        "id": "v-309",
+        "x": 1195,
+        "y": 228,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "v-3_11",
+                53
+            ]
+        ]
+    },
+    {
+        "id": "v-303",
+        "x": 205,
+        "y": 228,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "v-3_3",
+                50
+            ]
+        ]
+    },
+    {
+        "id": "v-304",
+        "x": 255,
+        "y": 195,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "v-3_3",
+                33
+            ]
+        ]
+    },
+    {
+        "id": "v-3_3",
+        "x": 255,
+        "y": 228,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "v-3_12",
+                10
+            ],
+            [
+                "v-304",
+                33
+            ],
+            [
+                "v-303",
+                50
+            ]
+        ]
+    },
+    {
+        "id": "v-305",
+        "x": 466,
+        "y": 195,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "v-3_5",
+                33
+            ]
+        ]
+    },
+    {
+        "id": "v-3_5",
+        "x": 466,
+        "y": 228,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "v-3_12",
+                201
+            ],
+            [
+                "v-3_20",
+                34
+            ],
+            [
+                "v-305",
+                33
+            ]
+        ]
+    },
+    {
+        "id": "v-306",
+        "x": 688,
+        "y": 195,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "v-3_7",
+                33
+            ]
+        ]
+    },
+    {
+        "id": "v-3_7",
+        "x": 688,
+        "y": 228,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "v-3_20",
+                188
+            ],
+            [
+                "v-3_22",
+                242
+            ],
+            [
+                "v-306",
+                33
+            ]
+        ]
+    },
+    {
+        "id": "v-307",
+        "x": 965,
+        "y": 195,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "v-3_9",
+                33
+            ]
+        ]
+    },
+    {
+        "id": "v-3_9",
+        "x": 965,
+        "y": 228,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "v-3_22",
+                35
+            ],
+            [
+                "v-3_11",
+                177
+            ],
+            [
+                "v-307",
+                33
+            ]
+        ]
+    },
+    {
+        "id": "v-308",
+        "x": 1142,
+        "y": 195,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "v-3_11",
+                33
+            ]
+        ]
+    },
+    {
+        "id": "v-3_11",
+        "x": 1142,
+        "y": 228,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "v-3_9",
+                177
+            ],
+            [
+                "v-3_25",
+                57
+            ],
+            [
+                "v-309",
+                53
+            ],
+            [
+                "v-308",
+                33
+            ]
+        ]
+    },
+    {
+        "id": "v-3_12",
+        "x": 265,
+        "y": 228,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "v-3_3",
+                10
+            ],
+            [
+                "v-3_5",
+                201
+            ],
+            [
+                "v-3_15",
+                67
+            ]
+        ]
+    },
+    {
+        "id": "v-3-stair-1",
+        "x": 265,
+        "y": 395,
+        "type": "stair",
+        "neighborData": [
+            [
+                "v-3_15",
+                100
+            ]
+        ]
+    },
+    {
+        "id": "v-302",
+        "x": 125,
+        "y": 295,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "v-3_16",
+                25
+            ]
+        ]
+    },
+    {
+        "id": "v-3_15",
+        "x": 265,
+        "y": 295,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "v-3_12",
+                67
+            ],
+            [
+                "v-3_16",
+                115
+            ],
+            [
+                "v-3-stair-1",
+                100
+            ]
+        ]
+    },
+    {
+        "id": "v-3_16",
+        "x": 150,
+        "y": 295,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "v-3_15",
+                115
+            ],
+            [
+                "v-3_18",
+                112
+            ],
+            [
+                "v-302",
+                25
+            ]
+        ]
+    },
+    {
+        "id": "v-301",
+        "x": 150,
+        "y": 443,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "v-3_18",
+                36
+            ]
+        ]
+    },
+    {
+        "id": "v-3_18",
+        "x": 150,
+        "y": 407,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "v-3_16",
+                112
+            ],
+            [
+                "v-301",
+                36
+            ],
+            [
+                "v-3-crossing-a",
+                145
+            ]
+        ]
+    },
+    {
+        "id": "v-3-crossing-a",
+        "x": 5,
+        "y": 407,
+        "type": "crossing",
+        "neighborData": [
+            [
+                "v-3_18",
+                145
+            ]
+        ]
+    },
+    {
+        "id": "v-3_20",
+        "x": 500,
+        "y": 228,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "v-3_5",
+                34
+            ],
+            [
+                "v-3_7",
+                188
+            ],
+            [
+                "v-312",
+                47
+            ]
+        ]
+    },
+    {
+        "id": "v-312",
+        "x": 500,
+        "y": 275,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "v-3_20",
+                47
+            ]
+        ]
+    },
+    {
+        "id": "v-3_22",
+        "x": 930,
+        "y": 228,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "v-3_7",
+                242
+            ],
+            [
+                "v-3_9",
+                35
+            ],
+            [
+                "v-311",
+                47
+            ]
+        ]
+    },
+    {
+        "id": "v-311",
+        "x": 930,
+        "y": 275,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "v-3_22",
+                47
+            ]
+        ]
+    },
+    {
+        "id": "v-3-stair-2",
+        "x": 1142,
+        "y": 395,
+        "type": "stair",
+        "neighborData": [
+            [
+                "v-3_25",
+                110
+            ]
+        ]
+    },
+    {
+        "id": "v-3_25",
+        "x": 1142,
+        "y": 285,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "v-3_11",
+                57
+            ],
+            [
+                "v-310",
+                53
+            ],
+            [
+                "v-3-stair-2",
+                110
+            ]
+        ]
+    },
+    {
+        "id": "v-310",
+        "x": 1195,
+        "y": 285,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "v-3_25",
+                53
+            ]
+        ]
+    }
 ],
   "spaces": []
 }

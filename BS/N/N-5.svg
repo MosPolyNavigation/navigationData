@@ -9,8 +9,8 @@
 <path id="!n-2-stair-3" opacity="0.2" d="M330.5 7H630.5V152H430.5V262H330.5V7Z" fill="#9CD9BC"/>
 <path id="n-5-stair-1" opacity="0.2" d="M2740.5 7H3050.5V172H2820.5V262H2740.5V7Z" fill="#9CD9BC"/>
 <path id="n-5-stair-2" opacity="0.2" d="M1530.5 7H1850.5V152H1630.5V262H1530.5V7Z" fill="#9CD9BC"/>
-<rect id="n-5-lift-2" opacity="0.2" x="2973.5" y="172" width="77" height="90" fill="#A091F8"/>
-<rect id="n-5-lift-2_2" opacity="0.2" x="2897.5" y="172" width="76" height="90" fill="#A091F8"/>
+<rect id="!n-5-lift-3" x="2973.5" y="172" width="77" height="90" fill="#3B3C41"/>
+<rect id="!n-5-lift-2" x="2897.5" y="172" width="76" height="90" fill="#3B3C41"/>
 <rect id="n-5-lift-1" opacity="0.2" x="2820.5" y="172" width="77" height="90" fill="#A091F8"/>
 <rect id="n-519" x="1850.5" y="242" width="560" height="220" fill="#3B3C41"/>
 <rect id="n-518" x="2410.5" y="7" width="330" height="255" fill="#3B3C41"/>
@@ -27,59 +27,6 @@
 <rect id="n-505" x="1210.5" y="352" width="320" height="510" fill="#3B3C41"/>
 <rect id="n-504" x="1370.5" y="7" width="160" height="255" fill="#3B3C41"/>
 <rect id="n-503" x="1210.5" y="7" width="160" height="255" fill="#3B3C41"/>
-<g id="Mask group">
-<mask id="mask0_2069_395" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-2886" y="-370" width="6198" height="2038">
-<g id="Frame 1">
-<g id="Group 27">
-<path id="Vector 337" d="M24 -362L-1998 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 338" d="M104 -362L-1918 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 339" d="M184 -362L-1838 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 340" d="M264 -362L-1758 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 341" d="M344 -362L-1678 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 342" d="M424 -362L-1598 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 343" d="M504 -362L-1518 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 344" d="M584 -362L-1438 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 345" d="M664 -362L-1358 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 346" d="M744 -362L-1278 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 347" d="M824 -362L-1198 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 348" d="M904 -362L-1118 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 349" d="M984 -362L-1038 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 350" d="M1064 -362L-958 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 351" d="M1144 -362L-878 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 352" d="M1224 -362L-798 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 353" d="M1304 -362L-718 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 354" d="M1384 -362L-638 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 355" d="M1464 -362L-558 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 356" d="M1544 -362L-478 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 357" d="M1624 -362L-398 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 358" d="M1704 -362L-318 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 359" d="M1784 -362L-238 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 360" d="M1864 -362L-158 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 361" d="M1944 -362L-78 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 362" d="M2024 -362L2 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 363" d="M2104 -362L82 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 364" d="M2184 -362L162 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 365" d="M2264 -362L242 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 366" d="M2344 -362L322 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 367" d="M2424 -362L402 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 368" d="M2504 -362L482 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 369" d="M2584 -362L562 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 370" d="M2664 -362L642 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 371" d="M2744 -362L722 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 372" d="M2824 -362L802 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 373" d="M2904 -362L882 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 374" d="M2984 -362L962 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 375" d="M3064 -362L1042 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 376" d="M3144 -362L1122 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 377" d="M3224 -362L1202 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-<path id="Vector 378" d="M3304 -362L1282 1660" stroke="#FF5F5F" stroke-opacity="0.5" stroke-width="20"/>
-</g>
-</g>
-</mask>
-<g mask="url(#mask0_2069_395)">
-<path id="Rectangle 243" d="M5.5 7H630.5V242H1210.5V462H630.5V1101H5.5V7Z" fill="#FF5F5F" fill-opacity="0.5"/>
-</g>
-</g>
 </g>
 <g id="Walls">
 <path id="Vneskniy kontur" d="M630 5H5V1100H630V460H1210V1100H1850V460H2410V1100H3050V5H2410V240H1850V5H1210V240H630V5Z" stroke="#D9D9D9" stroke-width="10"/>
@@ -140,12 +87,10 @@
 <circle id="29" cx="1530.01" cy="483" r="10" fill="#9CBBFF"/>
 <circle id="28" cx="1530.01" cy="913" r="10" fill="#9CBBFF"/>
 <circle id="27" cx="1630.01" cy="777" r="10" fill="#9CBBFF"/>
-<circle id="24" cx="1580.01" cy="260" r="10" fill="#9CBBFF"/>
+<circle id="24" cx="1676" cy="78" r="10" fill="#9CBBFF"/>
 <circle id="23" cx="2740" cy="983" r="10" fill="#9CBBFF"/>
 <circle id="22" cx="1477" cy="260" r="10" fill="#9CBBFF"/>
-<circle id="21" cx="2780" cy="260" r="10" fill="#9CBBFF"/>
-<circle id="20" cx="3011" cy="260" r="10" fill="#9CBBFF"/>
-<circle id="19" cx="2935" cy="260" r="10" fill="#9CBBFF"/>
+<circle id="21" cx="2874" cy="86" r="10" fill="#9CBBFF"/>
 <circle id="18" cx="2859" cy="260" r="10" fill="#9CBBFF"/>
 <circle id="17" cx="2647" cy="260" r="10" fill="#9CBBFF"/>
 <circle id="16" cx="2410" cy="305" r="10" fill="#9CBBFF"/>
@@ -166,24 +111,6 @@
 <path d="M2854 199C2854 201.209 2852.21 203 2850 203C2847.79 203 2846 201.209 2846 199C2846 196.791 2847.79 195 2850 195C2852.21 195 2854 196.791 2854 199Z" fill="#A091F8"/>
 </g>
 <path id="Vector 201" d="M2846.5 242.5H2834.5V187.5H2883.5V242.5H2871.5" stroke="#A091F8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-<g id="Elevator_2">
-<g id="Vector_2">
-<path d="M2952 212L2946 206L2940 212H2952Z" fill="#A091F8"/>
-<path d="M2952 216L2946 222L2940 216H2952Z" fill="#A091F8"/>
-<path d="M2934 212C2934 209 2932 206 2929 206H2925C2922 206 2920 209 2920 212V217C2920 219 2921.5 220.5 2923 220.5V230C2923 231.6 2924.33 232 2925 232H2929C2929.67 232 2931 231.6 2931 230V220.5C2932.5 220.5 2934 219 2934 217V212Z" fill="#A091F8"/>
-<path d="M2931 199C2931 201.209 2929.21 203 2927 203C2924.79 203 2923 201.209 2923 199C2923 196.791 2924.79 195 2927 195C2929.21 195 2931 196.791 2931 199Z" fill="#A091F8"/>
-</g>
-<path id="Vector 201_2" d="M2923.5 242.5H2911.5V187.5H2960.5V242.5H2948.5" stroke="#A091F8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-<g id="Elevator_3">
-<g id="Vector_3">
-<path d="M3028 212L3022 206L3016 212H3028Z" fill="#A091F8"/>
-<path d="M3028 216L3022 222L3016 216H3028Z" fill="#A091F8"/>
-<path d="M3010 212C3010 209 3008 206 3005 206H3001C2998 206 2996 209 2996 212V217C2996 219 2997.5 220.5 2999 220.5V230C2999 231.6 3000.33 232 3001 232H3005C3005.67 232 3007 231.6 3007 230V220.5C3008.5 220.5 3010 219 3010 217V212Z" fill="#A091F8"/>
-<path d="M3007 199C3007 201.209 3005.21 203 3003 203C3000.79 203 2999 201.209 2999 199C2999 196.791 3000.79 195 3003 195C3005.21 195 3007 196.791 3007 199Z" fill="#A091F8"/>
-</g>
-<path id="Vector 201_3" d="M2999.5 242.5H2987.5V187.5H3036.5V242.5H3024.5" stroke="#A091F8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <g id="Stair">
 <g id="Stair frame">
@@ -219,6 +146,7 @@
 <path id="Vector 302_3" d="M2784.5 269L2805.5 262H2810" stroke="#A5A5A7" stroke-width="6"/>
 </g>
 </g>
+<path id="!-unexplored" opacity="0.5" d="M635 465V1105H0V0H635L634.5 234.5L1205 235V465H635Z" fill="#131416"/>
 </g>
 <defs>
 <clipPath id="clip0_2069_395">

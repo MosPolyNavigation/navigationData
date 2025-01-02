@@ -4,726 +4,743 @@
   "campus": "BS",
   "corpus": "N",
   "floor": 1,
-  "entrances": [
-    ["n-1-stair-3","28"],
-    ["n-1-stair-2","30"],
-    ["n-1-stair-1","23"],
-    ["n-103","5"],
-    ["n-111","15"]
-  ],
-  "graph": [
+  "entrances": 
+  [
+    [
+        "n-111",
+        "15"
+    ],
+    [
+        "n-103",
+        "5"
+    ],
+    [
+        "n-1-stair-3",
+        "28"
+    ],
+    [
+        "n-1-stair-1",
+        "23"
+    ],
+    [
+        "n-1-stair-2",
+        "30"
+    ]
+],
+  "graph": 
+  [
     {
-      "id": "n-1_0",
-      "x": 3011,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_4",
-          76
-        ],
-        [
-          "n-1-lift-3",
-          135
+        "id": "n-1_0",
+        "x": 2859,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_7",
+                78
+            ],
+            [
+                "n-1-lift-1",
+                135
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_1",
-      "x": 380,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_39",
-          477
-        ],
-        [
-          "n-1_42",
-          12
-        ],
-        [
-          "n-1-stair-3",
-          135
+        "id": "n-1_1",
+        "x": 380,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_36",
+                135
+            ],
+            [
+                "n-1_35",
+                477
+            ],
+            [
+                "n-1_38",
+                12
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1-lift-3",
-      "x": 3011,
-      "y": 260,
-      "type": "lift",
-      "neighborData": [
-        [
-          "n-1_0",
-          135
+        "id": "n-1-lift-1",
+        "x": 2859,
+        "y": 260,
+        "type": "lift",
+        "neighborData": [
+            [
+                "n-1_0",
+                135
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1-lift-2",
-      "x": 2935,
-      "y": 260,
-      "type": "lift",
-      "neighborData": [
-        [
-          "n-1_4",
-          135
+        "id": "n-1_3",
+        "x": 2780,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_9",
+                583
+            ],
+            [
+                "n-1_7",
+                1
+            ],
+            [
+                "n-1_6",
+                98
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_4",
-      "x": 2935,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_6",
-          76
-        ],
-        [
-          "n-1_0",
-          76
-        ],
-        [
-          "n-1-lift-2",
-          135
+        "id": "n-1_4",
+        "x": 2780,
+        "y": 86,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_6",
+                211
+            ],
+            [
+                "n-1-stair-1",
+                94
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1-lift-1",
-      "x": 2859,
-      "y": 260,
-      "type": "lift",
-      "neighborData": [
-        [
-          "n-1_6",
-          135
+        "id": "n-115",
+        "x": 2740,
+        "y": 297,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_6",
+                40
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_6",
-      "x": 2859,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_11",
-          78
-        ],
-        [
-          "n-1_4",
-          76
-        ],
-        [
-          "n-1-lift-1",
-          135
+        "id": "n-1_6",
+        "x": 2780,
+        "y": 297,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_4",
+                211
+            ],
+            [
+                "n-1_3",
+                98
+            ],
+            [
+                "n-115",
+                40
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1-stair-1",
-      "x": 2780,
-      "y": 261,
-      "type": "stair",
-      "neighborData": [
-        [
-          "n-1_10",
-          36
+        "id": "n-1_7",
+        "x": 2781,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_3",
+                1
+            ],
+            [
+                "n-1_0",
+                78
+            ],
+            [
+                "n-116",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_8",
-      "x": 2780,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_13",
-          583
-        ],
-        [
-          "n-1_11",
-          1
-        ],
-        [
-          "n-1_10",
-          98
+        "id": "n-116",
+        "x": 2781,
+        "y": 460,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_7",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-115",
-      "x": 2740,
-      "y": 297,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_10",
-          40
+        "id": "n-1_9",
+        "x": 2197,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_29",
+                180
+            ],
+            [
+                "n-1_3",
+                583
+            ],
+            [
+                "n-114",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_10",
-      "x": 2780,
-      "y": 297,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_8",
-          98
-        ],
-        [
-          "n-1-stair-1",
-          36
-        ],
-        [
-          "n-115",
-          40
+        "id": "n-114",
+        "x": 2197,
+        "y": 460,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_9",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_11",
-      "x": 2781,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_8",
-          1
-        ],
-        [
-          "n-1_6",
-          78
-        ],
-        [
-          "n-116",
-          65
+        "id": "n-1_11",
+        "x": 1897,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_13",
+                92
+            ],
+            [
+                "n-1_29",
+                120
+            ],
+            [
+                "n-112",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-116",
-      "x": 2781,
-      "y": 460,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_11",
-          65
+        "id": "n-112",
+        "x": 1897,
+        "y": 460,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_11",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_13",
-      "x": 2197,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_33",
-          180
-        ],
-        [
-          "n-1_8",
-          583
-        ],
-        [
-          "n-114",
-          65
+        "id": "n-1_13",
+        "x": 1805,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_15",
+                94
+            ],
+            [
+                "n-1_11",
+                92
+            ],
+            [
+                "n-111",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-114",
-      "x": 2197,
-      "y": 460,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_13",
-          65
+        "id": "n-111",
+        "x": 1805,
+        "y": 460,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_13",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_15",
-      "x": 1897,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_17",
-          92
-        ],
-        [
-          "n-1_33",
-          120
-        ],
-        [
-          "n-112",
-          65
+        "id": "n-1_15",
+        "x": 1711,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_17",
+                101
+            ],
+            [
+                "n-1_13",
+                94
+            ],
+            [
+                "n-110",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-112",
-      "x": 1897,
-      "y": 460,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_15",
-          65
+        "id": "n-110",
+        "x": 1711,
+        "y": 460,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_15",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_17",
-      "x": 1805,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_19",
-          94
-        ],
-        [
-          "n-1_15",
-          92
-        ],
-        [
-          "n-111",
-          65
+        "id": "n-1_17",
+        "x": 1610,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_30",
+                30
+            ],
+            [
+                "n-1_15",
+                101
+            ],
+            [
+                "n-109",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-111",
-      "x": 1805,
-      "y": 460,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_17",
-          65
+        "id": "n-109",
+        "x": 1610,
+        "y": 460,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_17",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_19",
-      "x": 1711,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_21",
-          101
-        ],
-        [
-          "n-1_17",
-          94
-        ],
-        [
-          "n-110",
-          65
+        "id": "n-1_19",
+        "x": 1510,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_21",
+                95
+            ],
+            [
+                "n-1_30",
+                70
+            ],
+            [
+                "n-108",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-110",
-      "x": 1711,
-      "y": 460,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_19",
-          65
+        "id": "n-108",
+        "x": 1510,
+        "y": 460,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_19",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_21",
-      "x": 1610,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_35",
-          30
-        ],
-        [
-          "n-1_19",
-          101
-        ],
-        [
-          "n-109",
-          65
+        "id": "n-1_21",
+        "x": 1415,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_23",
+                95
+            ],
+            [
+                "n-1_19",
+                95
+            ],
+            [
+                "n-107",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-109",
-      "x": 1610,
-      "y": 460,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_21",
-          65
+        "id": "n-107",
+        "x": 1415,
+        "y": 460,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_21",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_23",
-      "x": 1510,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_25",
-          95
-        ],
-        [
-          "n-1_35",
-          70
-        ],
-        [
-          "n-108",
-          65
+        "id": "n-1_23",
+        "x": 1320,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_33",
+                23
+            ],
+            [
+                "n-1_21",
+                95
+            ],
+            [
+                "n-106",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-108",
-      "x": 1510,
-      "y": 460,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_23",
-          65
+        "id": "n-106",
+        "x": 1320,
+        "y": 460,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_23",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_25",
-      "x": 1415,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_27",
-          95
-        ],
-        [
-          "n-1_23",
-          95
-        ],
-        [
-          "n-107",
-          65
+        "id": "n-1_25",
+        "x": 1087,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_35",
+                230
+            ],
+            [
+                "n-1_33",
+                210
+            ],
+            [
+                "n-103k",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-107",
-      "x": 1415,
-      "y": 460,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_25",
-          65
+        "id": "n-103k",
+        "x": 1087,
+        "y": 460,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_25",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_27",
-      "x": 1320,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_37",
-          23
-        ],
-        [
-          "n-1_25",
-          95
-        ],
-        [
-          "n-106",
-          65
+        "id": "n-103",
+        "x": 380,
+        "y": 460,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_38",
+                53
+            ]
         ]
-      ]
     },
     {
-      "id": "n-106",
-      "x": 1320,
-      "y": 460,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_27",
-          65
+        "id": "n-113",
+        "x": 2017,
+        "y": 330,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_29",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_29",
-      "x": 1087,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_39",
-          230
-        ],
-        [
-          "n-1_37",
-          210
-        ],
-        [
-          "n-103k",
-          65
+        "id": "n-1_29",
+        "x": 2017,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_11",
+                120
+            ],
+            [
+                "n-1_9",
+                180
+            ],
+            [
+                "n-113",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-103k",
-      "x": 1087,
-      "y": 460,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_29",
-          65
+        "id": "n-1_30",
+        "x": 1580,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_31",
+                317
+            ],
+            [
+                "n-1_19",
+                70
+            ],
+            [
+                "n-1_17",
+                30
+            ]
         ]
-      ]
     },
     {
-      "id": "n-103",
-      "x": 380,
-      "y": 460,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_42",
-          53
+        "id": "n-1_31",
+        "x": 1580,
+        "y": 78,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_30",
+                317
+            ],
+            [
+                "n-1-stair-2",
+                95
+            ]
         ]
-      ]
     },
     {
-      "id": "n-113",
-      "x": 2017,
-      "y": 330,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_33",
-          65
+        "id": "n-105",
+        "x": 1297,
+        "y": 330,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_33",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_33",
-      "x": 2017,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_15",
-          120
-        ],
-        [
-          "n-1_13",
-          180
-        ],
-        [
-          "n-113",
-          65
+        "id": "n-1_33",
+        "x": 1297,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_25",
+                210
+            ],
+            [
+                "n-1_23",
+                23
+            ],
+            [
+                "n-105",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1-stair-2",
-      "x": 1580,
-      "y": 260,
-      "type": "stair",
-      "neighborData": [
-        [
-          "n-1_35",
-          135
+        "id": "n-104",
+        "x": 857,
+        "y": 330,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_35",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_35",
-      "x": 1580,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_23",
-          70
-        ],
-        [
-          "n-1_21",
-          30
-        ],
-        [
-          "n-1-stair-2",
-          135
+        "id": "n-1_35",
+        "x": 857,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_1",
+                477
+            ],
+            [
+                "n-1_25",
+                230
+            ],
+            [
+                "n-104",
+                65
+            ]
         ]
-      ]
     },
     {
-      "id": "n-105",
-      "x": 1297,
-      "y": 330,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_37",
-          65
+        "id": "n-1_36",
+        "x": 380,
+        "y": 260,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_1",
+                135
+            ],
+            [
+                "n-1_41",
+                128
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_37",
-      "x": 1297,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_29",
-          210
-        ],
-        [
-          "n-1_27",
-          23
-        ],
-        [
-          "n-105",
-          65
+        "id": "n-102",
+        "x": 330,
+        "y": 407,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_38",
+                50
+            ]
         ]
-      ]
     },
     {
-      "id": "n-104",
-      "x": 857,
-      "y": 330,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_39",
-          65
+        "id": "n-1_38",
+        "x": 380,
+        "y": 407,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_1",
+                12
+            ],
+            [
+                "n-103",
+                53
+            ],
+            [
+                "n-102",
+                50
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_39",
-      "x": 857,
-      "y": 395,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_1",
-          477
-        ],
-        [
-          "n-1_29",
-          230
-        ],
-        [
-          "n-104",
-          65
+        "id": "n-1_39",
+        "x": 380,
+        "y": 71,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_41",
+                61
+            ],
+            [
+                "n-1-stair-3",
+                75
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1-stair-3",
-      "x": 380,
-      "y": 260,
-      "type": "stair",
-      "neighborData": [
-        [
-          "n-1_1",
-          135
-        ],
-        [
-          "n-1_43",
-          128
+        "id": "n-101",
+        "x": 330,
+        "y": 132,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "n-1_41",
+                50
+            ]
         ]
-      ]
     },
     {
-      "id": "n-102",
-      "x": 330,
-      "y": 407,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_42",
-          50
+        "id": "n-1_41",
+        "x": 380,
+        "y": 132,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "n-1_39",
+                61
+            ],
+            [
+                "n-1_36",
+                128
+            ],
+            [
+                "n-101",
+                50
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_42",
-      "x": 380,
-      "y": 407,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1_1",
-          12
-        ],
-        [
-          "n-103",
-          53
-        ],
-        [
-          "n-102",
-          50
+        "id": "n-1-stair-3",
+        "x": 455,
+        "y": 71,
+        "type": "stair",
+        "neighborData": [
+            [
+                "n-1_39",
+                75
+            ]
         ]
-      ]
     },
     {
-      "id": "n-1_43",
-      "x": 380,
-      "y": 132,
-      "type": "hallway",
-      "neighborData": [
-        [
-          "n-1-stair-3",
-          128
-        ],
-        [
-          "n-101",
-          50
+        "id": "n-1-stair-1",
+        "x": 2874,
+        "y": 86,
+        "type": "stair",
+        "neighborData": [
+            [
+                "n-1_4",
+                94
+            ]
         ]
-      ]
     },
     {
-      "id": "n-101",
-      "x": 330,
-      "y": 132,
-      "type": "entrancesToAu",
-      "neighborData": [
-        [
-          "n-1_43",
-          50
+        "id": "n-1-stair-2",
+        "x": 1675,
+        "y": 78,
+        "type": "stair",
+        "neighborData": [
+            [
+                "n-1_31",
+                95
+            ]
         ]
-      ]
     }
-  ],
+],
   "spaces": []
 }

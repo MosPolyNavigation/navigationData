@@ -1,22 +1,16 @@
 <svg width="2150" height="870" viewBox="0 0 2150 870" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="B-2" clip-path="url(#clip0_2001_696)">
 <g id="Spaces">
-<rect id="b" x="1745" y="5" width="100" height="220" fill="#3B3C41"/>
 <rect id="!b" x="1255" y="5" width="390" height="220" fill="#3B3C41"/>
-<rect id="Rectangle 104" x="885" y="325" width="115" height="220" fill="#3B3C41"/>
-<path id="Rectangle 105" d="M1000 325H1140H1255V411V461H1140V545H1000V325Z" fill="#3B3C41"/>
-<rect id="Rectangle 106" x="1140" y="460" width="115" height="85" fill="#3B3C41"/>
-<rect id="Rectangle 100" x="1925" y="450" width="110" height="180" fill="#3B3C41"/>
-<rect id="Rectangle 101" x="2035" y="450" width="110" height="180" fill="#3B3C41"/>
-<rect id="Rectangle 102" x="1845" y="630" width="125" height="235" fill="#3B3C41"/>
-<rect id="Rectangle 103" x="1970" y="630" width="175" height="235" fill="#3B3C41"/>
+<rect id="!Rectangle 104" x="885" y="325" width="115" height="220" fill="#3B3C41"/>
+<path id="!Rectangle 105" d="M1000 325H1140H1255V411V461H1140V545H1000V325Z" fill="#3B3C41"/>
+<rect id="!Rectangle 106" x="1140" y="460" width="115" height="85" fill="#3B3C41"/>
 <rect id="!Rectangle 97" x="885" y="5" width="370" height="220" fill="#3B3C41"/>
-<path id="!Rectangle 95" d="M5 5H200V120H130V220H220V325H304V865H5V5Z" fill="#3B3C41"/>
-<rect id="b-208" x="1845" y="5" width="300" height="219.998" fill="#3B3C41"/>
+<rect id="b-208" x="1745" width="400" height="225" fill="#3B3C41"/>
 <rect id="b-207" x="1645" y="5" width="100" height="220" fill="#3B3C41"/>
-<rect id="b-201a" x="1845" y="425" width="80" height="205" fill="#3B3C41"/>
+<path id="b-201a" d="M1845 425H1925.13V450.5L2146 451.5V864H1845V425Z" fill="#3B3C41"/>
 <path id="b-201" d="M1925 335H2145V450H1925V425H1845V375V325H1925V335Z" fill="#3B3C41"/>
-<path id="b-food" opacity="0.2" d="M200 5H885V225H785V325H220V220H130V166V120H200V5Z" fill="#F0B771"/>
+<path id="b-food" opacity="0.2" d="M4.5 5H885V225H785V325H305V865.5H4.5V239.5V200.5V164.5V133.5V101.5V5Z" fill="#F0B771"/>
 <rect id="!b-2-stair-4" x="1255" y="325.009" width="100" height="220" fill="#3B3C41"/>
 <rect id="!b-2-stair-3" x="785" y="325" width="100" height="220" fill="#3B3C41"/>
 <rect id="b-2-stair-1" opacity="0.2" x="1925" y="225" width="220" height="110" fill="#9CD9BC"/>
@@ -45,9 +39,9 @@
 <path id="Subtract_11" fill-rule="evenodd" clip-rule="evenodd" d="M1825 315.102V325H1835V315.019L1825 315.102ZM1825 235.099L1835 235.017V225H1825V235.099Z" fill="#D9D9D9"/>
 <path id="Subtract_12" fill-rule="evenodd" clip-rule="evenodd" d="M1862 330L1862 320H1845V330H1862ZM1908 330H1925V320H1908V330Z" fill="#D9D9D9"/>
 <path id="Subtract_13" fill-rule="evenodd" clip-rule="evenodd" d="M1920 315.061L1920 363H1930L1930 315.011L1920 315.061ZM1920 479L1920 393H1930L1930 479H1920ZM1920 509L1920 630H1930L1930 509H1920ZM1920 235.06L1930 235.01V225H1920V235.06Z" fill="#D9D9D9"/>
-<path id="Subtract_14" fill-rule="evenodd" clip-rule="evenodd" d="M1871 635L1871 625H1845V635H1871ZM1901 635H2095V625H1901V635ZM2145 635H2125V625H2145V635Z" fill="#D9D9D9"/>
+<path id="Subtract_14" fill-rule="evenodd" clip-rule="evenodd" d="M1875.13 635L1875.13 625H1850V635H1875.13ZM1904.13 635H2091.67V625H1904.13V635ZM2140 635H2120.67V625H2140V635Z" fill="#A5A5A7"/>
 <path id="Subtract_15" fill-rule="evenodd" clip-rule="evenodd" d="M1260 160V5H1250V160H1260ZM1260 190H1250V230H1260V190Z" fill="#D9D9D9"/>
-<path id="Subtract_16" fill-rule="evenodd" clip-rule="evenodd" d="M205 5V120V125H200H190V115H195V5H205ZM130 115H144L144 125H135V215H220H225V220V252H215V225H130H125V220V120V115H130ZM215 298V330H225V298H215Z" fill="#D9D9D9"/>
+<path id="Subtract_16" fill-rule="evenodd" clip-rule="evenodd" d="M205 10V123.231V128.231H200H135V216.692H220H225V221.692V252H215V226.692H130H125V221.692V123.231V118.231H130H144L144 128H190V118.231H195V10H205ZM215 298V330H225V298H215Z" fill="#A5A5A7"/>
 </g>
 <g id="Textes">
 <text id="&#208;&#177; 207" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1668.28" y="123.8">&#x411; 207</tspan></text>
@@ -56,7 +50,7 @@
 <text id="&#208;&#177; 201&#208;&#176;" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1853.48" y="535.8">&#x411; 201&#x410;</tspan></text>
 </g>
 <g id="Entrances">
-<circle id="4" cx="1925" cy="273" r="10" fill="#9CBBFF"/>
+<circle id="4" cx="1970" cy="273" r="10" fill="#9CBBFF"/>
 <circle id="16" cx="1885" cy="225" r="10" fill="#9CBBFF"/>
 <circle id="5" cx="1695" cy="225" r="10" fill="#9CBBFF"/>
 <circle id="15" cx="785" cy="273" r="10" fill="#9CBBFF"/>

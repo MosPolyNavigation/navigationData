@@ -123,14 +123,14 @@
 </g>
 <g id="Entrances">
 <circle id="1" cx="884" cy="1480" r="10" fill="#9CBBFF"/>
-<circle id="2" cx="681" cy="1480" r="10" fill="#9CBBFF"/>
+<circle id="2" cx="681" cy="1415" r="10" fill="#9CBBFF"/>
 <circle id="3" cx="380" cy="1438" r="10" fill="#9CBBFF"/>
 <circle id="4" cx="275" cy="1438" r="10" fill="#9CBBFF"/>
 <circle id="5" cx="380" cy="1323" r="10" fill="#9CBBFF"/>
 <circle id="6" cx="275" cy="1323" r="10" fill="#9CBBFF"/>
 <circle id="8" cx="328" cy="1151" r="10" fill="#9CBBFF"/>
 <circle id="9" cx="520" cy="1380" r="10" fill="#9CBBFF"/>
-<circle id="10" cx="102" cy="1580" r="10" fill="#9CBBFF"/>
+<circle id="10" cx="97" cy="1675" r="10" fill="#9CBBFF"/>
 <circle id="11" cx="266" cy="1581" r="10" fill="#9CBBFF"/>
 <circle id="12" cx="487" cy="1581" r="10" fill="#9CBBFF"/>
 <circle id="13" cx="581" cy="1581" r="10" fill="#9CBBFF"/>
@@ -139,13 +139,13 @@
 <circle id="36" cx="1080" cy="1581" r="10" fill="#9CBBFF"/>
 <circle id="18" cx="1189" cy="1479" r="10" fill="#9CBBFF"/>
 <circle id="19" cx="1373.98" cy="1480" r="10" fill="#9CBBFF"/>
-<circle id="20" cx="1441" cy="1581" r="10" fill="#9CBBFF"/>
+<circle id="20" cx="1460" cy="1703" r="10" fill="#9CBBFF"/>
 <circle id="34" cx="1267" cy="1580" r="10" fill="#9CBBFF"/>
 <circle id="21" cx="1566" cy="1478" r="10" fill="#9CBBFF"/>
 <circle id="22" cx="1806" cy="1292" r="10" fill="#9CBBFF"/>
 <circle id="23" cx="1713" cy="987" r="10" fill="#9CBBFF"/>
 <circle id="24" cx="1669" cy="625" r="10" fill="#9CBBFF"/>
-<circle id="25" cx="1655" cy="510" r="10" fill="#9CBBFF"/>
+<circle id="25" cx="1604" cy="509" r="10" fill="#9CBBFF"/>
 <circle id="26" cx="1773" cy="494" r="10" fill="#9CBBFF"/>
 <circle id="27" cx="1816" cy="851" r="10" fill="#9CBBFF"/>
 <circle id="28" cx="1831" cy="973" r="10" fill="#9CBBFF"/>
@@ -186,9 +186,9 @@
 </g>
 <g id="Stair_5">
 <g id="Stair frame_5">
-<path id="Vector 152_5" d="M711 1349.88H692.25V1361.12H681V1372.38H669.75V1383.62H651" stroke="#9CD9BC" stroke-width="3.75" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="Vector 154_5" d="M660 1349.88H671.25M671.25 1349.88L669 1360.38M671.25 1349.88L651 1365.62" stroke="#9CD9BC" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="Vector 155_5" d="M702 1383.62H690.75M690.75 1383.62L693 1373.12M690.75 1383.62L711 1367.88" stroke="#9CD9BC" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 152_5" d="M710.5 1350.62H691.75V1361.87H680.5V1373.13H669.25V1384.38H650.5" stroke="#9CD9BC" stroke-width="3.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154_5" d="M659.5 1350.62H670.75M670.75 1350.62L668.5 1361.12M670.75 1350.62L650.5 1366.38" stroke="#9CD9BC" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155_5" d="M701.5 1384.38H690.25M690.25 1384.38L692.5 1373.88M690.25 1384.38L710.5 1368.62" stroke="#9CD9BC" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </g>
 <g id="Woman">

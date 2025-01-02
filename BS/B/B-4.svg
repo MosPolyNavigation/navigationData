@@ -2,17 +2,15 @@
 <g id="B-4" clip-path="url(#clip0_2001_418)">
 <g id="Spaces">
 <rect id="!b-4-wc" x="5" y="755" width="300" height="110" fill="#3B3C41"/>
-<rect id="Rectangle 94" x="225" y="550" width="80" height="205" fill="#3B3C41"/>
 <rect id="!b-4-stair-4" x="1255" y="325" width="100" height="220" fill="#3B3C41"/>
 <rect id="b-4-stair-3" opacity="0.2" x="785" y="325" width="100" height="220" fill="#9CD9BC"/>
 <rect id="!b-4-stair-2" x="5" y="655" width="220" height="100" fill="#3B3C41"/>
 <rect id="b-4-stair-1" opacity="0.2" x="1925" y="225" width="220" height="110" fill="#9CD9BC"/>
-<rect id="b" x="5" y="500" width="220" height="155" fill="#3B3C41"/>
 <rect id="b-412" x="595" y="5" width="289.729" height="219.998" fill="#3B3C41"/>
 <rect id="b-411" x="305" y="5" width="290" height="219.998" fill="#3B3C41"/>
 <rect id="b-410" x="5" y="5" width="300" height="219.998" fill="#3B3C41"/>
 <rect id="b-409" x="5" y="225" width="220" height="275" fill="#3B3C41"/>
-<rect id="b-408" x="225" y="325" width="80" height="225" fill="#3B3C41"/>
+<path id="b-408" d="M225 325H305V755H224V655H5.5V500L225 498.958V325Z" fill="#3B3C41"/>
 <rect id="b-407" x="1845" y="5" width="300" height="219.998" fill="#3B3C41"/>
 <rect id="b-406" x="1535" y="5" width="310" height="220" fill="#3B3C41"/>
 <rect id="b-405" x="1255" y="5" width="280" height="220" fill="#3B3C41"/>
@@ -70,7 +68,7 @@
 </g>
 <g id="Entrances">
 <circle id="1" cx="1925" cy="387" r="10" fill="#9CBBFF"/>
-<circle id="2" cx="1925" cy="275" r="10" fill="#9CBBFF"/>
+<circle id="2" cx="1969" cy="275" r="10" fill="#9CBBFF"/>
 <circle id="22" cx="1925" cy="612" r="10" fill="#9CBBFF"/>
 <circle id="18" cx="1925" cy="712" r="10" fill="#9CBBFF"/>
 <circle id="23" cx="1888" cy="755" r="10" fill="#9CBBFF"/>
@@ -78,7 +76,7 @@
 <circle id="4" cx="1888" cy="224" r="10" fill="#9CBBFF"/>
 <circle id="6" cx="1467" cy="225" r="10" fill="#9CBBFF"/>
 <circle id="10" cx="823" cy="224" r="10" fill="#9CBBFF"/>
-<circle id="11" cx="835" cy="325" r="10" fill="#9CBBFF"/>
+<circle id="11" cx="835" cy="390" r="10" fill="#9CBBFF"/>
 <circle id="12" cx="540" cy="224" r="10" fill="#9CBBFF"/>
 <circle id="13" cx="265" cy="224" r="10" fill="#9CBBFF"/>
 <circle id="14" cx="225" cy="275" r="10" fill="#9CBBFF"/>

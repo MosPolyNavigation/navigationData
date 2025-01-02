@@ -1,33 +1,21 @@
 <svg width="2710" height="870" viewBox="0 0 2710 870" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="B-1" clip-path="url(#clip0_2001_822)">
 <g id="Spaces">
-<rect id="b" x="510" y="225" width="100" height="105" transform="rotate(90 510 225)" fill="#3B3C41"/>
-<rect id="Rectangle 114" x="700" y="5" width="115" height="140" transform="rotate(90 700 5)" fill="#3B3C41"/>
-<rect id="Rectangle 112" x="190" y="5" width="115" height="220" fill="#3B3C41"/>
-<rect id="Rectangle 113" x="885" y="5" width="115" height="185" transform="rotate(90 885 5)" fill="#3B3C41"/>
-<rect id="Rectangle 107" x="1925" y="335" width="220" height="95" fill="#3B3C41"/>
-<rect id="Rectangle 73" x="2145" y="555" width="560" height="310" fill="#3B3C41"/>
-<rect id="Rectangle 111" x="2000" y="475" width="115" height="75" transform="rotate(90 2000 475)" fill="#3B3C41"/>
-<rect id="Rectangle 108" x="1845" y="675" width="300" height="190" fill="#3B3C41"/>
-<path id="Rectangle 109" d="M2000 430H2145V590H2000V475H1925V430H2000Z" fill="#3B3C41"/>
 <path id="!Rectangle 124" d="M5.00006 225V5H95.0001H190V225H305H405V275V325H305V865H5.00006V545V225Z" fill="#3B3C41"/>
-<rect id="Rectangle 117" x="1645" y="5" width="100" height="220" fill="#3B3C41"/>
-<rect id="!Rectangle 118" x="1545" y="5" width="100" height="130" fill="#3B3C41"/>
-<rect id="Rectangle 119" x="1745" y="100" width="100" height="125" fill="#3B3C41"/>
 <rect id="!b-1-stair-4" x="1255" y="325.009" width="100" height="220" fill="#3B3C41"/>
 <rect id="b-1-stair-3" opacity="0.2" x="785" y="325" width="100" height="220" fill="#9CD9BC"/>
 <rect id="b-1-stair-1" opacity="0.2" x="1925" y="219" width="160" height="122" fill="#9CD9BC"/>
 <rect id="b-1-enter" opacity="0.2" x="2085" y="225" width="94" height="111" fill="#9CD9BC"/>
 <rect id="b-109" x="2020" y="5" width="125" height="220" fill="#3B3C41"/>
-<path id="b-108" d="M1845 5H2020V225H1845V100H1745V50V5H1845Z" fill="#3B3C41"/>
-<path id="b-107" d="M1255 5H1545V135H1645V180V225H1545H1255V5Z" fill="#3B3C41"/>
+<path id="b-108" d="M1781.36 5H2020V220H1781.36H1645V97.8409V48.9773V5H1781.36Z" fill="#3B3C41"/>
+<path id="b-107" d="M1255 5H1545H1645V135V180V225H1545H1255V5Z" fill="#3B3C41"/>
 <rect id="b-106" x="1255" y="5" width="220" height="370" transform="rotate(90 1255 5)" fill="#3B3C41"/>
-<path id="b-105a" d="M560 4.99999L560 120L885 120L885 168L885 225L725 225L642.5 225L560 225L433 225L369 225L305 225L305 4.99999L560 4.99999Z" fill="#3B3C41"/>
-<rect id="b-105" x="785" y="225" width="100" height="275" transform="rotate(90 785 225)" fill="#3B3C41"/>
+<path id="b-105a" d="M560 4.99999L885 4.99999L885 120L885 168L885 225L725 225L642.5 225L560 225L433 225L369 225L189.5 225L189.5 5.0001L560 4.99999Z" fill="#3B3C41"/>
+<path id="b-105" d="M785 225L785 325L406 325L406 225L785 225Z" fill="#3B3C41"/>
 <rect id="b-104" x="885" y="325" width="115" height="220" fill="#3B3C41"/>
 <rect id="b-103" x="1000" y="325" width="140" height="220" fill="#3B3C41"/>
 <rect id="b-102" x="1140" y="325" width="115" height="220" fill="#3B3C41"/>
-<path id="b-101" d="M1925 325L1925 590L2145 590L2145 675L1845 675L1845 325L1925 325Z" fill="#3B3C41"/>
+<path id="b-101" d="M1925 325L1925 336.5L2145.5 336.5L2145.5 555L2706 555L2706 865L1845 865L1845 325L1925 325Z" fill="#3B3C41"/>
 </g>
 <g id="Walls">
 <path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M1742 170V225H1748V170H1742ZM1742 140H1748V5H1742V140Z" fill="#A5A5A7"/>
@@ -88,10 +76,10 @@
 <circle id="16" cx="943" cy="325" r="10" fill="#9CBBFF"/>
 <circle id="17" cx="1184" cy="325" r="10" fill="#9CBBFF"/>
 <circle id="21" cx="1068" cy="325" r="10" fill="#9CBBFF"/>
-<circle id="11" cx="835" cy="325" r="10" fill="#9CBBFF"/>
+<circle id="11" cx="835" cy="390" r="10" fill="#9CBBFF"/>
 <circle id="5" cx="1796" cy="225" r="10" fill="#9CBBFF"/>
 <circle id="19" cx="2085" cy="224" r="10" fill="#9CBBFF"/>
-<circle id="20" cx="1925" cy="275" r="10" fill="#9CBBFF"/>
+<circle id="20" cx="1945" cy="275" r="10" fill="#9CBBFF"/>
 <circle id="22" cx="2179" cy="275" r="10" fill="#9CBBFF"/>
 <circle id="12" cx="1885" cy="325" r="10" fill="#9CBBFF"/>
 </g>
