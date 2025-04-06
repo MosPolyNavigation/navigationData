@@ -19,19 +19,19 @@
 <path id="Vector 6" d="M1085 513L1085 270" stroke="#D9D9D9" stroke-width="10"/>
 <path id="Vector 24" d="M1085 2V192" stroke="#D9D9D9" stroke-width="10"/>
 <path id="Vector 7" d="M325 5V195" stroke="#D9D9D9" stroke-width="10"/>
-<path id="Vector 25" d="M980 195L980 515" stroke="#D9D9D9" stroke-width="10"/>
 <path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M1200 207V5H1190V207H1200ZM1200 253H1190V565H1200V253Z" fill="#D9D9D9"/>
-<path id="Subtract_2" fill-rule="evenodd" clip-rule="evenodd" d="M765 166V192H775V166H765ZM765 120H775V5H765V120Z" fill="#D9D9D9"/>
-<path id="Subtract_3" fill-rule="evenodd" clip-rule="evenodd" d="M635 166V195H645V166H635ZM635 120H645V5H635V120Z" fill="#D9D9D9"/>
-<path id="Subtract_4" fill-rule="evenodd" clip-rule="evenodd" d="M243 330V320H205V330H243ZM286 330H325V320H286V330Z" fill="#D9D9D9"/>
-<path id="Subtract_5" fill-rule="evenodd" clip-rule="evenodd" d="M5 260H205V270H5V260Z" fill="#D9D9D9"/>
-<path id="Subtract_6" fill-rule="evenodd" clip-rule="evenodd" d="M1119 320V310H1085V320H1119ZM1165 320H1195V310H1165V320Z" fill="#D9D9D9"/>
-<path id="Subtract_7" fill-rule="evenodd" clip-rule="evenodd" d="M1010 280L1010 270H980V280H1010ZM1056 280H1085V270H1056V280Z" fill="#D9D9D9"/>
-<path id="Subtract_8" fill-rule="evenodd" clip-rule="evenodd" d="M355 280L355 270H325V280H355ZM401 280H430V270H401V280Z" fill="#D9D9D9"/>
-<path id="Subtract_9" fill-rule="evenodd" clip-rule="evenodd" d="M355 200V190H288V200H355ZM401 200H1119V190H401V200ZM1195 200H1165V190H1195V200ZM242 200V190H205V200H242Z" fill="#D9D9D9"/>
-<path id="Subtract_10" fill-rule="evenodd" clip-rule="evenodd" d="M210 253V272H200V253H210ZM210 207V5H200V207H210ZM200 318H210V565H200V318Z" fill="#D9D9D9"/>
-<path id="Subtract_11" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H5H205H1395H1400V5V511.5V565V570H1395H1085H1080V565V520H330V565V570H325H205H5H0V565V5V0ZM10 10V560H205H320V515V510H325H1085H1090V515V560H1390V511.5V10H205H10Z" fill="#D9D9D9"/>
-<path id="Subtract_12" fill-rule="evenodd" clip-rule="evenodd" d="M425 253L425 515H435L435 253H425ZM425 207H435L435 195H425L425 207Z" fill="#D9D9D9"/>
+<path id="Vector 21" d="M770 5V192" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract_2" fill-rule="evenodd" clip-rule="evenodd" d="M635 166V195H645V166H635ZM635 120H645V5H635V120Z" fill="#D9D9D9"/>
+<path id="Subtract_3" fill-rule="evenodd" clip-rule="evenodd" d="M243 330V320H205V330H243ZM286 330H325V320H286V330Z" fill="#D9D9D9"/>
+<path id="Subtract_4" fill-rule="evenodd" clip-rule="evenodd" d="M5 260H205V270H5V260Z" fill="#D9D9D9"/>
+<path id="Subtract_5" fill-rule="evenodd" clip-rule="evenodd" d="M1119 320V310H1085V320H1119ZM1165 320H1195V310H1165V320Z" fill="#D9D9D9"/>
+<path id="Subtract_6" fill-rule="evenodd" clip-rule="evenodd" d="M1010 280L1010 270H980V280H1010ZM1056 280H1085V270H1056V280Z" fill="#D9D9D9"/>
+<path id="Subtract_7" fill-rule="evenodd" clip-rule="evenodd" d="M355 280L355 270H325V280H355ZM401 280H430V270H401V280Z" fill="#D9D9D9"/>
+<path id="Subtract_8" fill-rule="evenodd" clip-rule="evenodd" d="M1010 200V190H401V200H1010ZM1056 200H1119V190H1056V200ZM355 190V200H288V190H355ZM1165 200H1195V190H1165V200ZM242 190V200H205V190H242Z" fill="#D9D9D9"/>
+<path id="Subtract_9" fill-rule="evenodd" clip-rule="evenodd" d="M210 253V272H200V253H210ZM210 207V5H200V207H210ZM200 318H210V565H200V318Z" fill="#D9D9D9"/>
+<path id="Subtract_10" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H5H205H1395H1400V5V511.5V565V570H1395H1085H1080V565V520H330V565V570H325H205H5H0V565V5V0ZM10 10V560H205H320V515V510H325H1085H1090V515V560H1390V511.5V10H205H10Z" fill="#D9D9D9"/>
+<path id="Subtract_11" fill-rule="evenodd" clip-rule="evenodd" d="M425 253L425 515H435L435 253H425ZM425 207H435L435 195H425L425 207Z" fill="#D9D9D9"/>
+<path id="Subtract_12" fill-rule="evenodd" clip-rule="evenodd" d="M975 253L975 515H985L985 253H975ZM975 207H985L985 195H975L975 207Z" fill="#D9D9D9"/>
 </g>
 <g id="Textes">
 <text id="b_v_510" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="352.211" y="402.8">&#x412; 510</tspan></text>
@@ -50,9 +50,9 @@
 <circle id="11" cx="205" cy="230" r="10" fill="#9CBBFF"/>
 <circle id="10" cx="205" cy="295" r="10" fill="#9CBBFF"/>
 <circle id="9" cx="378" cy="195" r="10" fill="#9CBBFF"/>
-<circle id="13" cx="430" cy="229" r="10" fill="#9CBBFF"/>
+<circle id="13" cx="430" cy="230" r="10" fill="#9CBBFF"/>
 <circle id="8" cx="1033" cy="275" r="10" fill="#9CBBFF"/>
-<circle id="7" cx="770" cy="143" r="10" fill="#9CBBFF"/>
+<circle id="7" cx="1032" cy="195" r="10" fill="#9CBBFF"/>
 <circle id="6" cx="265" cy="195" r="10" fill="#9CBBFF"/>
 <circle id="5" cx="1142" cy="195" r="10" fill="#9CBBFF"/>
 <circle id="4" cx="1142" cy="392" r="10" fill="#9CBBFF"/>
