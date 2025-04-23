@@ -6,6 +6,8 @@ export default class NavData { //класс для того чтобы эксп�
 			[
 				'./BS/CAMPUS-BS.json',
 				'./M/CAMPUS-M.json',
+				'./PR/CAMPUS-PR.json',
+				'./PK/CAMPUS-PK.json',
 			]
 
 		let campuses = new Map() //тут будут хранится данные кампусов (BS->{данные})

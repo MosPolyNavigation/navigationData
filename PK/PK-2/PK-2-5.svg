@@ -1,0 +1,98 @@
+<svg width="1520" height="625" viewBox="0 0 1520 625" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="PK-2-5" clip-path="url(#clip0_1_1877)">
+<g id="Spaces">
+<rect id="pk-519" x="380" y="340" width="100" height="215" fill="#3B3C41"/>
+<rect id="pk-2-5-stair-2" opacity="0.2" x="1160" y="360" width="140" height="260" fill="#9CD9BC"/>
+<rect id="pk-2-5-stair-1" opacity="0.2" x="250" y="360" width="130" height="260" fill="#9CD9BC"/>
+<rect id="pk-519b" x="1060" y="340" width="100" height="215" fill="#3B3C41"/>
+<rect id="pk-518" x="1300" y="305" width="215" height="315" fill="#3B3C41"/>
+<path id="pk-517" d="M1300 5H1515V305H1300V5Z" fill="#3B3C41"/>
+<rect id="pk-523" x="640" y="5" width="390" height="240" fill="#3B3C41"/>
+<rect id="pk-519a" x="480" y="245" width="580" height="310" fill="#3B3C41"/>
+<rect id="pk-522" x="250" y="5" width="390" height="240" fill="#3B3C41"/>
+<rect id="pk-521" x="5" y="5" width="245" height="300" fill="#3B3C41"/>
+<rect id="pk-520" x="5" y="305" width="245" height="315" fill="#3B3C41"/>
+<path id="!pk-2-5-lift-2" d="M1095 160H1160V245H1095V160Z" fill="#3B3C41"/>
+<rect id="!pk-2-5-lift-1" x="1030" y="160" width="65" height="85" fill="#3B3C41"/>
+</g>
+<g id="Walls">
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M1110 423H1160V417H1110V423ZM1080 423V417H1060V423H1080Z" fill="#A5A5A7"/>
+<path id="Vector 309" d="M1300 305L1515 305" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 311" d="M5 305H250" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 315" d="M380 245V260" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 317" d="M640 5V245" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 319" d="M1030 5V245" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Vector 327" d="M1095 159L1095 245" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract_2" fill-rule="evenodd" clip-rule="evenodd" d="M245 620V354.927H255V620H245ZM255 310H245V298H255V310ZM255 252H245V5H255V252Z" fill="#D9D9D9"/>
+<path id="Subtract_3" fill-rule="evenodd" clip-rule="evenodd" d="M1155 325V555H1165V325H1155ZM1155 260L1165 260V245H1155V260Z" fill="#D9D9D9"/>
+<path id="Subtract_4" fill-rule="evenodd" clip-rule="evenodd" d="M1187 250V240H1013V250H1187ZM1267 250H1300V240H1267V250ZM967 240V250H456V240H967ZM410 250V240H323V250H410ZM277 240L277 250H250V240H277Z" fill="#D9D9D9"/>
+<path id="Vector 314" d="M380 325V555" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract_5" fill-rule="evenodd" clip-rule="evenodd" d="M1155 164.948H1025V154.948H1160H1165V159.948V245H1155V164.948Z" fill="#D9D9D9"/>
+<path id="Vneshnyi kontur" d="M5 620V5H1515V620H1160V555H380V620H5Z" stroke="#D9D9D9" stroke-width="10"/>
+<path id="Subtract_6" fill-rule="evenodd" clip-rule="evenodd" d="M270 355H250V365H270V355ZM350 365L380 365V355H350V365Z" fill="#D9D9D9"/>
+<path id="Subtract_7" fill-rule="evenodd" clip-rule="evenodd" d="M1190 355H1160V365H1190V355ZM1270 365H1300V355H1270V365Z" fill="#D9D9D9"/>
+<path id="Subtract_8" fill-rule="evenodd" clip-rule="evenodd" d="M1295 620V355H1305V620H1295ZM1305 310H1295V298H1305V310ZM1305 252H1295V5H1305V252Z" fill="#D9D9D9"/>
+<path id="Subtract_9" fill-rule="evenodd" clip-rule="evenodd" d="M475 313V555H485V313H475ZM475 267H485V245H475V267Z" fill="#D9D9D9"/>
+<path id="Subtract_10" fill-rule="evenodd" clip-rule="evenodd" d="M1055 316V555H1065V316H1055ZM1055 270H1065V245H1055V270Z" fill="#D9D9D9"/>
+<path id="Subtract_11" fill-rule="evenodd" clip-rule="evenodd" d="M407 345L407 335H380V345H407ZM453 345H480V335H453V345Z" fill="#D9D9D9"/>
+<path id="Subtract_12" fill-rule="evenodd" clip-rule="evenodd" d="M1087 345L1087 335H1060V345H1087ZM1133 345H1160V335H1133V345Z" fill="#D9D9D9"/>
+</g>
+<g id="Textes">
+<text id="text 1" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1376.2" y="163.8">&#x41f;&#x41a; 517</tspan></text>
+<text id="text 2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1376.22" y="470.8">&#x41f;&#x41a; 518</tspan></text>
+<text id="text 3" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="731.293" y="408.8">&#x41f;&#x41a; 519&#x410;</tspan></text>
+<text id="text 11" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="399.148" y="479.8">&#x41f;&#x41a; 519</tspan></text>
+<text id="text 7" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="93.4336" y="470.8">&#x41f;&#x41a; 520</tspan></text>
+<text id="text 8" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="96.1172" y="163.8">&#x41f;&#x41a; 521</tspan></text>
+<text id="text 5" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1072.27" y="455.8">&#x41f;&#x41a; 519&#x411;</tspan></text>
+<text id="text 9" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="412.324" y="133.8">&#x41f;&#x41a; 522</tspan></text>
+<text id="text 10" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="802.453" y="133.8">&#x41f;&#x41a; 523</tspan></text>
+</g>
+<g id="Entrances">
+<circle id="16" cx="1300" cy="275" r="10" fill="#9CBBFF"/>
+<circle id="17" cx="1300" cy="332" r="10" fill="#9CBBFF"/>
+<circle id="24" cx="1230" cy="446" r="10" fill="#9CBBFF"/>
+<circle id="3" cx="1110" cy="340" r="10" fill="#9CBBFF"/>
+<circle id="23" cx="1060" cy="293" r="10" fill="#9CBBFF"/>
+<circle id="2" cx="990" cy="245" r="10" fill="#9CBBFF"/>
+<circle id="7" cx="430" cy="340" r="10" fill="#9CBBFF"/>
+<circle id="20" cx="310" cy="446" r="10" fill="#9CBBFF"/>
+<circle id="8" cx="250" cy="332" r="10" fill="#9CBBFF"/>
+<circle id="9" cx="250" cy="275" r="10" fill="#9CBBFF"/>
+<circle id="1" cx="300" cy="245" r="10" fill="#9CBBFF"/>
+</g>
+<g id="Icons">
+<g id="Doors">
+<path id="Vector 301" d="M304 351L276 358H270" stroke="#A5A5A7" stroke-width="6"/>
+<path id="Vector 302" d="M316 351L344 358H350" stroke="#A5A5A7" stroke-width="6"/>
+</g>
+<g id="Doors_2">
+<path id="Vector 301_2" d="M1224 351L1196 358H1190" stroke="#A5A5A7" stroke-width="6"/>
+<path id="Vector 302_2" d="M1236 351L1264 358H1270" stroke="#A5A5A7" stroke-width="6"/>
+</g>
+<g id="Stair">
+<g id="Stair frame">
+<path id="Vector 152" d="M355 468H330V483H315V498H300V513H275" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154" d="M287 468H302M302 468L299 482M302 468L275 489" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155" d="M343 513H328M328 513L331 499M328 513L355 492" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Stair_2">
+<g id="Stair frame_2">
+<path id="Vector 152_2" d="M1270 468H1245V483H1230V498H1215V513H1190" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154_2" d="M1202 468H1217M1217 468L1214 482M1217 468L1190 489" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155_2" d="M1258 513H1243M1243 513L1246 499M1243 513L1270 492" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Doors_3">
+<path id="Vector 301_3" d="M1233 254L1261 247L1267 247" stroke="#A5A5A7" stroke-width="6"/>
+<path id="Vector 302_3" d="M1221 254L1193 247L1187 247" stroke="#A5A5A7" stroke-width="6"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_1877">
+<rect width="1520" height="625" fill="white"/>
+</clipPath>
+</defs>
+</svg>
