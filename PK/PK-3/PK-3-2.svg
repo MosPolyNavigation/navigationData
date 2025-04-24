@@ -10,7 +10,7 @@
 <path id="pk-3-2-lift-1" opacity="0.2" d="M2505 1175H2410V1265H2505V1175Z" fill="#A091F8"/>
 <path id="pk-3-2-lift-2" opacity="0.2" d="M2505 1175H2600V1265H2505V1175Z" fill="#A091F8"/>
 <path id="pk-3-2-stair-2" opacity="0.2" d="M2965 1080H2800V1285H2965V1080Z" fill="#9CD9BC"/>
-<path id="pk-3-2-stair-2_2" opacity="0.2" d="M2965 1430H2800V1650H2965V1430Z" fill="#9CD9BC"/>
+<path id="pk-3-2-stair-2-1" opacity="0.2" d="M2965 1430H2800V1650H2965V1430Z" fill="#9CD9BC"/>
 <path id="pk-208" d="M255 1365H75V1650H255V1365Z" fill="#3B3C41"/>
 <path id="pk-206" d="M1000 1365H620V1550H1000V1365Z" fill="#3B3C41"/>
 <rect id="pk-238" x="1390" y="1080" width="175" height="185" fill="#3B3C41"/>
@@ -135,9 +135,6 @@
 <circle id="16" cx="2368" cy="1265" r="10" fill="#9CBBFF"/>
 <circle id="17" cx="2466" cy="1265" r="10" fill="#9CBBFF"/>
 <circle id="18" cx="2554" cy="1265" r="10" fill="#9CBBFF"/>
-<circle id="!19" cx="2347" cy="1365" r="10" fill="#9CBBFF"/>
-<circle id="!20" cx="2053" cy="1365" r="10" fill="#9CBBFF"/>
-<circle id="!21" cx="1670" cy="1365" r="10" fill="#9CBBFF"/>
 <circle id="22" cx="1481" cy="1365" r="10" fill="#9CBBFF"/>
 <circle id="23" cx="1250" cy="1365" r="10" fill="#9CBBFF"/>
 <circle id="24" cx="1055" cy="1365" r="10" fill="#9CBBFF"/>
