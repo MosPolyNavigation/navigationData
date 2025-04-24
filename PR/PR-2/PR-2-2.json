@@ -65,46 +65,26 @@
         [
             "pr-2214",
             "18"
+        ],
+        [
+                "pr-2-2-stair-left",
+                "21"
         ]
     ],
     "graph": 
     [
         {
             "id": "pr-2-2_0",
-            "x": 102,
-            "y": 346,
-            "type": "hallway",
-            "neighborData": [
-                [
-                    "pr-2-2_1",
-                    1
-                ]
-            ]
-        },
-        {
-            "id": "pr-2-2_1",
-            "x": 102,
-            "y": 347,
-            "type": "hallway",
-            "neighborData": [
-                [
-                    "pr-2-2_0",
-                    1
-                ]
-            ]
-        },
-        {
-            "id": "pr-2-2_2",
             "x": 1289,
             "y": 246,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_18",
+                    "pr-2-2_16",
                     192.33
                 ],
                 [
-                    "pr-2-2_32",
+                    "pr-2-2_30",
                     52
                 ],
                 [
@@ -114,13 +94,13 @@
             ]
         },
         {
-            "id": "pr-2-2_3",
+            "id": "pr-2-2_1",
             "x": 202,
             "y": 246,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_30",
+                    "pr-2-2_28",
                     58
                 ]
             ]
@@ -132,7 +112,7 @@
             "type": "entrancesToAu",
             "neighborData": [
                 [
-                    "pr-2-2_34",
+                    "pr-2-2_32",
                     48.08
                 ]
             ]
@@ -144,19 +124,19 @@
             "type": "stair",
             "neighborData": [
                 [
-                    "pr-2-2_6",
+                    "pr-2-2_4",
                     57.98
                 ]
             ]
         },
         {
-            "id": "pr-2-2_6",
+            "id": "pr-2-2_4",
             "x": 1874,
             "y": 960,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_34",
+                    "pr-2-2_32",
                     95.46
                 ],
                 [
@@ -172,23 +152,23 @@
             "type": "entrancesToAu",
             "neighborData": [
                 [
-                    "pr-2-2_8",
+                    "pr-2-2_6",
                     69.53
                 ]
             ]
         },
         {
-            "id": "pr-2-2_8",
+            "id": "pr-2-2_6",
             "x": 1873,
             "y": 825,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_10",
+                    "pr-2-2_8",
                     7.07
                 ],
                 [
-                    "pr-2-2_36",
+                    "pr-2-2_34",
                     93.34
                 ],
                 [
@@ -204,23 +184,23 @@
             "type": "entrancesToAu",
             "neighborData": [
                 [
-                    "pr-2-2_10",
+                    "pr-2-2_8",
                     43.86
                 ]
             ]
         },
         {
-            "id": "pr-2-2_10",
+            "id": "pr-2-2_8",
             "x": 1868,
             "y": 820,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_14",
+                    "pr-2-2_12",
                     477.3
                 ],
                 [
-                    "pr-2-2_8",
+                    "pr-2-2_6",
                     7.07
                 ],
                 [
@@ -236,23 +216,23 @@
             "type": "entrancesToAu",
             "neighborData": [
                 [
-                    "pr-2-2_12",
+                    "pr-2-2_10",
                     67.18
                 ]
             ]
         },
         {
-            "id": "pr-2-2_12",
+            "id": "pr-2-2_10",
             "x": 1527,
             "y": 482,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_16",
+                    "pr-2-2_14",
                     113.85
                 ],
                 [
-                    "pr-2-2_14",
+                    "pr-2-2_12",
                     2.83
                 ],
                 [
@@ -268,23 +248,23 @@
             "type": "entrancesToAu",
             "neighborData": [
                 [
-                    "pr-2-2_14",
+                    "pr-2-2_12",
                     45.25
                 ]
             ]
         },
         {
-            "id": "pr-2-2_14",
+            "id": "pr-2-2_12",
             "x": 1529,
             "y": 484,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_12",
+                    "pr-2-2_10",
                     2.83
                 ],
                 [
-                    "pr-2-2_10",
+                    "pr-2-2_8",
                     477.3
                 ],
                 [
@@ -300,23 +280,23 @@
             "type": "entrancesToAu",
             "neighborData": [
                 [
-                    "pr-2-2_16",
+                    "pr-2-2_14",
                     66.48
                 ]
             ]
         },
         {
-            "id": "pr-2-2_16",
+            "id": "pr-2-2_14",
             "x": 1446,
             "y": 402,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_18",
+                    "pr-2-2_16",
                     29
                 ],
                 [
-                    "pr-2-2_12",
+                    "pr-2-2_10",
                     113.85
                 ],
                 [
@@ -332,23 +312,23 @@
             "type": "entrancesToAu",
             "neighborData": [
                 [
-                    "pr-2-2_18",
+                    "pr-2-2_16",
                     47.51
                 ]
             ]
         },
         {
-            "id": "pr-2-2_18",
+            "id": "pr-2-2_16",
             "x": 1425,
             "y": 382,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_2",
+                    "pr-2-2_0",
                     192.33
                 ],
                 [
-                    "pr-2-2_16",
+                    "pr-2-2_14",
                     29
                 ],
                 [
@@ -364,7 +344,7 @@
             "type": "lift",
             "neighborData": [
                 [
-                    "pr-2-2_2",
+                    "pr-2-2_0",
                     86.01
                 ]
             ]
@@ -376,23 +356,23 @@
             "type": "entrancesToAu",
             "neighborData": [
                 [
-                    "pr-2-2_21",
+                    "pr-2-2_19",
                     46
                 ]
             ]
         },
         {
-            "id": "pr-2-2_21",
+            "id": "pr-2-2_19",
             "x": 1130,
             "y": 246,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_22",
+                    "pr-2-2_20",
                     90
                 ],
                 [
-                    "pr-2-2_32",
+                    "pr-2-2_30",
                     107
                 ],
                 [
@@ -402,17 +382,17 @@
             ]
         },
         {
-            "id": "pr-2-2_22",
+            "id": "pr-2-2_20",
             "x": 1040,
             "y": 246,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_24",
+                    "pr-2-2_22",
                     120
                 ],
                 [
-                    "pr-2-2_21",
+                    "pr-2-2_19",
                     90
                 ],
                 [
@@ -428,23 +408,23 @@
             "type": "entrancesToAu",
             "neighborData": [
                 [
-                    "pr-2-2_22",
+                    "pr-2-2_20",
                     64
                 ]
             ]
         },
         {
-            "id": "pr-2-2_24",
+            "id": "pr-2-2_22",
             "x": 920,
             "y": 246,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_27",
+                    "pr-2-2_25",
                     363
                 ],
                 [
-                    "pr-2-2_22",
+                    "pr-2-2_20",
                     120
                 ],
                 [
@@ -460,7 +440,7 @@
             "type": "entrancesToAu",
             "neighborData": [
                 [
-                    "pr-2-2_24",
+                    "pr-2-2_22",
                     64
                 ]
             ]
@@ -472,23 +452,23 @@
             "type": "entrancesToAu",
             "neighborData": [
                 [
-                    "pr-2-2_27",
+                    "pr-2-2_25",
                     46.44
                 ]
             ]
         },
         {
-            "id": "pr-2-2_27",
+            "id": "pr-2-2_25",
             "x": 557,
             "y": 246.437,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_29",
+                    "pr-2-2_27",
                     193
                 ],
                 [
-                    "pr-2-2_24",
+                    "pr-2-2_22",
                     363
                 ],
                 [
@@ -504,23 +484,23 @@
             "type": "entrancesToAu",
             "neighborData": [
                 [
-                    "pr-2-2_29",
+                    "pr-2-2_27",
                     46
                 ]
             ]
         },
         {
-            "id": "pr-2-2_29",
+            "id": "pr-2-2_27",
             "x": 364,
             "y": 246,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_30",
+                    "pr-2-2_28",
                     104
                 ],
                 [
-                    "pr-2-2_27",
+                    "pr-2-2_25",
                     193
                 ],
                 [
@@ -530,17 +510,17 @@
             ]
         },
         {
-            "id": "pr-2-2_30",
+            "id": "pr-2-2_28",
             "x": 260,
             "y": 246,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_3",
+                    "pr-2-2_1",
                     58
                 ],
                 [
-                    "pr-2-2_29",
+                    "pr-2-2_27",
                     104
                 ],
                 [
@@ -556,23 +536,23 @@
             "type": "entrancesToAu",
             "neighborData": [
                 [
-                    "pr-2-2_30",
+                    "pr-2-2_28",
                     64
                 ]
             ]
         },
         {
-            "id": "pr-2-2_32",
+            "id": "pr-2-2_30",
             "x": 1237,
             "y": 246,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_21",
+                    "pr-2-2_19",
                     107
                 ],
                 [
-                    "pr-2-2_2",
+                    "pr-2-2_0",
                     52
                 ],
                 [
@@ -588,23 +568,23 @@
             "type": "stair",
             "neighborData": [
                 [
-                    "pr-2-2_32",
+                    "pr-2-2_30",
                     198
                 ]
             ]
         },
         {
-            "id": "pr-2-2_34",
+            "id": "pr-2-2_32",
             "x": 1941,
             "y": 892,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_6",
+                    "pr-2-2_4",
                     95.46
                 ],
                 [
-                    "pr-2-2_36",
+                    "pr-2-2_34",
                     2.24
                 ],
                 [
@@ -620,28 +600,52 @@
             "type": "entrancesToAu",
             "neighborData": [
                 [
-                    "pr-2-2_36",
+                    "pr-2-2_34",
                     43.84
                 ]
             ]
         },
         {
-            "id": "pr-2-2_36",
+            "id": "pr-2-2_34",
             "x": 1939,
             "y": 891,
             "type": "hallway",
             "neighborData": [
                 [
-                    "pr-2-2_8",
+                    "pr-2-2_6",
                     93.34
                 ],
                 [
-                    "pr-2-2_34",
+                    "pr-2-2_32",
                     2.24
                 ],
                 [
                     "pr-2214",
                     43.84
+                ]
+            ]
+        },
+        {
+            "id": "pr-2-2_35",
+            "x": 102,
+            "y": 335,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "pr-2-2-stair-left",
+                    11
+                ]
+            ]
+        },
+        {
+            "id": "pr-2-2-stair-left",
+            "x": 102,
+            "y": 346,
+            "type": "stair",
+            "neighborData": [
+                [
+                    "pr-2-2_35",
+                    11
                 ]
             ]
         }

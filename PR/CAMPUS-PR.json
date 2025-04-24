@@ -32,7 +32,7 @@
                 "/PR/PR-2/PR-2-8.json"
             ],
             "stairsGroups": [
-                ["pr-2-1-stair-left","pr-23-stairs-2","pr-2-4-stair-left","pr-2-5-stair-left","pr-26-stairs-2","pr-2-7-stair-left","pr-2-8-stair-left"],
+                ["pr-2-1-stair-left","pr-2-2-stair-left","pr-23-stairs-2","pr-2-4-stair-left","pr-2-5-stair-left","pr-26-stairs-2","pr-2-7-stair-left","pr-2-8-stair-left"],
                 ["pr-2-1-stair-center","pr-2-2-stair-center","pr-23-stairs-1","pr-2-4-stair-center","pr-2-5-stair-center","pr-26-stairs-1","pr-2-7-stair-center","pr-2-8-stair-center"],
                 ["pr-2-1-stair-right","pr-2-2-stair-right","pr-23-stairs-3","pr-2-4-stair-right","pr-2-5-stair-right","pr-26-stairs-3","pr-2-7-stair-right","pr-2-8-stair-right"]
             ]
