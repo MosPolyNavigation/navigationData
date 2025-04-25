@@ -1,0 +1,50 @@
+{
+    "id": "PK",
+    "rusName": "ПК",
+    "corpuses": {
+        "PK-1": {
+            "rusName": "ПК-1",
+            "planLinks": [
+                "./PK/PK-1/PK-1-1.json",
+                "./PK/PK-1/PK-1-2.json",
+                "./PK/PK-1/PK-1-3.json",
+                "./PK/PK-1/PK-1-4.json",
+                "./PK/PK-1/PK-1-5.json"
+            ],
+            "stairsGroups": [
+                ["pk-1-1-stair-1","pk-1-2-stair-1","pk-1-3-stair-1","pk-1-4-stair-1","pk-1-5-stair-1"],
+                ["pk-1-1-stair-2","pk-1-2-stair-2","pk-1-3-stair-2","pk-1-4-stair-2","pk-1-5-stair-2"]
+            ]
+        },
+        "PK-2": {
+            "rusName": "ПК-2",
+            "planLinks":[
+                "./PK/PK-2/PK-2-1.json",
+                "./PK/PK-2/PK-2-2.json",
+                "./PK/PK-2/PK-2-3.json",
+                "./PK/PK-2/PK-2-4.json",
+                "./PK/PK-2/PK-2-5.json"
+            ],
+            "stairsGroups": [
+                ["pk-2-1-stair-1","pk-22-stair-1","pk-2-3-stair-1","pk-2-4-stair-1","pk-2-5-stair-1"],
+                ["pk-2-1-stair-2","pk-22-stair-2","pk-2-3-stair-2","pk-2-4-stair-2","pk-2-5-stair-2"]
+            ]
+        },
+        "PK-3": {
+            "rusName": "ПК-3",
+            "planLinks": [
+                "./PK/PK-3/PK-3-1.json",
+                "./PK/PK-3/PK-3-2.json",
+                "./PK/PK-3/PK-3-3.json",
+                "./PK/PK-3/PK-3-4.json",
+                "./PK/PK-3/PK-3-5.json",
+                "./PK/PK-3/PK-3-6.json"
+            ],
+            "stairsGroups": [
+                ["pk-3-1-stair-2","pk-3-2-stair-2","pk-3-3-stair-2","pk-3-4-stair-2","pk-3-5-stair-2","pk-3-6-stair-2"],
+                ["pk-3-1-stair-1","pk-3-2-stair-1","pk-3-3-stair-1","pk-3-4-stair-1","pk-3-5-stair-1","pk-3-6-stair-1"],
+                ["pk-3-1-stair-2-1","pk-3-2-stair-2-1"]
+            ]
+        }
+        }
+}
