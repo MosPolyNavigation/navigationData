@@ -3,11 +3,11 @@
 <g id="Spaces">
 <path id="pr-1-0-stair-right-1" opacity="0.2" d="M2237 1011H2137V1261H2237V1011Z" fill="#9CD9BC"/>
 <rect id="pr-1039" x="2037" y="1061" width="100" height="200" fill="#3B3C41"/>
-<rect id="pr-1040" x="1937" y="1061" width="100" height="200" fill="#3B3C41"/>
-<rect id="pr-1044" x="1677" y="1061" width="260" height="200" fill="#3B3C41"/>
+<rect id="pr-1040" x="1940" y="1061" width="97" height="200" fill="#3B3C41"/>
+<rect id="pr-1044" x="1677" y="1061" width="263" height="200" fill="#3B3C41"/>
 <rect id="pr-1039a" x="1677" y="1261" width="255" height="100" fill="#3B3C41"/>
 <rect id="pr-1039b" x="1932" y="1261" width="205" height="100" fill="#3B3C41"/>
-<path id="pr-1-0-stair-center-1" opacity="0.2" d="M1067 1001H1172V1221H1067V1001Z" fill="#9CD9BC"/>
+<path id="pr-1-0-stair-center-1" opacity="0.2" d="M1070 1000H1176V1225H1070V1000Z" fill="#9CD9BC"/>
 <rect id="pr-1037" x="1187" y="1291" width="130" height="70" fill="#3B3C41"/>
 <path id="pr-1038" fill-rule="evenodd" clip-rule="evenodd" d="M1367 1221H1187V1291H1317V1361H1367V1291V1221Z" fill="#3B3C41"/>
 </g>
@@ -41,13 +41,13 @@
 </g>
 <g id="Entrances">
 <circle id="7" cx="2190" cy="1190" r="10" fill="#9CBBFF"/>
-<circle id="4" cx="1900" cy="1260" r="10" fill="#9CBBFF"/>
+<circle id="4" cx="1900" cy="1261" r="10" fill="#9CBBFF"/>
 <circle id="8" cx="1190" cy="1252" r="10" fill="#9CBBFF"/>
 <circle id="9" cx="1320" cy="1325" r="10" fill="#9CBBFF"/>
 <circle id="12" cx="1122" cy="1158" r="10" fill="#9CBBFF"/>
 <circle id="3" cx="1940" cy="1230" r="10" fill="#9CBBFF"/>
 <circle id="2" cx="2040" cy="1230" r="10" fill="#9CBBFF"/>
-<circle id="1" cx="2140" cy="1230" r="10" fill="#9CBBFF"/>
+<circle id="13" cx="2140" cy="1230" r="10" fill="#9CBBFF"/>
 <circle id="5" cx="2140" cy="1310" r="10" fill="#9CBBFF"/>
 </g>
 <g id="Icons">
