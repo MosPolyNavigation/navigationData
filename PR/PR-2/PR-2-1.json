@@ -1,0 +1,626 @@
+{
+    "planName": "PR-2-1",
+    "svgLink": "/PR/PR-2/PR-2-1.svg",
+    "campus": "PR",
+    "corpus": "PR-2",
+    "floor": 1,
+    "entrances": 
+    [
+        [
+          "pr-2-1-stair-left",
+          "5"
+        ],
+        [
+          "pr-2-1-wcu",
+          "6"
+        ],
+        [
+          "pr-2116",
+          "7"
+        ],
+        [
+          "pr-2-1-lab",
+          "8"
+        ],
+        [
+          "pr-2110",
+          "1"
+        ],
+        [
+          "pr-2109",
+          "2"
+        ],
+        [
+          "pr-2108",
+          "3"
+        ],
+        [
+          "pr-2-1-ventilationchamber1",
+          "4"
+        ],
+        [
+          "pr-2-1-mgts",
+          "15"
+        ],
+        [
+          "pr-2-1-gard",
+          "21"
+        ],
+        [
+          "pr-2101",
+          "20"
+        ],
+        [
+          "pr-2-1-ventilationchamber2",
+          "24"
+        ],
+        [
+          "pr-2-1-stair-right",
+          "23"
+        ],
+        [
+          "pr-entrance_2",
+          "25"
+        ],
+        [
+          "pr-2-1-lift-2",
+          "26"
+        ],
+        [
+          "pr-2-1-lift-1",
+          "12"
+        ],
+        [
+          "pr-2-1-stair-center",
+          "11"
+        ]
+      ],
+    "graph": 
+    [
+        {
+          "id": "pr-2-1_0",
+          "x": 125,
+          "y": 245,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_3",
+              75
+            ],
+            [
+              "pr-2-1-stair-left",
+              101
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_1",
+          "x": 1320,
+          "y": 245,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_17",
+              52
+            ],
+            [
+              "pr-2-1_20",
+              112.28
+            ],
+            [
+              "pr-2-1-lift-1",
+              85
+            ],
+            [
+              "pr-2-1-lift-2",
+              81.4
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1-wcu",
+          "x": 200,
+          "y": 200,
+          "type": "entrancesToAu",
+          "neighborData": [
+            [
+              "pr-2-1_3",
+              45
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_3",
+          "x": 200,
+          "y": 245,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_0",
+              75
+            ],
+            [
+              "pr-2-1_6",
+              90
+            ],
+            [
+              "pr-2-1-wcu",
+              45
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1-stair-left",
+          "x": 125,
+          "y": 346,
+          "type": "stair",
+          "neighborData": [
+            [
+              "pr-2-1_0",
+              101
+            ]
+          ]
+        },
+        {
+          "id": "pr-2116",
+          "x": 290,
+          "y": 200,
+          "type": "entrancesToAu",
+          "neighborData": [
+            [
+              "pr-2-1_6",
+              45
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_6",
+          "x": 290,
+          "y": 245,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_3",
+              90
+            ],
+            [
+              "pr-2-1_8",
+              350
+            ],
+            [
+              "pr-2116",
+              45
+            ],
+            [
+              "pr-2110",
+              65
+            ]
+          ]
+        },
+        {
+          "id": "pr-2110",
+          "x": 290,
+          "y": 310,
+          "type": "entrancesToAu",
+          "neighborData": [
+            [
+              "pr-2-1_6",
+              65
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_8",
+          "x": 640,
+          "y": 245,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_6",
+              350
+            ],
+            [
+              "pr-2-1_11",
+              30
+            ],
+            [
+              "pr-2109",
+              45
+            ]
+          ]
+        },
+        {
+          "id": "pr-2109",
+          "x": 640,
+          "y": 290,
+          "type": "entrancesToAu",
+          "neighborData": [
+            [
+              "pr-2-1_8",
+              45
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1-lab",
+          "x": 670,
+          "y": 200,
+          "type": "entrancesToAu",
+          "neighborData": [
+            [
+              "pr-2-1_11",
+              45
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_11",
+          "x": 670,
+          "y": 245,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_8",
+              30
+            ],
+            [
+              "pr-2-1_12",
+              280
+            ],
+            [
+              "pr-2-1-lab",
+              45
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_12",
+          "x": 950,
+          "y": 245,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_11",
+              280
+            ],
+            [
+              "pr-2-1_14",
+              120
+            ],
+            [
+              "pr-2108",
+              45
+            ]
+          ]
+        },
+        {
+          "id": "pr-2108",
+          "x": 950,
+          "y": 290,
+          "type": "entrancesToAu",
+          "neighborData": [
+            [
+              "pr-2-1_12",
+              45
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_14",
+          "x": 1070,
+          "y": 245,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_12",
+              120
+            ],
+            [
+              "pr-2-1_17",
+              198
+            ],
+            [
+              "pr-2-1-ventilationchamber1",
+              45
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1-ventilationchamber1",
+          "x": 1070,
+          "y": 290,
+          "type": "entrancesToAu",
+          "neighborData": [
+            [
+              "pr-2-1_14",
+              45
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1-lift-1",
+          "x": 1320,
+          "y": 160,
+          "type": "lift",
+          "neighborData": [
+            [
+              "pr-2-1_1",
+              85
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_17",
+          "x": 1268,
+          "y": 245,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_24",
+              68
+            ],
+            [
+              "pr-2-1_14",
+              198
+            ],
+            [
+              "pr-2-1_1",
+              52
+            ],
+            [
+              "pr-2-1-stair-center",
+              194
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1-stair-center",
+          "x": 1268,
+          "y": 51,
+          "type": "stair",
+          "neighborData": [
+            [
+              "pr-2-1_17",
+              194
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1-lift-2",
+          "x": 1369,
+          "y": 180,
+          "type": "lift",
+          "neighborData": [
+            [
+              "pr-2-1_1",
+              81.4
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_20",
+          "x": 1312.01,
+          "y": 356.991,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_22",
+              0.01
+            ],
+            [
+              "pr-2-1_1",
+              112.28
+            ],
+            [
+              "pr-2-1_26",
+              289.91
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_21",
+          "x": 1918.01,
+          "y": 962.991,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_32",
+              0.01
+            ],
+            [
+              "pr-2-1-ventilationchamber2",
+              45.95
+            ],
+            [
+              "pr-2-1-stair-right",
+              45.25
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_22",
+          "x": 1312,
+          "y": 357,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_24",
+              62.23
+            ],
+            [
+              "pr-2-1_20",
+              0.01
+            ],
+            [
+              "pr-2-1-mgts",
+              45.97
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1-mgts",
+          "x": 1280,
+          "y": 390,
+          "type": "entrancesToAu",
+          "neighborData": [
+            [
+              "pr-2-1_22",
+              45.97
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_24",
+          "x": 1268,
+          "y": 313,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_22",
+              62.23
+            ],
+            [
+              "pr-2-1_17",
+              68
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1-gard",
+          "x": 1550,
+          "y": 530,
+          "type": "entrancesToAu",
+          "neighborData": [
+            [
+              "pr-2-1_26",
+              45.97
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_26",
+          "x": 1517,
+          "y": 562,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_20",
+              289.91
+            ],
+            [
+              "pr-2-1_27",
+              69.3
+            ],
+            [
+              "pr-2-1-gard",
+              45.97
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_27",
+          "x": 1566,
+          "y": 611,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_26",
+              69.3
+            ],
+            [
+              "pr-2-1_30",
+              86.27
+            ],
+            [
+              "pr-entrance_2",
+              166.88
+            ]
+          ]
+        },
+        {
+          "id": "pr-entrance_2",
+          "x": 1448,
+          "y": 729,
+          "type": "entrancesToAu",
+          "neighborData": [
+            [
+              "pr-2-1_27",
+              166.88
+            ]
+          ]
+        },
+        {
+          "id": "pr-2101",
+          "x": 1660,
+          "y": 640,
+          "type": "entrancesToAu",
+          "neighborData": [
+            [
+              "pr-2-1_30",
+              45.97
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_30",
+          "x": 1627,
+          "y": 672,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_27",
+              86.27
+            ],
+            [
+              "pr-2-1_32",
+              411.54
+            ],
+            [
+              "pr-2101",
+              45.97
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1-ventilationchamber2",
+          "x": 1950,
+          "y": 930,
+          "type": "entrancesToAu",
+          "neighborData": [
+            [
+              "pr-2-1_21",
+              45.95
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1_32",
+          "x": 1918,
+          "y": 963,
+          "type": "hallway",
+          "neighborData": [
+            [
+              "pr-2-1_21",
+              0.01
+            ],
+            [
+              "pr-2-1_30",
+              411.54
+            ]
+          ]
+        },
+        {
+          "id": "pr-2-1-stair-right",
+          "x": 1950,
+          "y": 995,
+          "type": "stair",
+          "neighborData": [
+            [
+              "pr-2-1_21",
+              45.25
+            ]
+          ]
+        }
+      ],
+    "spaces": []
+}

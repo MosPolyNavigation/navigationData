@@ -1,0 +1,35 @@
+{
+    "id": "M",
+    "rusName": "М",
+    "corpuses": {
+        "M-3": {
+            "rusName": "М-3",
+            "planLinks": [
+                "/M/M-3/M-3-1.json",
+                "/M/M-3/M-3-2.json",
+                "/M/M-3/M-3-3.json",
+                "/M/M-3/M-3-4.json",
+                "/M/M-3/M-3-5.json"
+            ],
+            "stairsGroups": [
+                ["m-1-1-stair-center","m-3-2-stair-center","m-3-3-stairs-3","m-3-4-stair-center","m-3-5-stair-center"],
+                ["m-1-1-stair-entrance","m-3-2-stair"],
+                ["m-3-2-stair-right","m-33-stairs-2","m-3-4-stair-right","m-3-5-stair-right"],
+                ["m-3-2-stair-left","m-33-stairs-1","m-4-stair-left","m-5-stair-left"]
+            ]
+        },
+        "M-SPORT": {
+            "rusName": "М-СПОРТ",
+            "planLinks":[
+                "/M/M-SPORT/M-SPORT-0.json",
+                "/M/M-SPORT/M-SPORT-1.json",
+                "/M/M-SPORT/M-SPORT-2.json",
+                "/M/M-SPORT/M-SPORT-3.json"
+            ],
+            "stairsGroups": [
+                ["m-sport-0-stair-left","m-sport-1-stair-left","m-sport-2-stair-left","m-sport-3-stair-left"],
+                ["m-sport-0-stair-right","m-sport-1-stair-right","m-sport-2-stair-right","m-sport-3-stair-right"]
+            ]
+        }
+        }
+}

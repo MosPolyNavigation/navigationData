@@ -1,0 +1,282 @@
+{
+    "planName": "M-SPORT-0",
+    "svgLink": "/M/M-SPORT/M-SPORT-0.svg",
+    "campus": "M",
+    "corpus": "M-SPORT",
+    "floor": 0,
+    "entrances": 
+    [
+        [
+            "m-sport-0-gymnasticsathleticshall",
+            "7"
+        ],
+        [
+            "m-sport-0-tabletennishall",
+            "2"
+        ],
+        [
+            "m-sport-0-skiinglodge",
+            "1"
+        ],
+        [
+            "m-sport-0-stair-right",
+            "3"
+        ],
+        [
+            "m-sport-0-stair-left",
+            "4"
+        ]
+    ],
+    "graph": 
+    [
+        {
+            "id": "m-sport-0-tabletennishall",
+            "x": 1000,
+            "y": 237,
+            "type": "crossingSpace",
+            "neighborData": [
+                [
+                    "m-sport-0_6",
+                    101
+                ],
+                [
+                    "m-sport-0_12",
+                    59
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0_1",
+            "x": 1152,
+            "y": 237,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "m-sport-0_6",
+                    51
+                ],
+                [
+                    "m-sport-0-stair-right",
+                    66
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0-gymnasticsathleticshall",
+            "x": 530,
+            "y": 237,
+            "type": "crossingSpace",
+            "neighborData": [
+                [
+                    "m-sport-0_10",
+                    259
+                ],
+                [
+                    "m-sport-0_12",
+                    411
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0-stair-right",
+            "x": 1152,
+            "y": 303,
+            "type": "stair",
+            "neighborData": [
+                [
+                    "m-sport-0_1",
+                    66
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0-skiinglodge",
+            "x": 1070,
+            "y": 188,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "m-sport-0_5",
+                    31
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0_5",
+            "x": 1101,
+            "y": 188,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "m-sport-0_6",
+                    49
+                ],
+                [
+                    "m-sport-0-skiinglodge",
+                    31
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0_6",
+            "x": 1101,
+            "y": 237,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "m-sport-0_5",
+                    49
+                ],
+                [
+                    "m-sport-0_1",
+                    51
+                ],
+                [
+                    "m-sport-0-tabletennishall",
+                    101
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0-weightliftinghall",
+            "x": 190,
+            "y": 237,
+            "type": "lift",
+            "neighborData": [
+                [
+                    "m-sport-0_8",
+                    142
+                ],
+                [
+                    "m-sport-0_10",
+                    81
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0_8",
+            "x": 48,
+            "y": 237,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "m-sport-0-stair-left",
+                    66
+                ],
+                [
+                    "m-sport-0-weightliftinghall",
+                    142
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0-stair-left",
+            "x": 48,
+            "y": 303,
+            "type": "stair",
+            "neighborData": [
+                [
+                    "m-sport-0_8",
+                    66
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0_10",
+            "x": 271,
+            "y": 237,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "m-sport-0_11",
+                    167
+                ],
+                [
+                    "m-sport-0-weightliftinghall",
+                    81
+                ],
+                [
+                    "m-sport-0-gymnasticsathleticshall",
+                    259
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0_11",
+            "x": 271,
+            "y": 404,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "m-sport-0_10",
+                    167
+                ],
+                [
+                    "m-sport-0-gard",
+                    81
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0_12",
+            "x": 941,
+            "y": 237,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "m-sport-0_13",
+                    167
+                ],
+                [
+                    "m-sport-0-tabletennishall",
+                    59
+                ],
+                [
+                    "m-sport-0-gymnasticsathleticshall",
+                    411
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0_13",
+            "x": 941,
+            "y": 404,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "m-sport-0_12",
+                    167
+                ],
+                [
+                    "m-sport-0-inventory",
+                    226
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0-gard",
+            "x": 190,
+            "y": 404,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "m-sport-0_11",
+                    81
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-0-inventory",
+            "x": 715,
+            "y": 404,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "m-sport-0_13",
+                    226
+                ]
+            ]
+        }
+    ],
+    "spaces": []
+}

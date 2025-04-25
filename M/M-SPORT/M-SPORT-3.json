@@ -1,0 +1,46 @@
+{
+    "planName": "M-SPORT-3",
+    "svgLink": "/M/M-SPORT/M-SPORT-3.svg",
+    "campus": "M",
+    "corpus": "M-SPORT",
+    "floor": 3,
+    "entrances": 
+    [
+        [
+            "m-sport-3-stair-right",
+            "2"
+        ],
+        [
+            "m-sport-3-stair-left",
+            "1"
+        ]
+    ],
+    "graph": 
+    [
+        {
+            "id": "m-sport-3-stair-right",
+            "x": 1025,
+            "y": 305,
+            "type": "stair",
+            "neighborData": [
+                [
+                    "m-sport-3-stair-left",
+                    867
+                ]
+            ]
+        },
+        {
+            "id": "m-sport-3-stair-left",
+            "x": 158,
+            "y": 305,
+            "type": "stair",
+            "neighborData": [
+                [
+                    "m-sport-3-stair-right",
+                    867
+                ]
+            ]
+        }
+    ],
+    "spaces": []
+}

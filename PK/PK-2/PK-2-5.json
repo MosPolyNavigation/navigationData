@@ -1,0 +1,398 @@
+{
+    "planName": "PK-2-5",
+    "svgLink": "/PK/PK-2/PK-2-5.svg",
+    "campus": "PK",
+    "corpus": "PK-2",
+    "floor": 5,
+    "entrances": 
+    [
+        [
+            "pk-517",
+            "16"
+        ],
+        [
+            "pk-519a",
+            "23"
+        ]
+    ],
+    "graph": 
+    [
+        {
+            "id": "pk-519a",
+            "x": 1060,
+            "y": 293,
+            "type": "crossingSpace",
+            "neighborData": [
+                [
+                    "pk-2-5_15",
+                    50
+                ],
+                [
+                    "pk-2-5_14",
+                    70
+                ]
+            ]
+        },
+        {
+            "id": "pk-2-5_1",
+            "x": 300,
+            "y": 293,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "pk-2-5_11",
+                    39
+                ],
+                [
+                    "pk-2-5_4",
+                    10
+                ],
+                [
+                    "pk-2-5_10",
+                    18
+                ]
+            ]
+        },
+        {
+            "id": "pk-2-5_2",
+            "x": 430,
+            "y": 293,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "pk-2-5_4",
+                    120
+                ],
+                [
+                    "pk-2-5_14",
+                    560
+                ],
+                [
+                    "pk-519",
+                    47
+                ]
+            ]
+        },
+        {
+            "id": "pk-519",
+            "x": 430,
+            "y": 340,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "pk-2-5_2",
+                    47
+                ]
+            ]
+        },
+        {
+            "id": "pk-2-5_4",
+            "x": 310,
+            "y": 293,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "pk-2-5_12",
+                    18
+                ],
+                [
+                    "pk-2-5_1",
+                    10
+                ],
+                [
+                    "pk-2-5_2",
+                    120
+                ],
+                [
+                    "pk-2-5_7",
+                    39
+                ]
+            ]
+        },
+        {
+            "id": "pk-2-5-stair-1",
+            "x": 310,
+            "y": 446,
+            "type": "stair",
+            "neighborData": [
+                [
+                    "pk-2-5_7",
+                    114
+                ]
+            ]
+        },
+        {
+            "id": "pk-520",
+            "x": 250,
+            "y": 332,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "pk-2-5_11",
+                    50
+                ]
+            ]
+        },
+        {
+            "id": "pk-2-5_7",
+            "x": 310,
+            "y": 332,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "pk-2-5_4",
+                    39
+                ],
+                [
+                    "pk-2-5_11",
+                    10
+                ],
+                [
+                    "pk-2-5-stair-1",
+                    114
+                ]
+            ]
+        },
+        {
+            "id": "pk-522",
+            "x": 300,
+            "y": 245,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "pk-2-5_10",
+                    30
+                ]
+            ]
+        },
+        {
+            "id": "pk-521",
+            "x": 250,
+            "y": 275,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "pk-2-5_10",
+                    50
+                ]
+            ]
+        },
+        {
+            "id": "pk-2-5_10",
+            "x": 300,
+            "y": 275,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "pk-2-5_12",
+                    10
+                ],
+                [
+                    "pk-2-5_1",
+                    18
+                ],
+                [
+                    "pk-522",
+                    30
+                ],
+                [
+                    "pk-521",
+                    50
+                ]
+            ]
+        },
+        {
+            "id": "pk-2-5_11",
+            "x": 300,
+            "y": 332,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "pk-2-5_1",
+                    39
+                ],
+                [
+                    "pk-2-5_7",
+                    10
+                ],
+                [
+                    "pk-520",
+                    50
+                ]
+            ]
+        },
+        {
+            "id": "pk-2-5_12",
+            "x": 310,
+            "y": 275,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "pk-2-5_10",
+                    10
+                ],
+                [
+                    "pk-2-5_4",
+                    18
+                ]
+            ]
+        },
+        {
+            "id": "pk-523",
+            "x": 990,
+            "y": 245,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "pk-2-5_14",
+                    48
+                ]
+            ]
+        },
+        {
+            "id": "pk-2-5_14",
+            "x": 990,
+            "y": 293,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "pk-2-5_2",
+                    560
+                ],
+                [
+                    "pk-523",
+                    48
+                ],
+                [
+                    "pk-519a",
+                    70
+                ]
+            ]
+        },
+        {
+            "id": "pk-2-5_15",
+            "x": 1110,
+            "y": 293,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "pk-2-5_17",
+                    120
+                ],
+                [
+                    "pk-519b",
+                    47
+                ],
+                [
+                    "pk-519a",
+                    50
+                ]
+            ]
+        },
+        {
+            "id": "pk-519b",
+            "x": 1110,
+            "y": 340,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "pk-2-5_15",
+                    47
+                ]
+            ]
+        },
+        {
+            "id": "pk-2-5_17",
+            "x": 1230,
+            "y": 293,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "pk-2-5_21",
+                    18
+                ],
+                [
+                    "pk-2-5_15",
+                    120
+                ],
+                [
+                    "pk-2-5_19",
+                    39
+                ]
+            ]
+        },
+        {
+            "id": "pk-2-5-stair-2",
+            "x": 1230,
+            "y": 446,
+            "type": "stair",
+            "neighborData": [
+                [
+                    "pk-2-5_19",
+                    114
+                ]
+            ]
+        },
+        {
+            "id": "pk-2-5_19",
+            "x": 1230,
+            "y": 332,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "pk-2-5_17",
+                    39
+                ],
+                [
+                    "pk-2-5-stair-2",
+                    114
+                ],
+                [
+                    "pk-518",
+                    70
+                ]
+            ]
+        },
+        {
+            "id": "pk-518",
+            "x": 1300,
+            "y": 332,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "pk-2-5_19",
+                    70
+                ]
+            ]
+        },
+        {
+            "id": "pk-2-5_21",
+            "x": 1230,
+            "y": 275,
+            "type": "hallway",
+            "neighborData": [
+                [
+                    "pk-2-5_17",
+                    18
+                ],
+                [
+                    "pk-517",
+                    70
+                ]
+            ]
+        },
+        {
+            "id": "pk-517",
+            "x": 1300,
+            "y": 275,
+            "type": "entrancesToAu",
+            "neighborData": [
+                [
+                    "pk-2-5_21",
+                    70
+                ]
+            ]
+        }
+    ],
+    "spaces": []
+}

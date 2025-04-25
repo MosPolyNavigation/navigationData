@@ -1,3 +1,6 @@
 [
-  "./BS/CAMPUS-BS.json"
+  "./BS/CAMPUS-BS.json",
+  "./M/CAMPUS-M.json",
+  "./PK/CAMPUS-PK.json",
+  "./PR/CAMPUS-PR.json"
 ]

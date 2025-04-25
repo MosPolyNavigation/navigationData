@@ -1,0 +1,44 @@
+{
+    "id": "PR",
+    "rusName": "ПР",
+    "corpuses": {
+        "PR-1": {
+            "rusName": "ПР-1",
+            "planLinks": [
+                "./PR/PR-1/PR-1-Basement.json",
+                "./PR/PR-1/PR-1-0.json",
+                "./PR/PR-1/PR-1-1.json",
+                "./PR/PR-1/PR-1-2.json",
+                "./PR/PR-1/PR-1-3.json",
+                "./PR/PR-1/PR-1-4.json"
+            ],
+            "stairsGroups": [
+                ["pr-1-basement-stair-1","pr-1-0-stair-center-1","pr-1-1-stair-center","pr-1-2-stair-center","pr-1-3-stair-center","pr-1-4-stair-center"],
+                ["pr-1-0-stair-right-1","pr-1-1-stair-right-1","pr-1-2-stair-right-1","pr-1-3-stair-right-1","pr-1-4-stair-right-1"],
+                ["pr-1-1-stair-left","pr-1-2-stair-left","pr-1-3-stair-left","pr-1-4-stair-left"],
+                ["pr-1-1-stair-right-2","pr-1-2-stair-right-2","pr-1-3-stair-right-2","pr-1-4-stair-right-2"]
+            ]
+        },
+        "PR-2": {
+            "rusName": "ПР-2",
+            "planLinks":[
+                "./PR/PR-2/PR-2-1.json",
+                "./PR/PR-2/PR-2-2.json",
+                "./PR/PR-2/PR-2-3.json",
+                "./PR/PR-2/PR-2-4.json",
+                "./PR/PR-2/PR-2-5.json",
+                "./PR/PR-2/PR-2-6.json",
+                "./PR/PR-2/PR-2-7.json",
+                "./PR/PR-2/PR-2-8.json"
+            ],
+            "stairsGroups": [
+                ["pr-2-1-stair-left","pr-2-2-stair-left","pr-23-stairs-2","pr-2-4-stair-left","pr-2-5-stair-left","pr-26-stairs-2","pr-2-7-stair-left","pr-2-8-stair-left"],
+                ["pr-2-1-stair-center","pr-2-2-stair-center","pr-23-stairs-1","pr-2-4-stair-center","pr-2-5-stair-center","pr-26-stairs-1","pr-2-7-stair-center","pr-2-8-stair-center"],
+                ["pr-2-1-stair-right","pr-2-2-stair-right","pr-23-stairs-3","pr-2-4-stair-right","pr-2-5-stair-right","pr-26-stairs-3","pr-2-7-stair-right","pr-2-8-stair-right"]
+            ]
+        }
+        },
+        "crossings": [
+           ["pr-1-2-crossing-2","pr-2-4-crossing-1",300]
+  ]
+}
