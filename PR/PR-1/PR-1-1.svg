@@ -5,7 +5,7 @@
 <path id="pr-1-1-stair-left" opacity="0.2" d="M110 1010H5V1260H110V1010Z" fill="#9CD9BC"/>
 <path id="pr-1-1-stair-right-1" opacity="0.2" d="M2240 1010H2140V1260H2240V1010Z" fill="#9CD9BC"/>
 <path id="pr-1-1-stair-right-2" opacity="0.2" d="M1400 440H1170V540H1400V440Z" fill="#9CD9BC"/>
-<path id="pr-1-1-stair-5" opacity="0.2" d="M1175 1800H1065V1870H1175V1800Z" fill="#9CD9BC"/>
+<path id="!pr-1-1-stair-5" opacity="0.2" d="M1175 1800H1065V1870H1175V1800Z" fill="#9CD9BC"/>
 <path id="!pr-1114" d="M1170 295V117V5H910V110H900V295H1170Z" fill="#3B3C41"/>
 <path id="pr-1141" d="M1350 200V110H1340V5H1170V200H1350Z" fill="#3B3C41"/>
 <path id="pr-1140" d="M1350 200H1170V440H1350V200Z" fill="#3B3C41"/>
@@ -150,7 +150,6 @@
 <circle id="9" cx="1730" cy="1360" r="10" fill="#9CBBFF"/>
 <circle id="37" cx="1833" cy="1360" r="10" fill="#9CBBFF"/>
 <circle id="10" cx="1511" cy="1360" r="10" fill="#9CBBFF"/>
-<circle id="44" cx="1122" cy="1800" r="10" fill="#9CBBFF"/>
 <circle id="42" cx="1122" cy="1159" r="10" fill="#9CBBFF"/>
 <circle id="43" cx="1035" cy="1000" r="10" fill="#9CBBFF"/>
 <circle id="40" cx="1050" cy="1510" r="10" fill="#9CBBFF"/>
