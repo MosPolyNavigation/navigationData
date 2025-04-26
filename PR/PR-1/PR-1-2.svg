@@ -39,7 +39,7 @@
 <path id="pr-1221" d="M470 1120H310V1320H470V1120Z" fill="#3B3C41"/>
 <path id="pr-1222" d="M630 1120H470V1320H630V1120Z" fill="#3B3C41"/>
 <path id="pr-1223" d="M910 1120H630V1320H910V1120Z" fill="#3B3C41"/>
-<path id="pr-1-2-crossing-2" opacity="0.2" d="M1165 0H1085V100H1165V0Z" fill="#9CD9BC"/>
+<path id="!pr-1-2-crossing-2" opacity="0.2" d="M1165 0H1085V100H1165V0Z" fill="#9CD9BC"/>
 </g>
 <g id="Walls">
 <path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M1210 173V167H1170V173H1210ZM1240 173H1340V167H1240V173Z" fill="#A5A5A7"/>
@@ -166,7 +166,6 @@
 <circle id="34" cx="1080" cy="230" r="10" fill="#9CBBFF"/>
 <circle id="38" cx="1025" cy="170" r="10" fill="#9CBBFF"/>
 <circle id="35" cx="1123" cy="1223" r="10" fill="#9CBBFF"/>
-<circle id="39" cx="1125" r="10" fill="#9CBBFF"/>
 </g>
 <g id="Icons">
 <g id="Stair">
