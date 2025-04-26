@@ -11,10 +11,6 @@
             "4"
         ],
         [
-            "pk-2-2-crossing-1-2",
-            "10"
-        ],
-        [
             "pk-218",
             "2"
         ]
@@ -396,20 +392,20 @@
             "type": "hallway",
             "neighborData": [
                 [
-                    "pk-2-2_21",
-                    37
+                    "pk-2-2_24",
+                    125
                 ],
                 [
-                    "pk-2-2-crossing-1-2",
-                    125
+                    "pk-2-2_21",
+                    37
                 ]
             ]
         },
         {
-            "id": "pk-2-2-crossing-1-2",
+            "id": "pk-2-2_24",
             "x": 1145,
             "y": 5,
-            "type": "crossing",
+            "type": "hallway",
             "neighborData": [
                 [
                     "pk-2-2_23",

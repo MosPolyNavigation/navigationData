@@ -46,8 +46,5 @@
                 ["pk-3-1-stair-2-1","pk-3-2-stair-2-1"]
             ]
         }
-        },
-        "crossings": [
-          ["pk-1-2-crossing-2-2","pk-2-2-crossing-1-2",300]
-        ]
+        }
 }

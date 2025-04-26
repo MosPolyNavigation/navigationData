@@ -16,7 +16,7 @@
 <rect id="pk-214" x="1240" y="235" width="215" height="355" fill="#3B3C41"/>
 <rect id="!pk-22-stair-3" opacity="0.2" x="1105" y="1325" width="190" height="100" fill="#9CD9BC"/>
 <rect id="!pk-22-lift-3" x="1240" y="655" width="55" height="40" fill="#3B3C41"/>
-<path id="pk-2-2-crossing-1-2" opacity="0.01" d="M1240 4L1240 205.5L1109.5 205.5L1109.5 151.5L1047 151.5L980.5 151.5L980.5 4L1240 4Z" fill="#9CD9BC"/>
+<path id="!pk-2-2-crossing-1-2" opacity="0.01" d="M1240 4L1240 205.5L1109.5 205.5L1109.5 151.5L1047 151.5L980.5 151.5L980.5 4L1240 4Z" fill="#9CD9BC"/>
 </g>
 <g id="Walls">
 <path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M1190 634V655H1200V634H1190ZM1190 604L1200 604V590H1190V604Z" fill="#A5A5A7"/>
@@ -56,7 +56,6 @@
 <circle id="6" cx="934" cy="205" r="10" fill="#9CBBFF"/>
 <circle id="7" cx="730" cy="310" r="10" fill="#9CBBFF"/>
 <circle id="8" cx="1038" cy="310" r="10" fill="#9CBBFF"/>
-<circle id="10" cx="1145" cy="5" r="10" fill="#9CBBFF"/>
 <circle id="12" cx="1166" cy="426" r="10" fill="#9CBBFF"/>
 <circle id="13" cx="1240" cy="297" r="10" fill="#9CBBFF"/>
 </g>
