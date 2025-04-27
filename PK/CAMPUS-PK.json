@@ -3,7 +3,7 @@
     "rusName": "ПК",
     "corpuses": {
         "PK-1": {
-            "rusName": "ПК-1",
+            "rusName": "1",
             "planLinks": [
                 "./PK/PK-1/PK-1-1.json",
                 "./PK/PK-1/PK-1-2.json",
@@ -17,7 +17,7 @@
             ]
         },
         "PK-2": {
-            "rusName": "ПК-2",
+            "rusName": "2",
             "planLinks":[
                 "./PK/PK-2/PK-2-1.json",
                 "./PK/PK-2/PK-2-2.json",
@@ -31,7 +31,7 @@
             ]
         },
         "PK-3": {
-            "rusName": "ПК-3",
+            "rusName": "3",
             "planLinks": [
                 "./PK/PK-3/PK-3-1.json",
                 "./PK/PK-3/PK-3-2.json",

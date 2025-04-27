@@ -3,7 +3,7 @@
     "rusName": "ПР",
     "corpuses": {
         "PR-1": {
-            "rusName": "ПР-1",
+            "rusName": "1",
             "planLinks": [
                 "./PR/PR-1/PR-1-Basement.json",
                 "./PR/PR-1/PR-1-0.json",
@@ -20,7 +20,7 @@
             ]
         },
         "PR-2": {
-            "rusName": "ПР-2",
+            "rusName": "2",
             "planLinks":[
                 "./PR/PR-2/PR-2-1.json",
                 "./PR/PR-2/PR-2-2.json",

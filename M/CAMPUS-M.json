@@ -3,7 +3,7 @@
     "rusName": "М",
     "corpuses": {
         "M-3": {
-            "rusName": "М-3",
+            "rusName": "М",
             "planLinks": [
                 "/M/M-3/M-3-1.json",
                 "/M/M-3/M-3-2.json",
@@ -19,7 +19,7 @@
             ]
         },
         "M-SPORT": {
-            "rusName": "М-СПОРТ",
+            "rusName": "Спорткомплекс",
             "planLinks":[
                 "/M/M-SPORT/M-SPORT-0.json",
                 "/M/M-SPORT/M-SPORT-1.json",
