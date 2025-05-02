@@ -7,66 +7,66 @@
     "entrances": 
     [
         [
-            "pr-2605",
-            "Ellipse 7"
-        ],
-        [
             "pr-26-wcm",
-            "Ellipse 3"
+            "3"
         ],
         [
             "pr-26-wcw",
-            "Ellipse 1"
+            "1"
+        ],
+        [
+            "pr-2605",
+            "7"
         ],
         [
             "pr-26-stairs-1",
-            "Ellipse 18"
+            "18"
         ],
         [
             "pr-26-lift-1",
-            "Ellipse 16"
+            "16"
         ],
         [
             "pr-26-lift-2",
-            "Ellipse 17"
+            "17"
         ],
         [
             "pr-2669",
-            "Ellipse 15"
+            "15"
         ],
         [
             "pr-2668",
-            "Ellipse 14"
+            "14"
         ],
         [
             "pr-2667",
-            "Ellipse 13"
+            "13"
         ],
         [
             "pr-2666",
-            "Ellipse 12"
+            "12"
         ],
         [
             "pr-2665",
-            "Ellipse 11"
+            "11"
         ],
         [
             "pr-26-stairs-3",
-            "Ellipse 23"
+            "23"
         ],
         [
             "pr-2662",
-            "Ellipse 10"
+            "10"
         ],
         [
             "pr-2663",
-            "Ellipse 9"
+            "9"
         ],
         [
             "pr-2664",
-            "Ellipse 8"
+            "8"
         ]
-    ],
+      ],
     "graph": 
     [
         {

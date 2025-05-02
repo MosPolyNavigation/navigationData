@@ -12,7 +12,7 @@
 <path id="pr-2403" d="M646.179 310H580V490.978H1180L1186 495L1315 365.299L1260 310H1021.19H778.537H646.179Z" fill="#3B3C41"/>
 <path id="pr-2411" d="M2074 695L1911 859L2055 1004L2219 840L2074 695Z" fill="#3B3C41"/>
 <path id="pr-2-4-stair-center" opacity="0.2" d="M1180 160H1260.23V90H1350.49L1410.66 150L1360.51 200L1418 257L1526 150L1457 77L1400.5 121.5L1355.5 78L1398 18L1381 5H1180V160Z" fill="#9CD9BC"/>
-<path id="!pr-2-4-crossing-1" opacity="0.2" d="M1398 18L1355.5 78L1400.51 121.5L1457 77L1398 18Z" fill="#9CD9BC"/>
+<path id="pr-2-4-crossing-1" opacity="0.2" d="M1398 18L1355.5 78L1400.51 121.5L1457 77L1398 18Z" fill="#9CD9BC"/>
 <path id="pr-2-4-stair-left" opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M5 270H200V490H5V270Z" fill="#9CD9BC"/>
 <path id="!pr-2409" d="M1595 215L1530 150L1365 312L1430 377L1595 215Z" fill="#3B3C41"/>
 <path id="!pr-rr" d="M1502 444L1665 280L2075 690L1912 854L1502 444Z" fill="#3B3C41"/>
@@ -71,6 +71,7 @@
 <circle id="26" cx="1940" cy="887" r="10" fill="#9CBBFF"/>
 <circle id="27" cx="1755" cy="1013" r="10" fill="#9CBBFF"/>
 <circle id="11" cx="1226" cy="52" r="10" fill="#9CBBFF"/>
+<circle id="28" cx="1429" cy="49" r="10" fill="#9CBBFF"/>
 <circle id="12" cx="1338" cy="177" r="10" fill="#9CBBFF"/>
 <circle id="18" cx="1916" cy="1002" r="10" fill="#9CBBFF"/>
 </g>
@@ -120,27 +121,27 @@
 </g>
 <g id="&#208;&#161;rossing" clip-path="url(#clip0_6_1584)">
 <g id="Group 24">
-<path id="Vector 320" d="M1377.18 86.816L1406.36 58.7305" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round"/>
-<path id="Vector 323" d="M1389.64 100.024L1418.95 71.8164" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round"/>
+<path id="Vector 320" d="M1376.18 87.816L1405.36 59.7305" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round"/>
+<path id="Vector 323" d="M1388.64 101.024L1417.95 72.8164" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round"/>
 </g>
 <g id="Group 25">
-<ellipse id="Ellipse 36" cx="1391.98" cy="85.1697" rx="1.08965" ry="1.08965" transform="rotate(-43.8993 1391.98 85.1697)" fill="#D9D9D9"/>
-<ellipse id="Ellipse 32" cx="1379.42" cy="97.2585" rx="1.08965" ry="1.08965" transform="rotate(-43.8993 1379.42 97.2585)" fill="#D9D9D9"/>
-<ellipse id="Ellipse 37" cx="1395.12" cy="82.1475" rx="1.08965" ry="1.08965" transform="rotate(-43.8993 1395.12 82.1475)" fill="#D9D9D9"/>
-<ellipse id="Ellipse 33" cx="1382.56" cy="94.2363" rx="1.08965" ry="1.08965" transform="rotate(-43.8993 1382.56 94.2363)" fill="#D9D9D9"/>
-<ellipse id="Ellipse 38" cx="1398.26" cy="79.1253" rx="1.08965" ry="1.08965" transform="rotate(-43.8993 1398.26 79.1253)" fill="#D9D9D9"/>
-<ellipse id="Ellipse 34" cx="1385.7" cy="91.2141" rx="1.08965" ry="1.08965" transform="rotate(-43.8993 1385.7 91.2141)" fill="#D9D9D9"/>
-<circle id="Ellipse 39" cx="1401.4" cy="76.103" r="1.08965" transform="rotate(-43.8993 1401.4 76.103)" fill="#D9D9D9"/>
-<ellipse id="Ellipse 35" cx="1388.84" cy="88.1919" rx="1.08965" ry="1.08965" transform="rotate(-43.8993 1388.84 88.1919)" fill="#D9D9D9"/>
-<circle id="Ellipse 40" cx="1404.54" cy="73.0808" r="1.08965" transform="rotate(-43.8993 1404.54 73.0808)" fill="#D9D9D9"/>
+<ellipse id="Ellipse 36" cx="1390.98" cy="86.1697" rx="1.08965" ry="1.08965" transform="rotate(-43.8993 1390.98 86.1697)" fill="#D9D9D9"/>
+<ellipse id="Ellipse 32" cx="1378.42" cy="98.2585" rx="1.08965" ry="1.08965" transform="rotate(-43.8993 1378.42 98.2585)" fill="#D9D9D9"/>
+<ellipse id="Ellipse 37" cx="1394.12" cy="83.1475" rx="1.08965" ry="1.08965" transform="rotate(-43.8993 1394.12 83.1475)" fill="#D9D9D9"/>
+<ellipse id="Ellipse 33" cx="1381.56" cy="95.2363" rx="1.08965" ry="1.08965" transform="rotate(-43.8993 1381.56 95.2363)" fill="#D9D9D9"/>
+<ellipse id="Ellipse 38" cx="1397.26" cy="80.1253" rx="1.08965" ry="1.08965" transform="rotate(-43.8993 1397.26 80.1253)" fill="#D9D9D9"/>
+<ellipse id="Ellipse 34" cx="1384.7" cy="92.2141" rx="1.08965" ry="1.08965" transform="rotate(-43.8993 1384.7 92.2141)" fill="#D9D9D9"/>
+<circle id="Ellipse 39" cx="1400.4" cy="77.103" r="1.08965" transform="rotate(-43.8993 1400.4 77.103)" fill="#D9D9D9"/>
+<ellipse id="Ellipse 35" cx="1387.84" cy="89.1919" rx="1.08965" ry="1.08965" transform="rotate(-43.8993 1387.84 89.1919)" fill="#D9D9D9"/>
+<circle id="Ellipse 40" cx="1403.54" cy="74.0808" r="1.08965" transform="rotate(-43.8993 1403.54 74.0808)" fill="#D9D9D9"/>
 </g>
-<path id="Vector 325" d="M1408.21 69.5552L1421.82 56.459M1421.82 56.459L1413.31 58.0936M1421.82 56.459L1419.86 64.8983" stroke="#D9D9D9" stroke-width="3" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 325" d="M1407.21 70.5552L1420.82 57.459M1420.82 57.459L1412.31 59.0936M1420.82 57.459L1418.86 65.8983" stroke="#D9D9D9" stroke-width="3" stroke-miterlimit="1" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </g>
 </g>
 <defs>
 <clipPath id="clip0_6_1584">
-<rect width="61.7466" height="43.5859" fill="white" transform="translate(1363 82.8147) rotate(-43.8993)"/>
+<rect width="61.7466" height="43.5859" fill="white" transform="translate(1362 83.8147) rotate(-43.8993)"/>
 </clipPath>
 </defs>
 </svg>

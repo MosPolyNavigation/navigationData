@@ -124,45 +124,45 @@
 <text id="&#208;&#191;&#209;&#128; 1319_2" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1225.21" y="865.8">&#x41f;&#x420; 1319</tspan></text>
 </g>
 <g id="Entrances">
-<circle id="Ellipse 1" cx="58" cy="1189" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 2" cx="214" cy="1260" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 3" cx="401" cy="1260" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 4" cx="563" cy="1260" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 5" cx="695" cy="1260" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 10" cx="653" cy="1370" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 11" cx="850" cy="1370" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 6" cx="840" cy="1260" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 8" cx="295" cy="1370" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 9" cx="499" cy="1370" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 14" cx="1401" cy="1260" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 15" cx="1579" cy="1260" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 16" cx="1648" cy="1260" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 18" cx="1904" cy="1260" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 19" cx="1997" cy="1260" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 20" cx="2097" cy="1260" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 21" cx="2190" cy="1190" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 23" cx="2071" cy="1360" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 24" cx="1693" cy="1360" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 25" cx="1530" cy="1360" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 26" cx="1211" cy="1390" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 27" cx="1294" cy="1240" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 28" cx="978" cy="1240" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 29" cx="1170" cy="736" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 30" cx="1170" cy="840" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 31" cx="1135" cy="1164" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 32" cx="1100" cy="850" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 33" cx="1170" cy="604" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 34" cx="1100" cy="648" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 35" cx="1225" cy="490" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 36" cx="1100" cy="514" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 37" cx="1170" cy="385" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 38" cx="1100" cy="415" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 39" cx="1170" cy="285" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 40" cx="1100" cy="286" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 41" cx="1170" cy="48" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 42" cx="1170" cy="160" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 43" cx="1100" cy="160" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 44" cx="1100" cy="48" r="10" fill="#9CBBFF"/>
+<circle id="1" cx="58" cy="1189" r="10" fill="#9CBBFF"/>
+<circle id="2" cx="214" cy="1260" r="10" fill="#9CBBFF"/>
+<circle id="3" cx="401" cy="1260" r="10" fill="#9CBBFF"/>
+<circle id="4" cx="563" cy="1260" r="10" fill="#9CBBFF"/>
+<circle id="5" cx="695" cy="1260" r="10" fill="#9CBBFF"/>
+<circle id="10" cx="653" cy="1370" r="10" fill="#9CBBFF"/>
+<circle id="11" cx="850" cy="1370" r="10" fill="#9CBBFF"/>
+<circle id="6" cx="840" cy="1260" r="10" fill="#9CBBFF"/>
+<circle id="8" cx="295" cy="1370" r="10" fill="#9CBBFF"/>
+<circle id="9" cx="499" cy="1370" r="10" fill="#9CBBFF"/>
+<circle id="14" cx="1401" cy="1260" r="10" fill="#9CBBFF"/>
+<circle id="15" cx="1579" cy="1260" r="10" fill="#9CBBFF"/>
+<circle id="16" cx="1648" cy="1260" r="10" fill="#9CBBFF"/>
+<circle id="18" cx="1904" cy="1260" r="10" fill="#9CBBFF"/>
+<circle id="19" cx="1997" cy="1260" r="10" fill="#9CBBFF"/>
+<circle id="20" cx="2097" cy="1260" r="10" fill="#9CBBFF"/>
+<circle id="21" cx="2190" cy="1190" r="10" fill="#9CBBFF"/>
+<circle id="23" cx="2071" cy="1360" r="10" fill="#9CBBFF"/>
+<circle id="24" cx="1693" cy="1360" r="10" fill="#9CBBFF"/>
+<circle id="25" cx="1530" cy="1360" r="10" fill="#9CBBFF"/>
+<circle id="26" cx="1211" cy="1390" r="10" fill="#9CBBFF"/>
+<circle id="27" cx="1294" cy="1240" r="10" fill="#9CBBFF"/>
+<circle id="28" cx="978" cy="1240" r="10" fill="#9CBBFF"/>
+<circle id="29" cx="1170" cy="736" r="10" fill="#9CBBFF"/>
+<circle id="30" cx="1170" cy="840" r="10" fill="#9CBBFF"/>
+<circle id="31" cx="1135" cy="1164" r="10" fill="#9CBBFF"/>
+<circle id="32" cx="1100" cy="850" r="10" fill="#9CBBFF"/>
+<circle id="33" cx="1170" cy="604" r="10" fill="#9CBBFF"/>
+<circle id="34" cx="1100" cy="648" r="10" fill="#9CBBFF"/>
+<circle id="35" cx="1225" cy="490" r="10" fill="#9CBBFF"/>
+<circle id="36" cx="1100" cy="514" r="10" fill="#9CBBFF"/>
+<circle id="37" cx="1170" cy="385" r="10" fill="#9CBBFF"/>
+<circle id="38" cx="1100" cy="415" r="10" fill="#9CBBFF"/>
+<circle id="39" cx="1170" cy="285" r="10" fill="#9CBBFF"/>
+<circle id="40" cx="1100" cy="286" r="10" fill="#9CBBFF"/>
+<circle id="41" cx="1170" cy="48" r="10" fill="#9CBBFF"/>
+<circle id="42" cx="1170" cy="160" r="10" fill="#9CBBFF"/>
+<circle id="43" cx="1100" cy="160" r="10" fill="#9CBBFF"/>
+<circle id="44" cx="1100" cy="48" r="10" fill="#9CBBFF"/>
 </g>
 <g id="Icons">
 <g id="Stair">
@@ -212,13 +212,13 @@
 <g id="Men">
 <g id="Group 6">
 <path id="Vector 200" d="M965.5 1153.5L974 1132H946L954.5 1153.5" stroke="#9CBBFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<circle id="Ellipse 9_2" cx="960" cy="1114" r="8" stroke="#9CBBFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle id="Ellipse 9" cx="960" cy="1114" r="8" stroke="#9CBBFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </g>
 <g id="Woman">
 <g id="Group 5">
 <path id="Vector 200_2" d="M1305.5 1132L1314 1153.5H1286L1294.5 1132" stroke="#F783CB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<circle id="Ellipse 9_3" cx="1300" cy="1114" r="8" stroke="#F783CB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle id="Ellipse 9_2" cx="1300" cy="1114" r="8" stroke="#F783CB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </g>
 </g>

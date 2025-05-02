@@ -6,43 +6,35 @@
     "floor": 2,
     "entrances": 
     [
-        [
-                "m-sport-2-sportsequipment",
-                "Ellipse 8"
-        ],
-        [
-                "m-sport-2-stair-right",
-                "Ellipse 9"
-        ],
-        [
-                "m-sports-wcm-1",
-                "Ellipse 10"
-        ],
-        [
-                "m-sports-wcm-2",
-                "Ellipse 3"
-        ],
-        [
-                "m-sport-2-stair-left",
-                "Ellipse 6"
-        ],
-        [
-                "m-sport-2-pumpingstation",
-                "Ellipse 7"
-        ],
-        [
-                "m-sport-2-largegameroom",
-                "Ellipse 14"
-        ],
-        [
-                "m-sport-2-lockerroom-m-students-1",
-                "Ellipse 11"
-        ],
-        [
-                "m-sport-2-lockerroom-m-students-2",
-                "Ellipse 1"
-        ]
-],
+      [
+          "m-sport-2-lockerroom-m-students-1",
+          "11"
+      ],
+      [
+          "m-sports-wcm-1",
+          "10"
+      ],
+      [
+          "m-sport-2-stair-right",
+          "9"
+      ],
+      [
+          "m-sport-2-sportsequipment",
+          "8"
+      ],
+      [
+          "m-sport-2-lockerroom-m-students-2",
+          "1"
+      ],
+      [
+          "m-sport-2-stair-left",
+          "6"
+      ],
+      [
+          "m-sport-2-pumpingstation",
+          "7"
+      ]
+  ],
     "graph": 
     [
         {

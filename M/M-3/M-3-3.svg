@@ -160,37 +160,37 @@
 </g>
 </g>
 <g id="Entrances">
-<circle id="Ellipse 10" cx="237" cy="565" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 11" cx="210" cy="475" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 12" cx="335" cy="485" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 13" cx="335" cy="555" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 16" cx="890" cy="485" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 17" cx="1100" cy="485" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 18" cx="1030" cy="555" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 18_2" cx="1306" cy="235" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 19" cx="1635" cy="235" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 20" cx="1400" cy="325" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 21" cx="1805" cy="235" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 22" cx="2000" cy="345" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 23" cx="2195" cy="235" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 26" cx="2330" cy="335" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 27" cx="2515" cy="335" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 28" cx="2680" cy="235" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 24" cx="2230" cy="335" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 25" cx="2400" cy="235" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 16_2" cx="1260" cy="555" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 17_2" cx="1245" cy="445" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 29" cx="2735" cy="565" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 30" cx="2895" cy="565" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 31" cx="2880" cy="485" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 32" cx="2970" cy="485" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 33" cx="3270" cy="485" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 34" cx="3270" cy="565" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 35" cx="3605" cy="485" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 36" cx="3670" cy="565" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 37" cx="2000" cy="210" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 24_2" cx="3800" cy="475" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 29_2" cx="2765" cy="452" r="10" fill="#9CBBFF"/>
+<circle id="10" cx="237" cy="565" r="10" fill="#9CBBFF"/>
+<circle id="11" cx="210" cy="475" r="10" fill="#9CBBFF"/>
+<circle id="12" cx="335" cy="485" r="10" fill="#9CBBFF"/>
+<circle id="13" cx="335" cy="555" r="10" fill="#9CBBFF"/>
+<circle id="16" cx="890" cy="485" r="10" fill="#9CBBFF"/>
+<circle id="38" cx="1030" cy="555" r="10" fill="#9CBBFF"/>
+<circle id="17" cx="1100" cy="485" r="10" fill="#9CBBFF"/>
+<circle id="18" cx="1306" cy="235" r="10" fill="#9CBBFF"/>
+<circle id="19" cx="1635" cy="235" r="10" fill="#9CBBFF"/>
+<circle id="20" cx="1400" cy="325" r="10" fill="#9CBBFF"/>
+<circle id="21" cx="1805" cy="235" r="10" fill="#9CBBFF"/>
+<circle id="22" cx="2000" cy="345" r="10" fill="#9CBBFF"/>
+<circle id="23" cx="2195" cy="235" r="10" fill="#9CBBFF"/>
+<circle id="26" cx="2330" cy="335" r="10" fill="#9CBBFF"/>
+<circle id="27" cx="2515" cy="335" r="10" fill="#9CBBFF"/>
+<circle id="28" cx="2680" cy="235" r="10" fill="#9CBBFF"/>
+<circle id="24" cx="2230" cy="335" r="10" fill="#9CBBFF"/>
+<circle id="25" cx="2400" cy="235" r="10" fill="#9CBBFF"/>
+<circle id="16_2" cx="1260" cy="555" r="10" fill="#9CBBFF"/>
+<circle id="17_2" cx="1245" cy="445" r="10" fill="#9CBBFF"/>
+<circle id="29" cx="2735" cy="565" r="10" fill="#9CBBFF"/>
+<circle id="30" cx="2895" cy="565" r="10" fill="#9CBBFF"/>
+<circle id="31" cx="2880" cy="485" r="10" fill="#9CBBFF"/>
+<circle id="32" cx="2970" cy="485" r="10" fill="#9CBBFF"/>
+<circle id="33" cx="3270" cy="485" r="10" fill="#9CBBFF"/>
+<circle id="34" cx="3270" cy="565" r="10" fill="#9CBBFF"/>
+<circle id="35" cx="3605" cy="485" r="10" fill="#9CBBFF"/>
+<circle id="36" cx="3670" cy="565" r="10" fill="#9CBBFF"/>
+<circle id="37" cx="2000" cy="210" r="10" fill="#9CBBFF"/>
+<circle id="24_2" cx="3800" cy="475" r="10" fill="#9CBBFF"/>
+<circle id="29_2" cx="2765" cy="452" r="10" fill="#9CBBFF"/>
 </g>
 </g>
 <defs>

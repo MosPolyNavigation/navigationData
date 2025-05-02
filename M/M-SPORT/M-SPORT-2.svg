@@ -33,15 +33,15 @@
 <text id="&#208;&#161;&#208;&#191;&#208;&#190;&#209;&#128;&#209;&#130;&#208;&#184;&#208;&#178;&#208;&#189;&#209;&#139;&#208;&#185; &#208;&#184;&#208;&#189;&#208;&#178;&#208;&#181;&#208;&#189;&#209;&#130;&#208;&#176;&#209;&#128;&#209;&#140;" fill="#D9D9D9" xml:space="preserve" style="white-space: pre" font-family="GothamSSm" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1054.28" y="389.4">&#x421;&#x41f;&#x41e;&#x420;&#x422;&#x418;&#x412;&#x41d;&#x42b;&#x419;&#10;</tspan><tspan x="1059.88" y="403.4">&#x418;&#x41d;&#x412;&#x415;&#x41d;&#x422;&#x410;&#x420;&#x42c;</tspan></text>
 </g>
 <g id="Entrances">
-<circle id="Ellipse 1" cx="167" cy="155" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 14" cx="593" cy="229" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 6" cx="167" cy="305" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 7" cx="160" cy="350" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 8" cx="1025" cy="350" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 9" cx="1025" cy="303" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 11" cx="1025" cy="150" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 3" cx="145" cy="182" r="10" fill="#9CBBFF"/>
-<circle id="Ellipse 10" cx="1045" cy="171" r="10" fill="#9CBBFF"/>
+<circle id="1" cx="167" cy="155" r="10" fill="#9CBBFF"/>
+<circle id="14" cx="593" cy="229" r="10" fill="#9CBBFF"/>
+<circle id="6" cx="167" cy="305" r="10" fill="#9CBBFF"/>
+<circle id="7" cx="160" cy="350" r="10" fill="#9CBBFF"/>
+<circle id="8" cx="1025" cy="350" r="10" fill="#9CBBFF"/>
+<circle id="9" cx="1025" cy="303" r="10" fill="#9CBBFF"/>
+<circle id="11" cx="1025" cy="150" r="10" fill="#9CBBFF"/>
+<circle id="3" cx="145" cy="182" r="10" fill="#9CBBFF"/>
+<circle id="10" cx="1045" cy="171" r="10" fill="#9CBBFF"/>
 </g>
 <g id="Icons">
 <g id="Stair">
@@ -61,13 +61,13 @@
 <g id="Men">
 <g id="Group 6">
 <path id="Vector 200" d="M128.5 230.5L137 209H109L117.5 230.5" stroke="#9CBBFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<circle id="Ellipse 9_2" cx="123" cy="191" r="8" stroke="#9CBBFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle id="Ellipse 9" cx="123" cy="191" r="8" stroke="#9CBBFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </g>
 <g id="Men_2">
 <g id="Group 6_2">
 <path id="Vector 200_2" d="M1073.5 229.5L1082 208H1054L1062.5 229.5" stroke="#9CBBFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<circle id="Ellipse 9_3" cx="1068" cy="190" r="8" stroke="#9CBBFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle id="Ellipse 9_2" cx="1068" cy="190" r="8" stroke="#9CBBFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </g>
 </g>
