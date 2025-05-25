@@ -41,6 +41,21 @@
                 ["av-4-0-stair-5","av-4-1-stair-left","av-4-2-stair-1","av-4-3-stair-1","av-4-4-stair-left","av-4-5-stair-left","av-4-6-stair-left","av-4-7-stair-left","av-4-8-stair-left","av-4-9-stair-left"],
                 ["av-4-0-stair-4","av-4-1-stair-right","av-4-2-stair-2","av-4-3-stair-2","av-4-4-stair-right","av-4-5-stair-right","av-4-6-stair-right","av-4-7-stair-right","av-4-8-stair-right","av-4-9-stair-right"]
             ]
+        },
+        "AV-5": {
+            "rusName": "5",
+            "planLinks":[
+                "/AV/AV-5/AV-5-1.json",
+                "/AV/AV-5/AV-5-1-atresol.json",
+                "/AV/AV-5/AV-5-2.json",
+                "/AV/AV-5/AV-5-3.json",
+                "/AV/AV-5/AV-5-4.json",
+                "/AV/AV-5/AV-5-5.json"
+            ],
+            "stairsGroups": [
+                ["av-5-1-stair-1","av-5-1-atresol-stair-1","av-5-2-stair-1","av-5-3-stair-1","av-5-4-stair-1","av-5-5-stair-1"],
+                ["av-5-1-stair-2","av-5-1-atresol-stair-2","av-5-2-stair-2","av-5-3-stair-2","av-5-4-stair-2","av-5-5-stair-2"]
+            ]
         }
         },
         "crossings": [

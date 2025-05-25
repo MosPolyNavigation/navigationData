@@ -1,0 +1,62 @@
+<svg width="2475" height="365" viewBox="0 0 2475 365" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="AV-5-1" clip-path="url(#clip0_14_114)">
+<rect width="2475" height="365" fill="#1E1E1E"/>
+<g id="Spaces">
+<path id="av-5-1-lift" opacity="0.2" d="M330 30H230V110H330V30Z" fill="#A091F8"/>
+<path id="av-5-1-stair-1" opacity="0.2" d="M230 30H5V130H230V30Z" fill="#9CD9BC"/>
+<path id="av-5-1-stair-2" opacity="0.2" d="M2470 30H2370V260H2470V30Z" fill="#9CD9BC"/>
+<path id="av-5-1-stair-3" opacity="0.2" d="M2050 150L2000 230H2050V150Z" fill="#9CD9BC"/>
+<path id="av-5-1-stair-4" opacity="0.2" d="M1860 150H1780L1860 200V150Z" fill="#9CD9BC"/>
+</g>
+<g id="Walls">
+<path id="Subtract" d="M257 115H230V105H257V115ZM335 115H303V105H325V30H335V115Z" fill="#D9D9D9"/>
+<path id="Subtract_2" d="M2375 260H2365V25H2375V260Z" fill="#D9D9D9"/>
+<path id="Subtract_3" d="M130 135H5V125H130V135ZM235 135H210V125H225V25H235V135Z" fill="#D9D9D9"/>
+<path id="Subtract_4" d="M335 205H385V360H375V215H5V205H325V200H335V205ZM335 120H325V110H335V120Z" fill="#D9D9D9"/>
+<path id="Subtract_5" d="M2055 235H2043V225H2045V167.435L2009.02 225H2013V235H1990.98L1995.76 227.35L2045.76 147.35L2055 132.566V235ZM1864.5 157H1854.5V155H1797.34L1854.5 190.948V187H1864.5V209.052L1856.84 204.232L1777.34 154.232L1762.66 145H1864.5V157Z" fill="#D9D9D9"/>
+<path id="Subtract_6" d="M2055 360H2045V5H2055V360Z" fill="#D9D9D9"/>
+<path id="Subtract_7" d="M2375 25H2475V265H2375V365H0V190H10V355H2365V255H2465V35H2365V10H335V35H10V144H0V25H325V0H2375V25Z" fill="#D9D9D9"/>
+</g>
+<g id="Entrances">
+<circle id="1" cx="172" cy="80" r="10" fill="#9CBBFF"/>
+<circle id="2" cx="280" cy="110" r="10" fill="#9CBBFF"/>
+<circle id="3" cx="2420" cy="178" r="10" fill="#9CBBFF"/>
+<circle id="4" cx="2028" cy="230" r="10" fill="#9CBBFF"/>
+<circle id="5" cx="1860" cy="172" r="10" fill="#9CBBFF"/>
+</g>
+<g id="Icons">
+<g id="Elevator">
+<g id="Vector">
+<path d="M296 67L290 61L284 67H296Z" fill="#A091F8"/>
+<path d="M296 71L290 77L284 71H296Z" fill="#A091F8"/>
+<path d="M278 67C278 64 276 61 273 61H269C266 61 264 64 264 67V72C264 74 265.5 75.5 267 75.5V85C267 86.6 268.333 87 269 87H273C273.667 87 275 86.6 275 85V75.5C276.5 75.5 278 74 278 72V67Z" fill="#A091F8"/>
+<path d="M275 54C275 56.2091 273.209 58 271 58C268.791 58 267 56.2091 267 54C267 51.7909 268.791 50 271 50C273.209 50 275 51.7909 275 54Z" fill="#A091F8"/>
+</g>
+<path id="Vector 201" d="M267.5 97.5H255.5V42.5H304.5V97.5H292.5" stroke="#A091F8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Stair">
+<g id="Stair frame">
+<path id="Vector 152" d="M157 57H132V72H117V87H102V102H77" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154" d="M89 57H104M104 57L101 71M104 57L77 78" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155" d="M145 102H130M130 102L133 88M130 102L157 81" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Stair_2">
+<g id="Stair frame_2">
+<path id="Vector 152_2" d="M2460 117H2435V132H2420V147H2405V162H2380" stroke="#9CD9BC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 154_2" d="M2392 117H2407M2407 117L2404 131M2407 117L2380 138" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 155_2" d="M2448 162H2433M2433 162L2436 148M2433 162L2460 141" stroke="#9CD9BC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Doors">
+<path id="Vector 301" d="M176 139L204 132H210" stroke="#A5A5A7" stroke-width="6"/>
+<path id="Vector 302" d="M164 139L136 132H130" stroke="#A5A5A7" stroke-width="6"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_14_114">
+<rect width="2475" height="365" fill="white"/>
+</clipPath>
+</defs>
+</svg>

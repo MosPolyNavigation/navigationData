@@ -1,0 +1,694 @@
+{
+    "planName": "AV-5-1-atresol",
+    "svgLink": "/AV/AV-5/AV-5-1-atresol.svg",
+    "campus": "AV",
+    "corpus": "AV-5",
+    "floor": 1,
+    "entrances": 
+    [
+    [
+        "av-5-1-atresol-stair-1",
+        "1"
+    ],
+    [
+        "av-5-1-atresol-lift",
+        "3"
+    ],
+    [
+        "av-5100",
+        "2"
+    ],
+    [
+        "av-5101",
+        "6"
+    ],
+    [
+        "av-5101A",
+        "15"
+    ],
+    [
+        "av-5-1",
+        "16"
+    ],
+    [
+        "av-5103",
+        "17"
+    ],
+    [
+        "av-5104",
+        "18"
+    ],
+    [
+        "av-5105",
+        "19"
+    ],
+    [
+        "av-5106",
+        "20"
+    ],
+    [
+        "av-5107",
+        "21"
+    ],
+    [
+        "av-5108",
+        "22"
+    ],
+    [
+        "av-5109",
+        "23"
+    ],
+    [
+        "av-5-1-atresol-stair-2",
+        "14"
+    ],
+    [
+        "av-5-1-atresol-stair2",
+        "24"
+    ],
+    [
+        "av-5-1-atresol-stair",
+        "25"
+    ]
+],
+    "graph": 
+    [
+    {
+        "id": "av-5-1-atresol_0",
+        "x": 21,
+        "y": 172,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_34",
+                39
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_1",
+        "x": 731,
+        "y": 172,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_2",
+                1
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_2",
+        "x": 730,
+        "y": 172,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_26",
+                120
+            ],
+            [
+                "av-5-1-atresol_1",
+                1
+            ],
+            [
+                "av-5-1-atresol_5",
+                90
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_3",
+        "x": 730,
+        "y": 80,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_5",
+                2
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_4",
+        "x": 2318,
+        "y": 82,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_7",
+                2
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_5",
+        "x": 730,
+        "y": 82,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_3",
+                2
+            ],
+            [
+                "av-5-1-atresol_2",
+                90
+            ],
+            [
+                "av-5-1-atresol_25",
+                180
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_6",
+        "x": 2316,
+        "y": 235,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_8",
+                20
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_7",
+        "x": 2316,
+        "y": 82,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_11",
+                96
+            ],
+            [
+                "av-5-1-atresol_4",
+                2
+            ],
+            [
+                "av-5-1-atresol_8",
+                133
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_8",
+        "x": 2316,
+        "y": 215,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_7",
+                133
+            ],
+            [
+                "av-5-1-atresol_6",
+                20
+            ],
+            [
+                "av-5-1-atresol-stair-2",
+                104
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol-stair-2",
+        "x": 2420,
+        "y": 215,
+        "type": "stair",
+        "neighborData": [
+            [
+                "av-5-1-atresol_8",
+                104
+            ]
+        ]
+    },
+    {
+        "id": "av-5109",
+        "x": 2220,
+        "y": 130,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-5-1-atresol_11",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_11",
+        "x": 2220,
+        "y": 82,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_13",
+                180
+            ],
+            [
+                "av-5-1-atresol_7",
+                96
+            ],
+            [
+                "av-5109",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-5108",
+        "x": 2040,
+        "y": 130,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-5-1-atresol_13",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_13",
+        "x": 2040,
+        "y": 82,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_15",
+                200
+            ],
+            [
+                "av-5-1-atresol_11",
+                180
+            ],
+            [
+                "av-5108",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-5107",
+        "x": 1840,
+        "y": 130,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-5-1-atresol_15",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_15",
+        "x": 1840,
+        "y": 82,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_17",
+                200
+            ],
+            [
+                "av-5-1-atresol_13",
+                200
+            ],
+            [
+                "av-5107",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-5106",
+        "x": 1640,
+        "y": 130,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-5-1-atresol_17",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_17",
+        "x": 1640,
+        "y": 82,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_19",
+                210
+            ],
+            [
+                "av-5-1-atresol_15",
+                200
+            ],
+            [
+                "av-5106",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-5105",
+        "x": 1430,
+        "y": 130,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-5-1-atresol_19",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_19",
+        "x": 1430,
+        "y": 82,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_21",
+                170
+            ],
+            [
+                "av-5-1-atresol_17",
+                210
+            ],
+            [
+                "av-5105",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-5104",
+        "x": 1260,
+        "y": 130,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-5-1-atresol_21",
+                47.67
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_21",
+        "x": 1260,
+        "y": 82.3308,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_23",
+                170
+            ],
+            [
+                "av-5-1-atresol_19",
+                170
+            ],
+            [
+                "av-5104",
+                47.67
+            ]
+        ]
+    },
+    {
+        "id": "av-5103",
+        "x": 1090,
+        "y": 130,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-5-1-atresol_23",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_23",
+        "x": 1090,
+        "y": 82,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_25",
+                180
+            ],
+            [
+                "av-5-1-atresol_21",
+                170
+            ],
+            [
+                "av-5103",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1",
+        "x": 910,
+        "y": 130,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-5-1-atresol_25",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_25",
+        "x": 910,
+        "y": 82,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_5",
+                180
+            ],
+            [
+                "av-5-1-atresol_23",
+                180
+            ],
+            [
+                "av-5-1",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_26",
+        "x": 610,
+        "y": 172,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_28",
+                110
+            ],
+            [
+                "av-5-1-atresol_2",
+                120
+            ],
+            [
+                "av-5101A",
+                38
+            ]
+        ]
+    },
+    {
+        "id": "av-5101A",
+        "x": 610,
+        "y": 210,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-5-1-atresol_26",
+                38
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_28",
+        "x": 500,
+        "y": 172,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_31",
+                220
+            ],
+            [
+                "av-5-1-atresol_26",
+                110
+            ],
+            [
+                "av-5101",
+                38
+            ]
+        ]
+    },
+    {
+        "id": "av-5101",
+        "x": 500,
+        "y": 210,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-5-1-atresol_28",
+                38
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol-lift",
+        "x": 280,
+        "y": 110,
+        "type": "lift",
+        "neighborData": [
+            [
+                "av-5-1-atresol_31",
+                62
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_31",
+        "x": 280,
+        "y": 172,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_32",
+                190
+            ],
+            [
+                "av-5-1-atresol_28",
+                220
+            ],
+            [
+                "av-5-1-atresol-lift",
+                62
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_32",
+        "x": 90,
+        "y": 172,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_34",
+                30
+            ],
+            [
+                "av-5-1-atresol_31",
+                190
+            ],
+            [
+                "av-5100",
+                28
+            ]
+        ]
+    },
+    {
+        "id": "av-5100",
+        "x": 90,
+        "y": 200,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-5-1-atresol_32",
+                28
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_34",
+        "x": 60,
+        "y": 172,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol_0",
+                39
+            ],
+            [
+                "av-5-1-atresol_32",
+                30
+            ],
+            [
+                "av-5-1-atresol-stair-1",
+                92
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol-stair-1",
+        "x": 60,
+        "y": 80,
+        "type": "stair",
+        "neighborData": [
+            [
+                "av-5-1-atresol_34",
+                92
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_36",
+        "x": 1865,
+        "y": 683,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol-stair2",
+                1
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol-stair2",
+        "x": 1865,
+        "y": 684,
+        "type": "stair",
+        "neighborData": [
+            [
+                "av-5-1-atresol_36",
+                1
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol_38",
+        "x": 1579,
+        "y": 634,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-5-1-atresol-stair",
+                1
+            ]
+        ]
+    },
+    {
+        "id": "av-5-1-atresol-stair",
+        "x": 1579,
+        "y": 635,
+        "type": "stair",
+        "neighborData": [
+            [
+                "av-5-1-atresol_38",
+                1
+            ]
+        ]
+    }
+],
+    "spaces": []
+}
