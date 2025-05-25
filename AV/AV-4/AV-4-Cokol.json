@@ -1,0 +1,1170 @@
+{
+    "planName": "AV-4-Cokol",
+    "svgLink": "/AV/AV-4/AV-4-Cokol.svg",
+    "campus": "AV",
+    "corpus": "AV-4",
+    "floor": 0,
+    "entrances": 
+[
+    [
+        "av-4-0-stair-1",
+        "15"
+    ],
+    [
+        "av-4-1-lift-right-1",
+        "30"
+    ],
+    [
+        "av-4-1-lift-right-2",
+        "31"
+    ],
+    [
+        "av-4-1-lift-right-3",
+        "32"
+    ],
+    [
+        "av-4006",
+        "13"
+    ],
+    [
+        "av-4-0-stair-4",
+        "14"
+    ],
+    [
+        "av-4-0-wcw",
+        "20"
+    ],
+    [
+        "av-4005",
+        "21"
+    ],
+    [
+        "av-4004",
+        "22"
+    ],
+    [
+        "av-4-0-stair-6",
+        "10"
+    ],
+    [
+        "gard",
+        "24"
+    ],
+    [
+        "av-4002",
+        "23"
+    ],
+    [
+        "av-4009",
+        "5"
+    ],
+    [
+        "av-4-0-stair-5",
+        "4"
+    ],
+    [
+        "av-4-0-wcm",
+        "3"
+    ],
+    [
+        "av-4010",
+        "2"
+    ],
+    [
+        "av-4-0-stair-2",
+        "25"
+    ]
+],
+    "graph": 
+   [
+    {
+        "id": "av-4-cokol_0",
+        "x": 1511,
+        "y": 414,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_1",
+                181
+            ],
+            [
+                "av-4-0-stair-4",
+                32.2
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_1",
+        "x": 1511,
+        "y": 595,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_0",
+                181
+            ]
+        ]
+    },
+    {
+        "id": "av-4-0-stair-4",
+        "x": 1485,
+        "y": 395,
+        "type": "stair",
+        "neighborData": [
+            [
+                "av-4-cokol_0",
+                32.2
+            ],
+            [
+                "av-4-cokol_12",
+                56
+            ]
+        ]
+    },
+    {
+        "id": "gard",
+        "x": 612,
+        "y": 305,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-4-cokol_4",
+                34
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_4",
+        "x": 612,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_41",
+                162
+            ],
+            [
+                "av-4-cokol_24",
+                417
+            ],
+            [
+                "gard",
+                34
+            ]
+        ]
+    },
+    {
+        "id": "av-4-0-stair-2",
+        "x": 110,
+        "y": 305,
+        "type": "stair",
+        "neighborData": [
+            [
+                "av-4-cokol_6",
+                35
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_6",
+        "x": 110,
+        "y": 340,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_9",
+                74.01
+            ],
+            [
+                "av-4-0-stair-2",
+                35
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_7",
+        "x": 185,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_9",
+                1
+            ],
+            [
+                "av-4-cokol_49",
+                64
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_8",
+        "x": 1496,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_12",
+                11
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_9",
+        "x": 184,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_7",
+                1
+            ],
+            [
+                "av-4-cokol_6",
+                74.01
+            ]
+        ]
+    },
+    {
+        "id": "av-4-0-stair-1",
+        "x": 1483,
+        "y": 100,
+        "type": "stair",
+        "neighborData": [
+            [
+                "av-4-cokol_33",
+                54
+            ],
+            [
+                "av-4-cokol_26",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_11",
+        "x": 1483,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_13",
+                93
+            ],
+            [
+                "av-4-cokol_12",
+                2
+            ],
+            [
+                "av-4-cokol_30",
+                62
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_12",
+        "x": 1485,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_11",
+                2
+            ],
+            [
+                "av-4-cokol_8",
+                11
+            ],
+            [
+                "av-4-0-stair-4",
+                56
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_13",
+        "x": 1390,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_15",
+                60
+            ],
+            [
+                "av-4-cokol_11",
+                93
+            ],
+            [
+                "av-4006",
+                56
+            ]
+        ]
+    },
+    {
+        "id": "av-4006",
+        "x": 1390,
+        "y": 395,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-4-cokol_13",
+                56
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_15",
+        "x": 1330,
+        "y": 338.882,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_18",
+                43
+            ],
+            [
+                "av-4-cokol_13",
+                60
+            ],
+            [
+                "av-4007",
+                56.12
+            ]
+        ]
+    },
+    {
+        "id": "av-4007",
+        "x": 1330,
+        "y": 395,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-4-cokol_15",
+                56.12
+            ]
+        ]
+    },
+    {
+        "id": "av-4-0-wcw",
+        "x": 1287,
+        "y": 305,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-4-cokol_18",
+                34
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_18",
+        "x": 1287,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_20",
+                91
+            ],
+            [
+                "av-4-cokol_15",
+                43
+            ],
+            [
+                "av-4-0-wcw",
+                34
+            ]
+        ]
+    },
+    {
+        "id": "av-4005",
+        "x": 1196,
+        "y": 305,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-4-cokol_20",
+                34
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_20",
+        "x": 1196,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_21",
+                68
+            ],
+            [
+                "av-4-cokol_18",
+                91
+            ],
+            [
+                "av-4005",
+                34
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_21",
+        "x": 1128,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_22",
+                56
+            ],
+            [
+                "av-4-cokol_24",
+                99
+            ],
+            [
+                "av-4-cokol_20",
+                68
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_22",
+        "x": 1128,
+        "y": 395,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_21",
+                56
+            ],
+            [
+                "av-4-cokol_69",
+                49.19
+            ]
+        ]
+    },
+    {
+        "id": "av-4004",
+        "x": 1029,
+        "y": 305,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-4-cokol_24",
+                34
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_24",
+        "x": 1029,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_4",
+                417
+            ],
+            [
+                "av-4-cokol_21",
+                99
+            ],
+            [
+                "av-4004",
+                34
+            ]
+        ]
+    },
+    {
+        "id": "av-4-1-lift-right-1",
+        "x": 1430,
+        "y": 148,
+        "type": "lift",
+        "neighborData": [
+            [
+                "av-4-cokol_26",
+                53
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_26",
+        "x": 1483,
+        "y": 148,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_28",
+                67
+            ],
+            [
+                "av-4-1-lift-right-1",
+                53
+            ],
+            [
+                "av-4-0-stair-1",
+                48
+            ]
+        ]
+    },
+    {
+        "id": "av-4-1-lift-right-2",
+        "x": 1430,
+        "y": 215,
+        "type": "lift",
+        "neighborData": [
+            [
+                "av-4-cokol_28",
+                53
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_28",
+        "x": 1483,
+        "y": 215,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_26",
+                67
+            ],
+            [
+                "av-4-cokol_30",
+                62
+            ],
+            [
+                "av-4-1-lift-right-2",
+                53
+            ]
+        ]
+    },
+    {
+        "id": "av-4-1-lift-right-3",
+        "x": 1430,
+        "y": 277,
+        "type": "lift",
+        "neighborData": [
+            [
+                "av-4-cokol_30",
+                53
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_30",
+        "x": 1483,
+        "y": 277,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_28",
+                62
+            ],
+            [
+                "av-4-cokol_11",
+                62
+            ],
+            [
+                "av-4-1-lift-right-3",
+                53
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_31",
+        "x": 1340,
+        "y": 46,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_33",
+                143
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_32",
+        "x": 1489,
+        "y": 46,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_33",
+                6
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_33",
+        "x": 1483,
+        "y": 46,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_31",
+                143
+            ],
+            [
+                "av-4-cokol_32",
+                6
+            ],
+            [
+                "av-4-0-stair-1",
+                54
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_34",
+        "x": 1631,
+        "y": 100,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_35",
+                2
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_35",
+        "x": 1631,
+        "y": 98,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_34",
+                2
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_36",
+        "x": 1638,
+        "y": 595,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_37",
+                1
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_37",
+        "x": 1638,
+        "y": 596,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_36",
+                1
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_38",
+        "x": 1470,
+        "y": 594,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_39",
+                1
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_39",
+        "x": 1470,
+        "y": 595,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_38",
+                1
+            ]
+        ]
+    },
+    {
+        "id": "av-4002",
+        "x": 450,
+        "y": 305,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-4-cokol_41",
+                34
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_41",
+        "x": 450,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_46",
+                10
+            ],
+            [
+                "av-4-cokol_4",
+                162
+            ],
+            [
+                "av-4002",
+                34
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_42",
+        "x": 441.165,
+        "y": 418,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_45",
+                0.83
+            ],
+            [
+                "av-4-0-stair-5",
+                23.03
+            ]
+        ]
+    },
+    {
+        "id": "av-4009",
+        "x": 486,
+        "y": 418,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-4-cokol_45",
+                44
+            ]
+        ]
+    },
+    {
+        "id": "av-4-0-stair-5",
+        "x": 440,
+        "y": 395,
+        "type": "stair",
+        "neighborData": [
+            [
+                "av-4-cokol_46",
+                56
+            ],
+            [
+                "av-4-cokol_42",
+                23.03
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_45",
+        "x": 442,
+        "y": 418,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_42",
+                0.83
+            ],
+            [
+                "av-4009",
+                44
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_46",
+        "x": 440,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_47",
+                83
+            ],
+            [
+                "av-4-cokol_41",
+                10
+            ],
+            [
+                "av-4-0-stair-5",
+                56
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_47",
+        "x": 357,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_52",
+                18
+            ],
+            [
+                "av-4-cokol_46",
+                83
+            ],
+            [
+                "av-4-0-wcm",
+                56
+            ]
+        ]
+    },
+    {
+        "id": "av-4-0-wcm",
+        "x": 357,
+        "y": 395,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-4-cokol_47",
+                56
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_49",
+        "x": 249,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_7",
+                64
+            ],
+            [
+                "av-4-cokol_52",
+                90
+            ],
+            [
+                "av-4010",
+                55
+            ]
+        ]
+    },
+    {
+        "id": "av-4010",
+        "x": 249,
+        "y": 394,
+        "type": "entrancesToAu",
+        "neighborData": [
+            [
+                "av-4-cokol_49",
+                55
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_51",
+        "x": 339,
+        "y": 113,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_54",
+                23
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_52",
+        "x": 339,
+        "y": 339,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_49",
+                90
+            ],
+            [
+                "av-4-cokol_47",
+                18
+            ],
+            [
+                "av-4-cokol_58",
+                74
+            ]
+        ]
+    },
+    {
+        "id": "av-4-0-lift-left-1",
+        "x": 285,
+        "y": 136,
+        "type": "lift",
+        "neighborData": [
+            [
+                "av-4-cokol_54",
+                54
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_54",
+        "x": 339,
+        "y": 136,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_51",
+                23
+            ],
+            [
+                "av-4-cokol_56",
+                66
+            ],
+            [
+                "av-4-0-lift-left-1",
+                54
+            ]
+        ]
+    },
+    {
+        "id": "av-4-0-lift-left-2",
+        "x": 285,
+        "y": 202,
+        "type": "lift",
+        "neighborData": [
+            [
+                "av-4-cokol_56",
+                54
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_56",
+        "x": 339,
+        "y": 202,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_54",
+                66
+            ],
+            [
+                "av-4-cokol_58",
+                63
+            ],
+            [
+                "av-4-0-lift-left-2",
+                54
+            ]
+        ]
+    },
+    {
+        "id": "av-4-0-lift-left-3",
+        "x": 285,
+        "y": 265,
+        "type": "lift",
+        "neighborData": [
+            [
+                "av-4-cokol_58",
+                54
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_58",
+        "x": 339,
+        "y": 265,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_56",
+                63
+            ],
+            [
+                "av-4-cokol_52",
+                74
+            ],
+            [
+                "av-4-0-lift-left-3",
+                54
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_59",
+        "x": 710,
+        "y": 549,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_62",
+                113
+            ],
+            [
+                "av-4-0-stair-6",
+                46
+            ]
+        ]
+    },
+    {
+        "id": "av-4-0-stair-6",
+        "x": 710,
+        "y": 595,
+        "type": "stair",
+        "neighborData": [
+            [
+                "av-4-cokol_59",
+                46
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_61",
+        "x": 710,
+        "y": 434,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_62",
+                2
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_62",
+        "x": 710,
+        "y": 436,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_61",
+                2
+            ],
+            [
+                "av-4-cokol_59",
+                113
+            ],
+            [
+                "av-4-cokol_64",
+                214.05
+            ]
+        ]
+    },
+    {
+        "id": "av-4008",
+        "x": 1060,
+        "y": 444,
+        "type": "crossingSpace",
+        "neighborData": [
+            [
+                "av-4-cokol_66",
+                36.01
+            ],
+            [
+                "av-4-cokol_69",
+                68
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_64",
+        "x": 924,
+        "y": 440.776,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_65",
+                69.22
+            ],
+            [
+                "av-4-cokol_62",
+                214.05
+            ],
+            [
+                "av-4-cokol_66",
+                100.02
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_65",
+        "x": 924,
+        "y": 510,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_64",
+                69.22
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_66",
+        "x": 1024,
+        "y": 443,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_67",
+                19
+            ],
+            [
+                "av-4-cokol_64",
+                100.02
+            ],
+            [
+                "av-4008",
+                36.01
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_67",
+        "x": 1024,
+        "y": 462,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_66",
+                19
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_68",
+        "x": 1132,
+        "y": 444,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_69",
+                4
+            ]
+        ]
+    },
+    {
+        "id": "av-4-cokol_69",
+        "x": 1128,
+        "y": 444.19,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-cokol_22",
+                49.19
+            ],
+            [
+                "av-4-cokol_68",
+                4
+            ],
+            [
+                "av-4008",
+                68
+            ]
+        ]
+    }
+],
+    "spaces": []
+}

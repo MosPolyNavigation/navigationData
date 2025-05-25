@@ -1,0 +1,286 @@
+{
+    "planName": "AV-4-3",
+    "svgLink": "/AV/AV-4/AV-4-3.svg",
+    "campus": "AV",
+    "corpus": "AV-4",
+    "floor": 0,
+    "entrances": 
+[
+    [
+        "av-4-3-stair-2",
+        "21_2"
+    ],
+    [
+        "av-4-3-stair-1",
+        "21"
+    ]
+],
+    "graph": 
+   [
+    {
+        "id": "av-4-3_0",
+        "x": 475,
+        "y": 384,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-3-stair-1",
+                13
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3-stair-1",
+        "x": 475,
+        "y": 397,
+        "type": "stair",
+        "neighborData": [
+            [
+                "av-4-3_0",
+                13
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3_2",
+        "x": 1577,
+        "y": 384,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-3-stair-2",
+                13
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3-stair-2",
+        "x": 1577,
+        "y": 397,
+        "type": "stair",
+        "neighborData": [
+            [
+                "av-4-3_2",
+                13
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3-lift-right-1",
+        "x": 1515,
+        "y": 68,
+        "type": "lift",
+        "neighborData": [
+            [
+                "av-4-3_5",
+                55
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3_5",
+        "x": 1570,
+        "y": 68,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-3_8",
+                66
+            ],
+            [
+                "av-4-3-lift-right-1",
+                55
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3_6",
+        "x": 1570,
+        "y": 280,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-3_11",
+                1194
+            ],
+            [
+                "av-4-3_10",
+                84
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3-lift-right-2",
+        "x": 1515,
+        "y": 134,
+        "type": "lift",
+        "neighborData": [
+            [
+                "av-4-3_8",
+                55
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3_8",
+        "x": 1570,
+        "y": 134,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-3_5",
+                66
+            ],
+            [
+                "av-4-3_10",
+                62
+            ],
+            [
+                "av-4-3-lift-right-2",
+                55
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3-lift-right-3",
+        "x": 1515,
+        "y": 196,
+        "type": "lift",
+        "neighborData": [
+            [
+                "av-4-3_10",
+                55
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3_10",
+        "x": 1570,
+        "y": 196,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-3_8",
+                62
+            ],
+            [
+                "av-4-3_6",
+                84
+            ],
+            [
+                "av-4-3-lift-right-3",
+                55
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3_11",
+        "x": 376,
+        "y": 280,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-3_6",
+                1194
+            ],
+            [
+                "av-4-3_17",
+                84
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3-lift-left-1",
+        "x": 329,
+        "y": 63,
+        "type": "lift",
+        "neighborData": [
+            [
+                "av-4-3_13",
+                47
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3_13",
+        "x": 376,
+        "y": 63,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-3_15",
+                68
+            ],
+            [
+                "av-4-3-lift-left-1",
+                47
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3-lift-left-2",
+        "x": 329,
+        "y": 131,
+        "type": "lift",
+        "neighborData": [
+            [
+                "av-4-3_15",
+                47
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3_15",
+        "x": 376,
+        "y": 131,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-3_13",
+                68
+            ],
+            [
+                "av-4-3_17",
+                65
+            ],
+            [
+                "av-4-3-lift-left-2",
+                47
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3-lift-left-3",
+        "x": 329,
+        "y": 196,
+        "type": "lift",
+        "neighborData": [
+            [
+                "av-4-3_17",
+                47
+            ]
+        ]
+    },
+    {
+        "id": "av-4-3_17",
+        "x": 376,
+        "y": 196,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-4-3_15",
+                65
+            ],
+            [
+                "av-4-3_11",
+                84
+            ],
+            [
+                "av-4-3-lift-left-3",
+                47
+            ]
+        ]
+    }
+],
+    "spaces": []
+}
