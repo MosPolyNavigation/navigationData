@@ -1,5 +1,5 @@
 <svg width="1914" height="535" viewBox="0 0 1914 535" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="AV-4-1" clip-path="url(#clip0_3_359)">
+<g id="AV-4-1" clip-path="url(#clip0_70_4571)">
 <g id="Spaces">
 <path id="av-4110" d="M405 310H305V490H285L260 530H405V310Z" fill="#3B3C41"/>
 <path id="av-4109" d="M705 310H605V505H705V310Z" fill="#3B3C41"/>
@@ -13,9 +13,9 @@
 <path id="av-4102" d="M1095 5H705V210H1095V5Z" fill="#3B3C41"/>
 <path id="av-4101" d="M505 210H705V5H505V210Z" fill="#3B3C41"/>
 <path id="!av-4-1-techroom" d="M1505 5H1405V210H1505V5Z" fill="#3B3C41"/>
-<path id="av-4-0-lift-left-3" opacity="0.2" d="M310 210V150H395V210H310Z" fill="#A091F8"/>
-<path id="av-4-0-lift-left-2" opacity="0.2" d="M310 145V85H395V145H310Z" fill="#A091F8"/>
-<path id="av-4-0-lift-left-1" opacity="0.2" d="M310 85V20H395V85H310Z" fill="#A091F8"/>
+<path id="av-4-1-lift-left-3" opacity="0.2" d="M310 210V150H395V210H310Z" fill="#A091F8"/>
+<path id="av-4-1-lift-left-2" opacity="0.2" d="M310 145V85H395V145H310Z" fill="#A091F8"/>
+<path id="av-4-1-lift-left-1" opacity="0.2" d="M310 85V20H395V85H310Z" fill="#A091F8"/>
 <path id="av-4-1-stair-left-1" opacity="0.2" d="M5 5H310V405H5V5Z" fill="#9CD9BC"/>
 <path id="av-4-1-stair-left" opacity="0.2" d="M605 310H505V505H605V310Z" fill="#9CD9BC"/>
 <path id="av-4-1-wcm" opacity="0.2" d="M505 310H405V530H480L505 505V310Z" fill="#9CBBFF"/>
@@ -30,7 +30,7 @@
 <path id="Subtract_3" d="M448 363H405V357H442V350H448V363ZM448 320H442V310H448V320Z" fill="#A5A5A7"/>
 <path id="Subtract_4" d="M352 409H305V403H352V409ZM405 409H382V403H405V409Z" fill="#A5A5A7"/>
 <path id="Subtract_5" d="M369 495H305V489H369V495ZM405 495H399V489H405V495Z" fill="#A5A5A7"/>
-<g id="Vector 20" filter="url(#filter0_d_3_359)">
+<g id="Vector 20" filter="url(#filter0_d_70_4571)">
 <path d="M405 530V310" stroke="#D9D9D9" stroke-width="10"/>
 </g>
 <path id="Vector 19" d="M1604 310V505" stroke="#D9D9D9" stroke-width="10"/>
@@ -74,28 +74,25 @@
 <g id="Entrances">
 <circle id="23" cx="475" cy="310" r="10" fill="#9CBBFF"/>
 <circle id="24" cx="375" cy="310" r="10" fill="#9CBBFF"/>
-<circle id="10" cx="1445" cy="210" r="10" fill="#9CBBFF"/>
 <circle id="3" cx="395" cy="115" r="10" fill="#9CBBFF"/>
 <circle id="4" cx="395" cy="50" r="10" fill="#9CBBFF"/>
 <circle id="2" cx="395" cy="180" r="10" fill="#9CBBFF"/>
 <circle id="12" cx="1595" cy="115" r="10" fill="#9CBBFF"/>
 <circle id="13" cx="1595" cy="50" r="10" fill="#9CBBFF"/>
 <circle id="11" cx="1595" cy="180" r="10" fill="#9CBBFF"/>
-<circle id="14" cx="1705" cy="255" r="10" fill="#9CBBFF"/>
-<circle id="15" cx="1655" cy="310" r="10" fill="#9CBBFF"/>
+<circle id="27" cx="1655" cy="367" r="10" fill="#9CBBFF"/>
 <circle id="16" cx="1555" cy="310" r="10" fill="#9CBBFF"/>
-<circle id="17" cx="1375" cy="310" r="10" fill="#9CBBFF"/>
 <circle id="18" cx="1260" cy="310" r="10" fill="#9CBBFF"/>
 <circle id="19" cx="1150" cy="310" r="10" fill="#9CBBFF"/>
 <circle id="20" cx="1040" cy="310" r="10" fill="#9CBBFF"/>
 <circle id="21" cx="655" cy="310" r="10" fill="#9CBBFF"/>
 <circle id="5" cx="630" cy="210" r="10" fill="#9CBBFF"/>
-<circle id="22" cx="555" cy="310" r="10" fill="#9CBBFF"/>
+<circle id="26" cx="555" cy="369" r="10" fill="#9CBBFF"/>
 <circle id="6" cx="775" cy="210" r="10" fill="#9CBBFF"/>
 <circle id="7" cx="1155" cy="210" r="10" fill="#9CBBFF"/>
 <circle id="8" cx="1240" cy="210" r="10" fill="#9CBBFF"/>
 <circle id="9" cx="1350" cy="210" r="10" fill="#9CBBFF"/>
-<circle id="1" cx="310" cy="258" r="10" fill="#9CBBFF"/>
+<circle id="25" cx="157" cy="258" r="10" fill="#9CBBFF"/>
 </g>
 <g id="Icons">
 <g id="Men">
@@ -190,17 +187,17 @@
 </g>
 </g>
 <defs>
-<filter id="filter0_d_3_359" x="396" y="310" width="18" height="228" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_70_4571" x="396" y="310" width="18" height="228" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="4"/>
 <feGaussianBlur stdDeviation="2"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_3_359"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_3_359" result="shape"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_70_4571"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_70_4571" result="shape"/>
 </filter>
-<clipPath id="clip0_3_359">
+<clipPath id="clip0_70_4571">
 <rect width="1914" height="535" fill="white"/>
 </clipPath>
 </defs>
