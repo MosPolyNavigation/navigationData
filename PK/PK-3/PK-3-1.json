@@ -43,7 +43,7 @@
               "10"
       ],
       [
-              "pk-306",
+              "pk-306_razdevalka",
               "11"
       ],
       [
@@ -432,13 +432,13 @@
                   140
               ],
               [
-                  "pk-306",
+                  "pk-306_razdevalka",
                   49
               ]
           ]
       },
       {
-          "id": "pk-306",
+          "id": "pk-306_razdevalka",
           "x": 1655,
           "y": 1370,
           "type": "entrancesToAu",

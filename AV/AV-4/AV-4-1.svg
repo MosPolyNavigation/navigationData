@@ -19,9 +19,9 @@
 <path id="av-4-1-stair-left-1" opacity="0.2" d="M5 5H310V405H5V5Z" fill="#9CD9BC"/>
 <path id="av-4-1-stair-left" opacity="0.2" d="M605 310H505V505H605V310Z" fill="#9CD9BC"/>
 <path id="av-4-1-wcm" opacity="0.2" d="M505 310H405V530H480L505 505V310Z" fill="#9CBBFF"/>
-<path id="av-4-1-lift-right-3" opacity="0.2" d="M1595 151H1505V211H1595V151Z" fill="#A091F8"/>
-<path id="av-4-1-lift-right-2" opacity="0.2" d="M1505 80V145H1595V80H1505Z" fill="#A091F8"/>
-<path id="av-4-1-lift-right-1" opacity="0.2" d="M1595 5H1505V80H1595V5Z" fill="#A091F8"/>
+<path id="av-4-1-lift-right-3-1" opacity="0.2" d="M1595 151H1505V211H1595V151Z" fill="#A091F8"/>
+<path id="av-4-1-lift-right-2-1" opacity="0.2" d="M1505 80V145H1595V80H1505Z" fill="#A091F8"/>
+<path id="av-4-1-lift-right-1-1" opacity="0.2" d="M1595 5H1505V80H1595V5Z" fill="#A091F8"/>
 <path id="av-4-1-stair-right" opacity="0.2" d="M1605 310H1705V505H1605V310Z" fill="#9CD9BC"/>
 </g>
 <g id="Walls">

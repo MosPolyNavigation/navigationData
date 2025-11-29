@@ -1,7 +1,7 @@
 <svg width="2230" height="1200" viewBox="0 0 2230 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="PR-2-7">
 <g id="Spaces">
-<path id="!pr-u" d="M103 5H5V200H103V5Z" fill="#3B3C41"/>
+<path id="!pr-u-2-7" d="M103 5H5V200H103V5Z" fill="#3B3C41"/>
 <path id="!pr-u_2" d="M201 5H103V200H201V5Z" fill="#3B3C41"/>
 <path id="!pr-2705" d="M1000 6H201V251H1000V6Z" fill="#3B3C41"/>
 <path id="pr-2706" d="M1184 5H1000V199H1184V5Z" fill="#3B3C41"/>
@@ -16,8 +16,8 @@
 <path id="pr-2-7-stair-right" opacity="0.2" d="M2027 1036.5L1879.5 891L1815 954.782L1730 1039.49L1875 1184L2027 1036.5Z" fill="#9CD9BC"/>
 <path id="pr-2712" d="M1728.5 782L1601 909L1731 1039L1861 909L1728.5 782Z" fill="#3B3C41"/>
 <path id="pr-2703" d="M1449 504L1321 632L1599 911L1729 782L1449 504Z" fill="#3B3C41"/>
-<path id="pr-2-1-lift-1" opacity="0.2" d="M1350 90H1260V160H1320L1350 90Z" fill="#A091F8"/>
-<path id="pr-2-1-lift-2" opacity="0.2" d="M1409.5 149.5L1350 90L1319.5 159.5L1360 201L1409.5 149.5Z" fill="#A091F8"/>
+<path id="pr-2-7-lift-1" opacity="0.2" d="M1350 90H1260V160H1320L1350 90Z" fill="#A091F8"/>
+<path id="pr-2-7-lift-2" opacity="0.2" d="M1409.5 149.5L1350 90L1319.5 159.5L1360 201L1409.5 149.5Z" fill="#A091F8"/>
 <path id="pr-2-7-stair-center" opacity="0.2" d="M1180 161H1260.23V91H1350.49L1410.66 151L1360.51 201L1417.5 258L1529.5 149L1470.83 91L1385.59 6H1180V161Z" fill="#9CD9BC"/>
 </g>
 <g id="Walls">

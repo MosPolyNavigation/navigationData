@@ -18,7 +18,7 @@
 <path id="pr-2-2-lift" opacity="0.2" d="M1358 91H1268V161H1328L1368 201L1418 151L1358 91Z" fill="#A091F8"/>
 <path id="pr-2202b" d="M1672.68 286L1538 421L1614.32 498L1681.66 430.5L1749 362.5L1672.68 286Z" fill="#3B3C41"/>
 <rect id="pr-2208" x="438" y="6" width="350" height="195" fill="#3B3C41"/>
-<rect id="pr-2507" x="208" y="6" width="230" height="195" fill="#3B3C41"/>
+<rect id="pr-2207" x="208" y="6" width="230" height="195" fill="#3B3C41"/>
 </g>
 <g id="Walls">
 <path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M1654.88 849.879L1596.88 907.879L1601.12 912.121L1659.12 854.121L1654.88 849.879ZM1676.09 828.665L1680.33 832.908L1731.12 782.121L1726.88 777.879L1676.09 828.665Z" fill="#A5A5A7"/>

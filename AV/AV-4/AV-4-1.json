@@ -55,15 +55,15 @@
         "9"
     ],
     [
-        "av-4-1-lift-right-1",
+        "av-4-1-lift-right-1-1",
         "13"
     ],
     [
-        "av-4-1-lift-right-2",
+        "av-4-1-lift-right-2-1",
         "12"
     ],
     [
-        "av-4-1-lift-right-3",
+        "av-4-1-lift-right-3-1",
         "11"
     ],
     [
@@ -714,7 +714,7 @@
         ]
     },
     {
-        "id": "av-4-1-lift-right-1",
+        "id": "av-4-1-lift-right-1-1",
         "x": 1595,
         "y": 50,
         "type": "lift",
@@ -740,13 +740,13 @@
                 65
             ],
             [
-                "av-4-1-lift-right-1",
+                "av-4-1-lift-right-1-1",
                 45
             ]
         ]
     },
     {
-        "id": "av-4-1-lift-right-2",
+        "id": "av-4-1-lift-right-2-1",
         "x": 1595,
         "y": 115,
         "type": "lift",
@@ -772,13 +772,13 @@
                 140
             ],
             [
-                "av-4-1-lift-right-2",
+                "av-4-1-lift-right-2-1",
                 45
             ]
         ]
     },
     {
-        "id": "av-4-1-lift-right-3",
+        "id": "av-4-1-lift-right-3-1",
         "x": 1595,
         "y": 180,
         "type": "lift",
@@ -800,7 +800,7 @@
                 75
             ],
             [
-                "av-4-1-lift-right-3",
+                "av-4-1-lift-right-3-1",
                 45.13
             ]
         ]

@@ -6,7 +6,7 @@
 <path id="!m-sport-1-lockerroom-w-students" d="M1000 5V260H1180V5H1000Z" fill="#3B3C41"/>
 <path id="!m-sport-1-methodicalstudy" d="M190 5V260H5V5H190Z" fill="#3B3C41"/>
 <path id="!m-sport-1-utilityroom" d="M190 350H5V430H190V350Z" fill="#3B3C41"/>
-<path id="!m-sport-1-security" d="M1180 350H1000V430H1180V350Z" fill="#3B3C41"/>
+<path id="!m-sport-1-methodicalstudy" d="M1180 350H1000V430H1180V350Z" fill="#3B3C41"/>
 </g>
 <g id="Walls">
 <path id="Vector 4" d="M5 260H190" stroke="#D9D9D9" stroke-width="10"/>

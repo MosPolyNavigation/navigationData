@@ -14,8 +14,8 @@
 <rect id="v-302" x="5" y="265" width="120" height="105" fill="#3B3C41"/>
 <rect id="v-301" x="5" y="443" width="200" height="122" fill="#3B3C41"/>
 <rect id="v-3-crossing-a" opacity="0.01" y="370" width="115" height="72" fill="#9CD9BC"/>
-<rect id="!v-1-u2" x="325" y="275" width="105" height="240" fill="#3B3C41"/>
-<rect id="!v-1-u1" x="980" y="275" width="105" height="240" fill="#3B3C41"/>
+<rect id="!v-1-u2-v-3" x="325" y="275" width="105" height="240" fill="#3B3C41"/>
+<rect id="!v-1-u1-v-3" x="980" y="275" width="105" height="240" fill="#3B3C41"/>
 <rect id="v-3-stair-2" opacity="0.2" x="1085" y="315" width="110" height="250" fill="#9CD9BC"/>
 <rect id="v-3-stair-1" opacity="0.2" x="205" y="325" width="120" height="240" fill="#9CD9BC"/>
 </g>

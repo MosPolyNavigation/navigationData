@@ -11,7 +11,7 @@
 <path id="m-sport-1-lockerroom-teachers1" d="M425 170H320V280H425V170Z" fill="#3B3C41"/>
 <path id="m-sport-1-teachingroom" d="M425 5H190V170H425V5Z" fill="#3B3C41"/>
 <path id="m-sport-1-methodicalstudy" d="M190 5V215H150V160H80V260H5V5H190Z" fill="#3B3C41"/>
-<path id="!m-sport-1-utilityroom" d="M190 350H5V430H190V350Z" fill="#3B3C41"/>
+<path id="!m-sport-1-podsobka" d="M190 350H5V430H190V350Z" fill="#3B3C41"/>
 <path id="!m-sport-1-security" d="M1180 350H1000V430H1180V350Z" fill="#3B3C41"/>
 <path id="m-sport-1-sportdancehall" d="M425 280V5H780V280H425Z" fill="#3B3C41"/>
 <rect id="m-sport-1-enter" opacity="0.2" x="550" y="430" width="130" height="95" fill="#9CD9BC"/>
