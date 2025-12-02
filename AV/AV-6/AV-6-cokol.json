@@ -1,0 +1,90 @@
+{
+    "planName": "AV-6-cokol",
+    "svgLink": "/AV/AV-6/AV-6-cokol.svg",
+    "campus": "AV",
+    "corpus": "AV-6",
+    "floor": 0,
+    "entrances": 
+    [
+    [
+        "av-6-cokol-stair-1",
+        "4"
+    ]
+    ],
+    "graph": 
+    [
+    {
+        "id": "av-6-cokol-stair-2",
+        "x": 175,
+        "y": 316,
+        "type": "stair",
+        "neighborData": [
+            [
+                "av-6-cokol_1",
+                674
+            ]
+        ]
+    },
+    {
+        "id": "av-6-cokol_1",
+        "x": 849,
+        "y": 316,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-6-cokol_2",
+                246
+            ],
+            [
+                "av-6-cokol-stair-2",
+                674
+            ]
+        ]
+    },
+    {
+        "id": "av-6-cokol_2",
+        "x": 849,
+        "y": 562,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-6-cokol_1",
+                246
+            ],
+            [
+                "av-6-cokol_3",
+                467
+            ]
+        ]
+    },
+    {
+        "id": "av-6-cokol_3",
+        "x": 1316,
+        "y": 562,
+        "type": "hallway",
+        "neighborData": [
+            [
+                "av-6-cokol_2",
+                467
+            ],
+            [
+                "av-6-cokol-stair-1",
+                82
+            ]
+        ]
+    },
+    {
+        "id": "av-6-cokol-stair-1",
+        "x": 1316,
+        "y": 480,
+        "type": "stair",
+        "neighborData": [
+            [
+                "av-6-cokol_3",
+                82
+            ]
+        ]
+    }
+],
+    "spaces": []
+}

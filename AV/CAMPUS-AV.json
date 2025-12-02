@@ -56,6 +56,19 @@
                 ["av-5-1-stair-1","av-5-1-atresol-stair-1","av-5-2-stair-1","av-5-3-stair-1","av-5-4-stair-1","av-5-5-stair-1"],
                 ["av-5-1-stair-2","av-5-1-atresol-stair-2","av-5-2-stair-2","av-5-3-stair-2","av-5-4-stair-2","av-5-5-stair-2"]
             ]
+        },
+        "AV-6": {
+            "rusName": "6",
+            "planLinks": [
+                "/AV/AV-6/AV-6-cokol.json",
+                "/AV/AV-6/AV-6-1.json",
+                "/AV/AV-6/AV-6-2.json",
+                "/AV/AV-6/AV-6-3.json"
+            ],
+            "stairsGroups": [
+                ["av-6-cokol-stair-1","av-6-1-strair-2","av-6-2-stair-2","av-6-3-stair-2"],
+                ["av-6-cokol-stair-2","av-6-1-stair-1","av-6-2-stair-1","av-6-3-stair-1"]
+            ]
         }
         },
         "crossings": [
